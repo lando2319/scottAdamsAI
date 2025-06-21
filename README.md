@@ -1,3 +1,38 @@
+# Scott Adams AI
+
+Forked from https://github.com/riskbender/scott-ai-dams
+
+- Repositry for data
+   - cwsa
+   - old blog posts
+- Clientside reactJS app
+- Functions for serverside
+- Backend for running AI from a file
+
+# Wanted Info
+
+- locals (if possible)
+If there is something publically available
+
+- tweets
+
+- periscopes 
+
+apparently if know the url it's accessible
+https://x.com/Drangula/status/1924636858677338527
+
+if we have a range or something, maybe we can iterate to find them all
+
+- interviews on youtube
+
+- I added the old blog from 2007-2008, is there a new one?
+
+- articles in media (opeds, interview, guest blog posts)
+
+Below is the original README.md
+
+---
+
 # Coffee With Scott Adams Transcripts
 
 Welcome to the **Coffee With Scott Adams Transcripts** repository!  
