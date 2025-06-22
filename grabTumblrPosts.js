@@ -98,7 +98,7 @@ function getPostHtml(post) {
 
                 const name = `${ymd}_${BLOG}_${titlePart}_${p.id}.txt`;
 
-                // if (existing.has(name)) { console.log('skip', name); continue; }
+                if (existing.has(name)) { console.log('skip', name); continue; }
 
                 await fs.writeFile(path.join(OUT_DIR, name), stripHtml(html), 'utf8');
                 existing.add(name);
