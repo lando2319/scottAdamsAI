@@ -1,0 +1,9 @@
+The blog problem was traced to a recently-installed load balancer. It was sending half the traffic to a server that didn’t have the images. That’s why your experience was different every time you went to the page. It was never a browser incompatibility issue.
+
+
+
+Here are the images that were only appearing half the time.
+[http://images.gocomics.com/dilbertblog/Image/blog/Robotsreadnews1.jpg]
+[http://images.gocomics.com/dilbertblog/Image/blog/Robotsreadnews2.jpg]
+[http://images.gocomics.com/dilbertblog/Image/blog/Robotreadsnews3.jpg]
+

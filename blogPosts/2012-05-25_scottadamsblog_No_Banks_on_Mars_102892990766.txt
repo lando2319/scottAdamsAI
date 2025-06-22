@@ -1,0 +1,53 @@
+I assume banks will always be with us here on earth. They have enough power to influence governments and create laws that guarantee their existence. But as technology marches forward, the practical need for banks is evaporating. Allow me to make that case.
+
+Someday all payments will be digital. We won’t need ATMs, and we won’t need anyone to process physical checks, or to check IDs. That much is easy to predict.
+
+The world will always need scorekeepers for money, of course. But that’s just a cloud application. Google could hack that together in a weekend. All the system needs to do is keep track of who has what, and make transfers between accounts according to electronic transfer instructions. If you like competition, imagine several clouds from different companies that all talk to each other.
+
+One major function of banks is to inspire trust in depositors. But I think you’d agree that banks have screwed the pooch on the trust issue. If you had a choice of keeping your virtual money in Google’s cloud application versus giving it to Bank of America or JP Morgan Chase, which one makes you feel safer? I’m looking at you, Jamie Dimon.
+
+I think you’d agree that if the only thing banks did was keep track of deposits and move payments around, they are already nearly obsolete. But of course they do more. The loan side is the main reason banks exist.
+
+In my earlier life, I spent a few years as a loan approver for a large bank. In theory, we used our expertise to examine small business startup applications and determine their credit worthiness. In reality, the customers’ projections were total bullshit, so we ignored them, looked at the collateral, and applied simple rules of thumb. Some of the rules of thumb included:
+
+1.      Make sure you have life insurance on key people.
+
+2.      Don’t make loans for someone’s “hobby,” e.g. a sporting goods store.
+
+3.      Make sure applicants have plenty of skin in the game (their own money).
+
+4.      Cut the revenue projections in half and increase the expense projections by 50%.
+
+5.      Restaurants are bad ideas with the exception of established franchises.
+
+6.      Husband-wife businesses are risky because of divorce.
+
+7.      Has this sort of business worked around here before?
+
+8.      Do the applicants have experience in this business?
+
+9.      How much competition is there?
+
+10.  Do the applicants have enough collateral to repay the loan if the business fails?
+
+We had other rules too, but all of them would fit on a one-page checklist. It wasn’t rocket science. If you imagine a future world in which anyone can lend money to anyone else, I think you’d find banks unnecessary.
+
+For example, let’s say someday in the future, a business wants a loan that is far too complicated for the average civilian to evaluate, and banks don’t exist to do that work. What happens then? Well, in that world, you still have plenty of individuals who would be qualified and willing to evaluate even a complicated business situation. CPAs, for example, have that training. If qualified people loan their own money to a particular project, I’d probably feel comfortable lending my money as well, even if I don’t understand the deal. I’d just make sure the lead individuals have good track records, and I wouldn’t put all of my money in one deal. Let’s say the qualified individuals take a higher share of the interest payments on the loan to compensate for their extra effort and talent. That seems fair.
+
+Most bank loans are actually quite simple to evaluate. A typical business loan might involve a company that has been in business for decades and always runs short of cash in the spring as they build up inventory for the summer. It’s a very low risk loan. That’s the type that banks prefer. Untrained individuals could make those loans with their eyes closed.
+
+My guess is that person-to-business lending would be every bit as good, or better, than bank-to-business lending. We already see something similar in the angel investing area, and that seems to work fine without banks.
+
+I could imagine the government limiting individual loans to a percentage of the lender’s net worth, just to keep things sane. Or perhaps the government would require some sort of minimum diversification instead. It wouldn’t take many safeguards to keep people out of trouble. Social networks, such as Facebook, could provide all of the identification and background checking you need.
+
+Credit cards would be unnecessary in the future. I assume credit cards are issued according to formulas that look at income, expenses, and credit scores. In the future, the cloud would have all of that information, since every bit of it would be flowing through the cloud for capture. The cloud could keep an ongoing credit figure for each person, without the need for an application. If an individual spends more than he has on deposit in the cloud, an interest calculation starts. It’s that simple.
+
+None of this can happen on this planet because banks have a death grip on governments, and society would be petrified of a change that radical. But if you think you hate big banks now, just wait until you realize how unnecessary they are.
+
+When I start my new country, perhaps on Mars, my first two edicts will be as follows:
+
+1.      No banks
+
+2.      No insurance companies (for the same reasons)
+
+I’ll be taking applications for my country on Mars sometime soon.

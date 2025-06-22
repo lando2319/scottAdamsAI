@@ -1,0 +1,31 @@
+Update: Link fixed
+
+Did you know that 50% of second opinions from doctors contradict first opinions? And did you know that 80% of the findings in medical literature are wrong?
+
+I’m fascinated by a new company called Metamed http://metamed.com/medicine-is-personal?utm_expid=66969292-2that offers to be your personal medical researcher. For a fee of $200 per researcher per hour, with a $5K minimum, you can make sure the full force of science is on your side. Metamed analyzes the medical literature and tells you which study results about your condition are reliable and which are not. They assess the value of various diagnostic tests, and create a map of all possible medical correlations. It’s the sort of thing your doctor would love to do for you if he had the resources.
+
+Metamed’s service is pricey, but the cost will probably come down as the process gets more automated. And objectively speaking, the service is already a bargain if your alternative is death by ignorance.
+
+I saw in the news recently that the rate of growth for healthcare costs in the United States was slowing and no one is entirely sure why. I assume there are a number of reasons for the unexpected change, but my hypothesis is that the Internet is already unlocking the power of healthcare information for consumers. Personally, my healthcare process looks like this now:
+
+
+ 1. Observe symptoms
+ 2. Search Internet for diagnosis and treatment.
+ 3. If I’m not confident in what I find on the Internet, I email my doctor in the Kaiser Permanente system to describe my symptoms. Kaiser encourages email.
+ 4. My doctor often replies in an hour with a prescription that has already been sent to my nearest pharmacy, some self-care instructions, or a request to come in for tests.
+ 5. If I need to book an appointment, Kaiser’s website does an automated interview to advise me whether I should treat the problem myself or schedule a doctor.
+
+For the bigger problems, you want as much expert brainpower on your side as you can get. That’s what Metamed provides. It makes me wonder how much healthcare costs can drop if we get better at picking the right treatment the first time. My gut feel is that 20% of healthcare costs are directly attributable to ignorance.
+
+My healthcare provider, Kaiser Permanente, operates for the benefit of the members, so they are super-aggressive about preventative healthcare. I would think preventative medicine can take another 20% off of healthcare costs in the long run. And preventative medicine is mostly about getting the right information to the right people.
+
+The Adams Law of Slow-Moving Disasters observes that whenever a massive threat to humanity can be identified far in advance, we always find a way to sidestep it. At the moment it seems that healthcare costs will grow to the sky and bankrupt us, especially as the population of oldsters increases. But I think better information might someday cut healthcare costs by as much as 50%. That better information will come from a variety of sources. Metamed is part of that solution, as is Google, as is Kaiser’s extraordinarily effective use of the Internet. And we’re nearing a point at which your smartphone will test you for all sorts of problems.
+
+I can also imagine a time in which Google Glasses TM will observe all of your food choices during the day and keep a running record of your nutrition. When you stray from a healthy diet, your glasses might start suggesting a salad. When you don’t exercise all day, the glasses might suggest using the stairs instead of the elevator. For all practical purposes, a human with Google Glasses and a smartphone is already a cyborg. And your future cyborg half will do a better job of keeping your organic parts functioning than you are doing on your own.
+
+In the long, long run your healthcare provider will fix both your organic parts and your cyborg parts because it will all be part of the same system. You’ll go to the doctor complaining of a headache and he’ll update your smartphone software to track your daily habits and look for what triggers the headaches.
+
+Anyway, my point is that better information will solve the problem of increasing medical costs. It’s already happening.
+
+Disclosure: I don’t have a financial interest in Metamed, nor do I have any firsthand knowledge of their service. The Chairmam of Metamed is Jaan Tallin, one of the founding engineers of Skype, and one of the more important futurists of our time. I know Jaan because of our mutual interest in the so-called singularity.
+

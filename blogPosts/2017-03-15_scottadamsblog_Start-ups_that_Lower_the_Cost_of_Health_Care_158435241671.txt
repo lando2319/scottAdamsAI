@@ -1,0 +1,38 @@
+[Update: fixed bad email address in step 3.] 
+
+Most of the remaining problems in the world are information problems in disguise. For example, our politicians in the United States are trying to figure out how to provide health insurance to low-income people without breaking the budget. 
+
+It looks impossible, at least with our political system as it stands. 
+
+So I thought I would help. 
+
+In my opinion, the only hope for affordable health care in the long run comes from startups that will dramatically lower the cost of medical services. There are many such healthcare startups in the pipeline, and some could make a big difference to society. As a public service, I’ll collect a list of them in this blog post so investors can see their options for helping the country lower the cost of medical care. 
+
+I started the list with one start-up (Sandstone) that I happen to know because I invested in it. Any healthcare startup that lowers the cost of medical treatment is welcome to add their information to the list. To add your company, do this…
+
+1. Go to whenhub.com and create a schedule with one entry for your company, using as your event date the year you went live with a commercial product, or the year you plan to do so. 
+
+2. You can include any kind of documents, links, photos, or video to your one event. But please include at least a paragraph saying how your startup lowers healthcare costs.  
+
+3. Share your schedule, with its one event, to this address: healthcarestartups@whenhub.com. I’ll check it for completeness and add it to the list.
+
+
+By the way, WhenHub – a start-up I co-founded – wasn’t designed for this sort of task, but I couldn’t think of an easier way to do it. I’ll use our new streaming feature to create one schedule (really just a list of start-ups) from the shared events. You’ll see the Whencast below grow as I add entries.
+
+The nature of Whencasts is that you can share them on social media and embed them on blog pages. So if this list is useful, feel free to share it. Whencasts stay live and updated no matter where they travel.
+
+
+
+
+[http://tm.whn.is/s/58c7f7d8e94e81290c236a43] https://studio.whenhub.com/schedules/58c7f7d8e94e81290c236a43
+
+
+
+I’m also imagining some sort of “digital doctor” healthcare insurance that is super-cheap and relies largely on startups that are not yet part of mainstream medicine. This low-cost insurance plan might be better (but slightly riskier) than traditional medical treatment. For example, if the low-cost insurance people get first access to IBM’s Watson for diagnosing problems, they are probably getting better treatment recommendations than the patients going to human doctors.
+
+
+I can also imagine this low-cost health insurance plan asking patients to voluntarily give up more health-related privacy than normal, and perhaps agree to some sort of health tracking technology. The data from this group would help improve healthcare technology and treatment for all. 
+
+We probably can’t tax-and-spend our way to universal healthcare. The numbers just don’t work. But startups could get us more options for serving low-income folks if we decide to make that a priority.
+
+Update 2: Here’s a great article https://techcrunch.com/2017/02/05/the-rise-of-generation-health/ by Benjamin Joffe https://techcrunch.com/contributor/benjamin-joffe/ explaining the medical tech device revolution ahead of us. This is one of the most underreported stories on the planet. 

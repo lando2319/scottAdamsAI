@@ -1,0 +1,13 @@
+
+[Update: Sprint replaced my HTC phone and solved all of my freeze problems. The jury has reconvened in my head to evaluate Android.]
+
+
+After I blogged about my bad experience with both iPhone and Android phones, Brandon Watson from Microsoft made this offer, which i have accepted:
+
+— Start —
+
+Scott - My name is Brandon Watson and I am responsible for the developer platform on Windows Phone. Since your readership has a high probability of cross over with our developer base, how about I make you a deal with one of the phones we reserve for developers. Take Windows Phone for a spin. I’ll send you a developer phone with the new Mango OS on it. Give it an honest run, and if you don’t love it more than either of your iPhone or Android experiences, I’ll make a $1000 donation to the charity of your choice. You can’t really lose on this deal. Do we have 500K apps? No. Do we have 25K, growing as fast as iPhone did, and 2x as fast as Android? Yes. Do developers love the dev environment? Uh huh. Do we have the only phone that puts people and communications first? You bet. If Androids dream of electronic iSheep, people dream about people - and that’s what you will get with Windows Phone. Keep in constant contact with those most important to you with Live Tiles, groups, messaging threads, and native Facebook, Twitter and LinkedIn. And no special instructions on how to hold the phone to make calls. Oh, and the battery lasts a long time. I can be reached at ThePhone [at] microsoft. You can call me if you want - [number removed]. Windows Phone devs will tell you that’s the right contact info, because it’s shared with every one of them. I hope you take me up on this one…there’s no reason to hate your phone.
+
+— End —
+
+My first thought was that this was a bad idea for Brandon. I make my living wittily criticizing things. But on second thought, all the Windows Phone needs to do is make phone calls, handle email, have battery life that lasts half a day, do a little web browsing without locking up and it will win. I’ll give you an update in a few weeks.

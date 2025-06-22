@@ -1,0 +1,72 @@
+Experts and pundits have been jabbering quite a bit on the topic of why Apple’s stock price has been falling like a rock. Some say it has to do with declining margins. Others say Apple’s pipeline of products isn’t as exciting as it could be. But no one ever mentions the real reason: Scott Adams bought shares in Apple.
+
+When I buy a stock it marks the beginning of the company’s nosedive to oblivion. My investment strategy is called “Buy at the wrong time and hold until all of your money is gone.” So far my strategy has not produced superior returns. But investing requires patience. I just need to stick with it.
+
+Just to be on the safe side, today I will give Apple some ideas for their next huge product. I think the world is ready for an Apple TV remote control.
+
+What? Not exciting enough? Oh, you just wait. This is no ordinary remote control.
+
+I’m imagining a device that is larger than a phone but smaller than the smallest iPad. I imagine it with lots of flash storage, WiFi, BlueTooth, and maybe infrared and other local radio frequencies for maximum flexibility.
+
+Now imagine that your DVR and cable box both disappear. Those functions will be absorbed by a cloud-based service that works with the new remote control and connects to your TV through a wireless device that plugs into your big screen’s HDMI jack.
+
+The idea of “recording” a show will be retired. This is similar to the “on demand” services that cable and satellite TV companies offer, but without all the parts that suck. In other words, it will be designed right and include every TV show. That’s very different from today’s world of eighties-era interfaces and limited shows on demand.
+
+Your first reaction is that the producers of television content would never allow Apple to store all of their shows in the cloud and redistribute them. Or perhaps network and studio deals with existing cable and satellite providers would make the arrangement I’m describing impossible from a business model standpoint. But keep in mind that the same was said of the music industry before iTunes blew that model up. I think Apple is the one company on earth that could get the TV industry to change how it does business. So for now let’s talk about what is possible from a technology standpoint. I’ll leave it to Apple to make the business and legal aspects work. That part is boring.
+
+You might be thinking that new TV remote control hardware is unnecessary because that function can be moved to a simple app on your smartphone or tablet computer. But I think you’d find that an all-purpose device such as a phone or tablet will always be suboptimal for operating your television. For starters, you don’t want your screen saver kicking in every half minute. You don’t want to use up your phone’s battery for watching TV, and you don’t want to hunt for your app icon. I could list several other problems with an app-based approach, but I think you agree that your phone or tablet can never be better than mediocre as a TV remote. The best TV remote would be designed from scratch for that purpose.
+
+The Apple TV remote could fix a number of problems and add lots of new features.
+
+1. You’d never miss a show because you forgot to record it.
+ 
+2. The “search for a show” function would be more like a Google search with onscreen keyboard. 
+
+3. You could use the screen on the remote to watch one show while the big screen has another. Good for sports fans in particular. 
+
+3. Divide your big screen into as many as nine channels playing at once, like picture-in-picture on steroids. 
+
+4. When you leave the room, take your remote with you and the show continues playing on the remote so you miss nothing.
+
+5. Text with others about the show. See behind-the-scenes commentary about the show while it is on. 
+
+6. Send TV commercials to the remote control and let users “test out” of them by clicking on some ultra-simple questions, such as “Does the new Buick Regal have leather seats and photon torpedoes?” Get a question right and the commercial is skipped. 
+
+7. Interleave two shows, so that as soon as a commercial comes on for one, the remote flips to the other until the commercials end. 
+
+8. A front camera on the remote allows you to Skype/Facetime with friends while you watch TV and play games too.
+
+9. Watch your shows on your phone or your iPad, via cloud, when you are away from home. 
+
+10. Split the screen on your TV between a broadcast show and a web page connection you control from the remote. 
+
+11. Imagine being able to freeze a TV image and zoom in the same way you do on your iPad, using your fingers to expend and contract the image. Do your own slow-motion replays for sports events. 
+
+12. Imagine the remote doing facial recognition on actors and offering you links to their IMDB page so you can see more of their work. 
+
+13. The remote would also do facial recognition of the person using the device and automatically hide channels you would have no interest in while suggesting shows you might like. Even the commercials would be customized to the viewer. 
+
+14. Nielsen ratings would be handled through the remote. 
+
+15. Reality shows could have viewer interaction and voting.  Just build their own app.
+
+16. The remote would also function as a full Internet browser. 
+
+17. Carry your TV remote and an extra HDMI wireless connector with you when you travel and turn any hotel TV into your personal TV. 
+
+If you’ve ever used a universal remote control that works with multiple devices, you know what a pain in the ass they are. If you ever figure out how to program them, which isn’t easy, they have a tendency to regularly lose their programming for no particular reason. And every time you add a new device, such as a DVD player, you have to reprogram it.
+
+With the Apple remote you wouldn’t need to control multiple devices. All content would live in the cloud and require the same set of commands to access.
+
+One obstacle to this vision is Internet speed. Until the Internet gets faster, the architecture might require pre-downloading movies and content to the remote ahead of time based on user patterns. For example, my remote would always pre-download Modern Family as soon as it became available. Then I would only need to stream content from my remote to the TV.
+
+Third parties could make apps that work on the remote control, such as an app to control window shades or temperature.
+
+A big part of Apple’s magic involves transforming something boring and ordinary into a product you can’t live without. I think that on the first day that an Apple remote control comes on the market your old TV remote will look like a butter churn. You’ll simply have to own the Apple remote.
+
+There’s a lot of talk about Apple inventing a TV. I think they will stay away from making the screen. That’s too generic. Margins for screens will never be good. I think Apple will make a run at the remote control and move all of the important TV and DVR functions into the remote and the cloud. The TV screen will just have a connector that talks to the remote control.
+
+That’s my vision of the future of TV. The biggest obstacles will be the structure of the TV industry and existing contracts. I think the technology is all doable.
+
+What else do you want Apple to design into the new remote?
+

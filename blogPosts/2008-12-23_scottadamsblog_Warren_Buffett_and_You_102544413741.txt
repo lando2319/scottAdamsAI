@@ -1,0 +1,17 @@
+In a prior post I questioned whether ignorant citizens should be allowed to gamble by buying individual stocks, as opposed to investing in an index of stocks to reduce risk. Your comments raised some interesting questions that I think are worth wrestling with.
+
+First, many of you pointed out that capitalism depends on people having the option of buying individual stocks. That’s how companies raise capital. But surely there is a better way to raise capital than by convincing idiots they know more than they do.
+
+Suppose citizens had two ways they could invest in equities. One channel is through the general index of all stocks (not just the S&P 500). The other is a fund managed by venture capitalists along with their own money. With this system startups still get funded, but only by experts who are close to the action, and citizens are still diversified. And I could imagine some sort of percentage-of-assets limit on how much individuals could invest in venture capital funds.
+
+If a startup succeeds, it gets rolled into the index. From that point on its stock price would move with its actual earnings, as estimated by some sort of regulating board. It wouldn’t matter if the regulators got the stock price wrong one year because it would average out with other stocks, and they could always go back and adjust it on appeal from the company.
+
+Employees of a company could still own stock in that enterprise, so they are incented to get profits up. But outsiders could not own the individual stock.
+
+The second objection to banning individuals from owning stock is the Warren Buffett argument. The thinking is that Warren Buffett’s method of investing proves that individuals can succeed by buying undervalued stocks and holding them for the long run. So since we know individuals can somewhat easily succeed at investing in stocks, it would be an unreasonable limit on freedom to prevent them from doing it.
+
+There are a few problems with that line of thinking. First, Warren Buffett buys companies, not stocks, in the sense that his stake is so large he can influence management. And his access to information about the company is much better than yours. He’s a perfect example of why an individual should NOT be buying stocks; you’re competing against the likes of Warren Buffett for limited resources. In the long run, Warren Buffett will have his money and yours too. You’re no Warren Buffett.
+
+Still, there are plenty of civilian investors who have done well buying value stocks and holding for the long run. But wouldn’t you expect a wide distribution of luck in any gambling arena? If every investor picked stocks entirely randomly, you would still produce a good number of Warren Buffetts entirely by chance. And our brains are wired to assume those winners had the secret formula for investing.
+
+If Warren Buffett’s success is indeed a function of following a simple philosophy of investing, and that method has been well understood for decades, you would expect most managed mutual funds to beat the averages too. They don’t.

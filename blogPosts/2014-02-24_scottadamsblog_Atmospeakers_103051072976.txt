@@ -1,0 +1,42 @@
+Imagine a product that combines room lighting with wireless speakers. I envision these devices to be about ten inches tall. Sit them on a shelf or desk, or on their own optional floor stands. I’ll call these devices Atmospeakers because they create the atmosphere for the room, both in sound and lighting. If you get the lighting and sound right, any room can feel special.
+
+I want my Atmospeakers to have four lighting modes.
+
+
+ 1. Artificial LED candle mode
+ 2. Back light mode to accent a wall (with color options)
+ 3. General room lighting similar to a 60-watt bulb (full spectrum to avoid sadness)
+ 4. Art light: a focused light that can be aimed at a poster or art on the wall.
+
+I want my Atmospeakers to have motion detection so they spring to life when I enter the room. A default radio station or other source will begin playing and the accent lights would power up as soon as my smartphone is detected in range. Working with a companion app on my phone, the Atmospeakers might greet me by name and optionally give me a random compliment when I enter.
+
+I want my Atmostpeakers to be integrated with my phone’s alarm clock function. When it’s time to get up, the system plays the music or nature sounds you like while the lights gently get brighter.
+
+When I get a text or phone call, I want the Atmospeakers to alert me by blinking.
+
+When I make a Skype call, I want the Atmospeakers to be my speakers but also my microphone so I can walk around the room and the nearest one intelligently takes over while the others ignore me.
+
+I want my Atmospeakers to know where I am sitting in the room, by triangulating my Bluetooth signal, so they can adjust their sound to optimize for my location in the room.
+
+I want a smartphone app to control the Atmospeaker’s lights and sound and to program the modes for various times of day. The lights should have different color options both for the artificial candle mode and for the back light. And of course the sound levels should be controllable by app.
+
+I want my Atmospeakers to be so smart that you can add a third and fourth speaker and the new ones learn how to act from the ones already in the room. Just plug them into the wall and they are ready to go.
+
+I want my Atmospeakers to have a rechargeable battery so you can just pick one up and take it with you outdoors or to another room. Perhaps they are smart enough to know what time it is and recharge at night when electric rates are low while using batteries during the day when rates are high.
+
+I want my Atmospeaker to have a USB charging jack and a regular outlet as well so I can charge devices without looking for the wall outlet.
+
+I want my Atmospeakers to have a headset jack. If any one of the Atmospeakers detects a headset jack in it, the others know to go silent.
+
+One Atmospeaker is all you need to start. Let’s say each one has internal stereo speakers to fill a room. But the more Atmospeakers you add to the room, the better the sound and lighting. Most people would aspire to having four in a room.
+
+Imagine a companion app just for the parents of kids who have Atmospeakers. When it’s time for dinner, the parent app can override the system and cause the lights to blink. Perhaps the parent can also create a voice message that plays in the kid’s room, such as “Go to bed” or “Come to dinner.”
+
+Perhaps the Atmospeakers are designed to allow third-party add-on apps to work with it.
+
+Now imagine the Atmospeaker has Apple-class design. The thing just looks magnificent sitting there.
+
+This feels like a new product category to me. One can quibble with the specs, but doesn’t it seem as if there is something here?
+
+
+[Update: I’m wondering if the problem most people seem to have understanding analogies is the same thing prompting so many of the comments to say something like the Atmospeaker already exists while providing links to things that are very different. In my world, a car is different from a wheel. The iPod is different from the Walkman. And a sharp stick is different from a nuclear warhead. If those things all look the same to you, you have a problem. – Scott]

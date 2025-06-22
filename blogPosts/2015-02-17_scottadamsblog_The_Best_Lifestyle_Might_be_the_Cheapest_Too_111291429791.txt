@@ -1,0 +1,69 @@
+If you were to build a city from scratch, using current technology, what would it cost to live there? I think it would be nearly free if you did it right.
+
+This is a big deal because people aren’t saving enough for retirement, and many folks are underemployed. If the economy can’t generate enough money for everyone to pay for a quality lifestyle today, perhaps we can approach it from the other direction and lower the cost of living.
+
+Consider energy costs. We already know how to build homes that use zero net energy. So that budget line goes to zero if you build a city from scratch. Every roof will be intelligently oriented to the sun, and every energy trick will be used in the construction of the homes. (I will talk about the capital outlay for solar panels and whatnot later.)
+
+[https://64.media.tumblr.com/1492658ce5105b558552c9ef89730bdc/tumblr_inline_pjk29ylqwf1t63ajm_540.jpg]
+
+I can imagine a city built around communal farming in which all the food is essentially free. Imagine every home with a greenhouse. All you grow is one crop in your home, all year, and the Internet provides an easy sharing system as well as a way to divide up the crops in a logical way. I share my cucumbers and in return get whatever I need from the other neighbors’ crops via an organized ongoing sharing arrangement. My guess is that using the waste water (treated) and excess heat from the home you could grow food economically in greenhouses. If you grow more than you eat, the excess is sold in neighboring towns, and that provides enough money for you to buy condiments, sauces, and stuff you can’t grow at home.
+
+Medical costs will never go to zero, but recent advances in medical testing technology (which I have seen up close in start-up pitches) will drive the costs of routine medical services down by 80% over time. That’s my guess, based on the several pitches I have seen. 
+
+Now add Big Data to the mix and the ability to catch problems early (when they are inexpensive to treat) is suddenly tremendous.
+
+Now add IBM’s Watson technology (artificial intelligence) to the medical system and you will be able to describe your symptoms to your phone and get better-than-human-doctor diagnoses right away. (Way better. Won’t even be close.) So doctor visits will become largely unnecessary except for emergency room visits, major surgeries, and end-of-life stuff.
+
+[https://64.media.tumblr.com/e2c4bba8c5741784e7718a8682f4f1e3/tumblr_inline_pjk29zPdAl1t63ajm_540.jpg]
+
+Speaking of end-of-life, assume doctor-assisted-suicide is legal by the time this city is built. I plan to make sure that happens in California on the next vote. http://www.latimes.com/local/politics/la-me-pol-assisted-suicide-20150122-story.htmlOther states will follow. In this imagined future you can remove much of the unnecessary costs of the cruel final days of life that are the bulk of medical expenses.
+
+Now assume the city of the future has exercise facilities nearby for everyone, and the city is designed to promote healthy living. Everyone would be walking, swimming, biking, and working out. That should reduce healthcare costs.
+
+Now imagine that because everyone is growing healthy food in their own greenhouses, the diet of this new city is spectacular. You’d have to make sure every home had a smoothie-maker for protein shakes. And let’s say you can buy meat from the outside if you want it, so no one is deprived. But the meat-free options will improve from the sawdust and tofu tastes you imagine now to something much more enjoyable over time. Healthy eaters who associate with other healthy eaters share tricks for making healthy food taste amazing.
+
+Now assume the homes are organized such that they share a common center “grassy” area that is actually artificial turf so you don’t need water and mowing. Every home opens up to the common center, which has security cameras, WiFi, shady areas, dog bathroom areas, and more. This central lawn creates a natural “family” of folks drawn to the common area each evening for fun and recreation. This arrangement exists in some communities and folks rave about the lifestyle, as dogs and kids roam freely from home to home encircling the common open area.
+
+[https://64.media.tumblr.com/624c2eb3d820b799fff49487949ee6cc/tumblr_inline_pjk2a03qii1t63ajm_540.jpg]
+
+That sort of home configuration takes care of your childcare needs, your pet care needs, and lots of other things that a large “family” handles easily. The neighborhood would be Internet-connected so it would be easy to find someone to watch your kid or dog if needed, for free. My neighborhood is already connected by an email group, so if someone sees a suspicious activity, for example, the entire neighborhood is alerted in minutes. 
+
+I assume that someday online education will be far superior to the go-to-school model. Online education improves every year while the classroom experience has started to plateau. Someday every home will have what I call an immersion room, which is a small room with video walls so you can immerse yourself in history, or other studies, and also visit other places without leaving home. (Great for senior citizens especially.) So the cost of education will drop to zero as physical schools become less necessary.
+
+When anyone can learn any skill at home, and any job opening is easy to find online, the unemployment rate should be low. And given the low cost of daily living, folks can afford to take a year off to retool and learn new skills.
+
+The repair and maintenance costs of homes can drop to nearly zero if you design homes from the start to accomplish that goal. You start by using common windows, doors, fixtures, and mechanical systems from a fixed set of choices. That means you always have the right replacement part nearby. Everyone has the same AC units, same Internet routers, and so on. If something breaks, a service guy swaps it out in an hour. Or do it yourself. If you start from scratch to make your homes maintenance-free, you can get close. You would have homes that never need paint, with floors and roofs that last hundreds of years, and so on. 
+
+Today it costs a lot to build a home, but most of that cost is in the inefficiency of the process. In the future, homes will be designed to the last detail using CAD, and factory-cut materials of the right size will appear on the job site as a snap-together kit with instructions printed on each part. I could write a book on this topic, but the bottom line is that home construction is about 80% higher than it needs to be even with current technology.
+
+The new city would be built on cheap land, by design, so land costs would be minimal. Construction costs for a better-than-today condo-sized home would probably be below $75,000 apiece. Amortized over 15 years the payments are tiny. And after the 15th year there is no mortgage at all. (The mortgage expense includes the solar panels, greenhouses, etc.)
+
+Transportation would be cheap in this new city. Individually-owned automobiles would be banned. Public transportation would be on-demand and summoned by app (like Uber). 
+
+And the self-driving cars would be cheap to build. Once human drivers are out of the picture you can remove all of the safety features because accidents won’t happen. And you only summon a self-driving car that is the size you need. There is no reason to drag an empty back seat and empty trunk everywhere you go. And if you imagine underground roads, the cars don’t need to be weather-proof. And your sound system is your phone, so the car just needs speakers and BlueTooth. Considering all of that, self-driving cars might someday cost $5,000 apiece, and that expense would be shared across several users on average. And imagine the cars are electric, and the city produces its own electricity. Your transportation budget for the entire family might be $200 per month within the city limits.
+
+The cost of garbage service could drop to nearly zero if homes are designed with that goal in mind. Your food garbage would go back to the greenhouse as mulch. You wouldn’t have much processed food in this city, so no cans and bottles to discard. And let’s say you ban the postal service from this new city because all they do is deliver garbage anyway. (All bills will be online.) And let’s say if you do accumulate a bag of garbage you can just summon a garbage vehicle to meet you at the curb using the same app you use for other vehicles. By the time you walk to the curb, the vehicle pulls up, and you toss the bag in.
+
+I think a properly-designed city could eliminate 80% of daily living expenses while providing a quality of life far beyond what we experience today. And I think this future will have to happen because the only other alternative is an aggressive transfer of wealth from the rich to the poor by force of law. I don’t see that happening.
+
+
+
+
+Scott Adams
+
+@ScottAdamsSays https://twitter.com/scottadamssays (my dangerous tweets)
+
+
+
+
+https://www.facebook.com/dilbert
+
+Dilbert on Facebook https://www.facebook.com/dilbert
+
+
+
+
+
+
+
+My book on success http://www.amazon.com/How-Fail-Almost-Everything-Still-ebook/dp/B00COOFBA4/ref=tmm_kin_swatch_0?_encoding=UTF8&sr=&qid=: “The best book on self-help ever.” - Frank (5-star Amazon review)

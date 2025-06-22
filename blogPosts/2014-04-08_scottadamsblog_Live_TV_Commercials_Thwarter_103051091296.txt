@@ -1,0 +1,25 @@
+Like most people who use a DVR, I now find it psychologically intolerable to watch live TV with commercial breaks. I need a product that senses commercials and automatically switches from live TV to a channel with no commercial at the moment, or perhaps to a recorded show on my DVR, so my commercial breaks are filled with content from other shows. When my live TV show returns from break, my TV switches automatically back.
+
+I could imagine setting a hierarchy of live TV shows that my TV tries before finding one that is not in commercial break at the moment. This would be handy for bar TVs in particular. When the baseball game goes to commercial, it switches to CNN, or whatever.
+
+Can technology detect the beginning and end of TV commercials? I don’t know. But if not, one could imagine hiring low-cost labor in other countries to monitor the major channels on each cable network and manually indicating the beginning and end of breaks.
+
+I’d also like my DVR to know the length of every commercial break it records so it can automatically skip them. All the DVR needs to know is the last still frame before the commercial break and the first one after. It can do pattern matching to find those frames for the skipping.
+
+Imagine that your DVR and all others are networked to the cloud. The first thousand people who view a particular show will start to fast-forward through commercials at about the same time within an episode and will start playing the show again after about the same length of time. The cloud finds an average and presents it as an option to future viewers of that same recorded show. If you accept the crowd’s average time for the start and stop of commercials, your system skips for you without intervention.
+
+This idea might destroy the TV industry, and I’d feel bad about that. So don’t build this product. I’m more curious about whether it would work. Call it a geeky curiosity.
+
+As a bonus, I leave you with this DVR tip. Have you noticed that the last commercial in a block of commercials is always an ad for another show on the same network? When you’re fast-forwarding through commercials, look for the ad for another show. That’s when you’re near the end.
+
+______________________________________________________________
+Scott Adams
+
+Co-founder of CalendarTree.com http://bit.ly/N8iAnK (Scheduling made simple)
+
+Author of How to Fail… http://amzn.to/1dF0EJK which is a perfect graduation gift.
+
+ 
+
+
+

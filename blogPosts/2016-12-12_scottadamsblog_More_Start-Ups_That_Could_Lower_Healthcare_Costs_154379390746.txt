@@ -1,0 +1,38 @@
+I’ve been working with the UC Berkeley start-up ecosystem – the largest in the world – to help improve their odds of success. The stakes are high. Consider the healthcare field alone, and how much can be saved in terms of both lives and money. I included at the bottom of this post a snapshot of some start-ups coming out of that ecosystem. 
+
+Now imagine how many more healthcare start-ups are popping up all over the country. That is a lot of stranded potential unless these innovations can make it to market. The hardest challenges are getting funding and, obviously, the FDA approval. That’s a tough road. I’m doing my part today to make that easier by giving them some attention here.
+
+The path to market for these innovations might be a lot easier if Trump appoints someone like Jim O’Neill http://reason.com/blog/2016/12/08/reactions-to-trump-fda-chief-rumor-unmit to head the FDA. O’Neill would like to speed up the approval process by using a more rational risk-management model. The opportunity for improvement is gigantic.
+
+Here are just a few healthcare start-ups to give you an idea of the potential.
+
+Healthcare Start-Ups out of UC Berkeley’s Ecosystem
+
+Dot Labs http://dotlabs.org/ Non-invasive diagnostic test for endometriosis. 
+
+Stroll Health https://www.strollhealth.com enables ambulatory clinicians to make personalized, value-based referrals. Stroll processes each patient through our intelligence algorithm using millions of healthcare data to show out-of-pocket costs for each location and service in real time. Physicians and patients select and electronically order through Stroll, and we follow through to make sure medically necessary care happens.  
+
+Angilytics http://www.angilytics.com/ provides wearable sensors and data analytics for ultimate hypertension management. 
+
+NestSense http://www.nestsense.us/ Safety Solutions for managed dementia care 
+
+SwiftMotion http://www.swiftmotion.io/ Solutions to assess risks of occupational injuries. 
+
+iTreatMD http://www.itreatmd.com/ provides a point of care app that guides clinicians with a checklist to treat diseases, and generates encounter notes for clinicians and personalized treatment plan for patients. 
+
+ReThink Medical http://rethinkmedical.com produces a remote patient physiologic monitor for predicting heart failure related hospitalizations, enabling preventative interventions.  
+
+First Derm https://www.firstderm.com/ is a mobile app that provides users with personalized dermatology information. 
+
+Ava http://www.ava.me/ is on a mission to empower 360 million people with hearing loss to follow group conversations again, using state-of-the-art mobile and speech technologies. We connect together devices in a room to show the user who says what and when, in less than a second. 
+
+KNOX Medical Diagnostics http://www.knox.co/#aeris: Mismanagement of asthma leads to hospitalizations and ED visits. Traditional at-home pulmonary function tests are inaccurate. On-site tests are only available in specialized locations and not readily accessible. KNOX has developed Spiritus, a reliable and convenient asthma management tool for families, which includes a portable device that asthmatic kids breathe into to capture consistent information regarding lung function. Parents can view and immediately act upon the results. Information sent to the iOS app is saved to SaaS servers for physicians to track patients’ asthma severity in-between office visits. 
+
+BioInspira http://www.bioinspira.com/ is a sensor platform startup. At BioInspira, we are advancing airborne chemicals and pathogens detection for growing industrial and healthcare needs. Our first product is a bio-based natural gas sensor that is 1000x more sensitive, 100x smaller and 100x lower in cost than current sensors. 
+
+
+—
+
+You can learn more about UC Berkeley-related start-ups at BerkeleyStartupNetwork.com http://startupnetwork.berkeley.edu/. (Site is new, so some start-ups will not be listed yet.)
+
+—

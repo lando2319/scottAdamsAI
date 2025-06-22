@@ -1,0 +1,26 @@
+The famous Monty Hall problem in the field of statistics goes like this: Monty Hall is a game show host. You are given a choice of three doors. One has a car behind it, the other two have goats. If you pick the door with the car, you win it. Your odds are 1-in-3.
+
+So you pick a door, but before it opens, Monty opens one of the other two doors to reveal a goat. He asks if you want to switch from the door you initially picked to the other closed door. Your brain says the odds are the same for any closed door, so you stay. But in fact, the odds are twice as good if you switch doors.
+
+You can see the math of it here http://www.businessinsider.com/the-monty-hall-problem-2013-3?op=1. But if you are normal, you’ll never reconcile in your mind how one closed door could have better odds than the other. If there are two closed doors remaining, how can the odds be anything but 50-50?
+
+This reminds me of the Schrodinger’s Cat thought experiment in which a cat in a sealed box (presumably with air holes) exists in a state of being simultaneously alive and dead depending on the results of a randomized event happening inside the box. How can a cat be alive and dead at the same time? Math says it can happen, my brain says no.
+
+The pattern recognition part of my brain is connecting the Monty Hall problem with the Shrodinger’s Cat thought experiment because both situations feel like proof that our brains are not equipped to understand reality at its most basic level.
+
+Most of us accept the idea that math is a better indicator of truth than our buggy personal perceptions. Math doesn’t lie, but our brains are huge scam artists. The Monty Hall problem and Schrodinger’s Cat are examples in which our perceptions of reality and the math of reality disagree in a big way. It makes me wonder how much of the rest of my so-called reality disagrees with math without me knowing.
+
+If I were programming a computer simulation full of artificial humans who believe they are real, I would need to take some shortcuts in creating their context and history. It would be nearly impossible to invent consistent histories for seven billion people spanning back to the primordial ooze. A far smarter approach would be to craft the history as you go, based on the present, in whatever minimum way is necessary to make all histories consistent.
+
+For example, let’s say you learn that you are the grand winner of a lottery. At the moment you realize you are the big winner, history becomes limited to only the possibilities that got you to that winning moment. Before you learned you were a winner, the reality at the lottery headquarters was only a smear of possibilities - like Shrodinger’s Cat - where you were both a winner and a loser, just like everyone else. As soon as you learn you won, your history and everyone else’s harden to conform to it. No one else can perceive that they won the grand prize in that particular lottery.
+
+If I were the programmer of this simulation that you call your reality, I would make the history dependent on the present just to streamline my work. All I need from my fake history is that it is consistent with all the other fake histories so there is no “tell” left by the programmer.
+
+I realize the simpler explanation for my confusion about Monty Hall and Schrodinger’s cat is “Math be hard.” But I like the psychological freedom of feeling as though I am the author of my own history and not its bitch.
+
+Here’s the cool part: I get to keep my interpretation of reality - in which my history is a manufactured illusion - until something in my present experience is inconsistent with that view.
+
+Recently I heard of two senior citizens with mild dementia who became friendly at a senior care facility. Their fragile minds concocted an elaborate history of being childhood acquaintances that had found each other through fate. No one tries to dissuade them of this illusion because it works for them. They successfully rewrote their histories without any repercussions.
+
+I wonder how often the rest of us rewrite our histories. Our only limitations are that our new histories have to be consistent with whatever scraps of history have already hardened.
+

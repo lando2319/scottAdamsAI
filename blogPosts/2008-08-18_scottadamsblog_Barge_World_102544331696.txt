@@ -1,0 +1,13 @@
+I’ve written about this before, but it’s interesting to see the technology coming together to make it feasible. The idea is that people will start living on barge-like boats and slowly motor or sail around the ocean to stay in the best weather.
+
+You’d need a number of technologies to make this feasible, and all of them either exist or soon will. Obviously you want solar power, and some method of storing the energy for night, such as this: http://web.mit.edu/newsoffice/2008/oxygen-0731.html http://web.mit.edu/newsoffice/2008/oxygen-0731.html
+
+You’d need a desalinization device, GPS, and some sort of satellite Internet service. And you’d probably need some serious waste treatment gear.
+
+The reason I think the future will be barges instead of standard boats is that you can start small and add real estate as you can afford it. Just connect a new barge and presto. And you can dock to other barges to create temporary or permanent communities. If the barges are designed to be connected, according to some common standard, the entire city can move around to the best weather and fishing spots as needed.
+
+The reason I think this will be a compelling lifestyle is that you won’t have to pay much in taxes if you live and work in international waters. And there will be no government to squelch your freedoms, unless you choose to form one. Big countries will have no compelling reason to conquer your barge, or even your barge city, because it will have no strategic value.
+
+With scale, you get floating hospitals and schools and all the other services you need. The big problem would be pirates. But there is a theoretical amount of firepower that makes that risk manageable too. You could have your own surveillance drones that warn you well in advance of any company.
+
+I think it will happen.

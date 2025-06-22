@@ -1,0 +1,38 @@
+Note: If you’re a business model nerd like me, this post is likely to interest you despite the fact that it also involves a transparent promotion for my startup. However, if the normal mechanisms of capitalism feel icky to you, I understand. Feel free to skip this one. But I promise it is interesting.
+
+—
+
+The big problem with startups is that most of them fail. Still, lots of people are willing to take that risk because the upside potential is so high. Also, failing makes your odds of succeeding with the next startup much higher. It turns out that failure is an excellent teacher http://amzn.to/2gSzZEg. But any way you look at it, startups are risky business.
+
+Startup incubators reduce their risk by pooling a bunch of startups together and hoping that at least one is a big winner that pays for all the losers. This is similar to the concept of investing in an index fund instead of picking individual stocks. Diversification is a great way to spread risk, but the tradeoff is that the upside potential is watered down by the losers in the pack.
+
+In a perfect world you would have the upside potential of a startup with the risk profile of an incubator. The closest anyone gets to that perfect world is an initial product and a few pivots before running out of cash. A three-pivot startup is like a mini-incubator in itself. It takes three separate swings at the ball and hopes at least one of them connects. But three swings is not many when you consider how often startups fail. Is there a business model that does better?
+
+I hope so, because my startup WhenHub https://www.whenhub.com/ is designed from the ground up to be similar to the risk profile of an incubator but in the form of a single startup. We accomplish that by creating useful products that have universal appeal across thousands of different applications. If the public gets excited about any one of those thousands of applications, we probably have a way to monetize. 
+
+Our startup’s domain is time, including any kind of schedule, historical timeline, curriculum, itinerary, you name it. We take those “stories” of time and turn them into interactive visualizations you can share. That means literally every human over the age of 12 has dozens of potential uses for what we do. It’s good for families, businesses, schools, and any other kind of organization. 
+
+We like to compare WhenHub https://www.whenhub.com/ to office applications such as Word, Excel, PowerPoint and the Google equivalents. If you ask me who the target market is for any of those applications, I would say the question makes no sense. People of all types use those products for thousands of distinct reasons. WhenHub https://www.whenhub.com/ is like that, by design. 
+
+Obviously we can’t completely match the risk profile of an incubator because we have one team of people, and ideally you want to diversify both the people and the products to get the best risk control. But our team has happily worked together for a long time, no drama, and that’s all good news. I don’t see that changing unless the people change. And we all seem happy at the moment. (Thrilled, actually. This phase is the most fun.)
+
+WhenHub is both a Studio product that you access with your web browser plus an app https://www.whenhub.com/products/mobile/approach/ that does real-time travel visualizations. Both parts of WhenHub are designed to have thousands of potential uses. 
+
+Before designing WhenHub we met in person with some of the smartest investors in the startup world. One well-known billionaire told us he only likes startups that have the so-called network effect https://en.wikipedia.org/wiki/Network_effect, and so we designed to that. WhenHub gets more valuable as more people use it, and it is hard to leave once you are in it. (Like Facebook, for example.)
+
+One of the most successful angel investors in the country told us he likes startups that can grow without advertising, so we designed to that standard too. Our “time stories” piggyback on any headline that is already viral and we add visual appeal to make sharing attractive. For example, at the end of this post is a Whencast of the NFL Playoff season. (Sports schedules are a tiny part of what we do.)
+
+Another famous investor told me he doesn’t like to invest in anything that a teen wouldn’t use. The WhenHub app https://www.whenhub.com/products/mobile/approach/ is perfect for teens heading to casual meet-ups. And the we expect schools to be big adopters of the WhenHub scheduling features. So teens will be all over it, we hope, once we get their attention. And their parents and teachers will do that for us. The Network Effect will drag them in.
+
+We’ll be looking for several million in funding in the next month or so. If you are a qualified investor and you want a sneak-peak at the pitch deck, you can contact me at Investor@WhenHub.com. We like advice too. 
+
+Business reporters are welcome to use the same email if you want to hear more about our business model.
+
+—
+
+Here’s an example of how WhenHub piggybacks on current events that the public already cares about. This example is the NFL playoff schedule, but it could be any current event. You can add the schedule to your own calendar, or share with others via email, or on social media, and we will keep it updated throughout the playoffs. You can even embed it in your blog with a copy-paste to HTML, like I did below.
+
+This map-style visualization is one of many options. click the icon in the lower right corner to see full screen. 
+
+
+[http://tm.whn.is/s/5876d4b4fcc4c705e86ffad6] https://studio.whenhub.com/schedules/5876d4b4fcc4c705e86ffad6

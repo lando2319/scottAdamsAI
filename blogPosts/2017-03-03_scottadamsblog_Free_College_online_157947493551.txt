@@ -1,0 +1,27 @@
+At the moment, the in-person college experience is superior to taking classes online. Today, online teaching is mostly simple videos of people talking and pointing at things. But that advantage of in-person college over online classes won’t last forever. The in-person experience will stay largely as it is, but online lessons will evolve indefinitely toward better techniques, more content, and more scientifically-proven methods. Best practices will propagate quickly online.
+
+Only three things are missing to make this vision of universal free online college a reality:
+
+1. You need an open online platform on which anyone can post a lesson plan, and anyone else can use it or improve it.
+
+
+2. You need a law that says copyrights are suspended for the online education platform (only), so anyone can copy and improve the work that came before.
+
+3. You need some form of accreditation.
+
+The government can take care of the copyright and accreditation issues if it chooses to do so. And my startup https://www.whenhub.com/ accidentally built an online education platform that you can use today. We didn’t build it for that purpose, but it does the job. People are already creating and sharing class lessons on it.
+
+We don’t yet have a feature for voting on the best class lessons, but that’s coming at some point.
+
+Some of my regular readers know that in 2012 I blogged about trying to “sell an idea” http://blog.dilbert.com/post/102964860876/selling-an-idea that would change the world. This was the idea. We didn’t build our startup to do this function. It happened by accident when we built a platform that can do literally thousands of things that involve creating and sharing content in a time-ordered way. Creating class lessons just happened to be one of the things it does. I didn’t even realize it until it was up and running.
+
+Whenhub https://www.whenhub.com/ might not become the ultimate online education platform. But it does a good job of showing the potential. I mocked up an example Whencast below to show how easy it is to create a lesson plan and share it. Just go to Whenhub.com https://www.whenhub.com/, sign up for free, clone this template, and add your own content.
+
+Notice that I used artificial dates just to keep the lessons in order. And I added to the first lesson a photo, video, text, and a link, just as examples. 
+
+If the country wants free college for everyone, this is the disruptive path it will probably have to take. In ten years, I can’t imagine a scenario in which physical colleges are still competitive with online options, on price or performance.
+
+A physical college is largely limited to using the professors it has. But an online system such as Whenhub can improve forever. It isn’t even a fair contest in the long run.
+
+
+[http://tm.whn.is/s/58b9919121a12724cc25dbf2] https://studio.whenhub.com/schedules/58b9919121a12724cc25dbf2

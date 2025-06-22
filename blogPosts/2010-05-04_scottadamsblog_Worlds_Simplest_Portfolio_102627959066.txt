@@ -1,0 +1,25 @@
+Investing is scary because the world of finance is the ultimate confusopoly. There are so many options from which to choose that many people are willing to pay perhaps 1% of their portfolios per year for experts to manage their money. And those experts might invest your money in managed mutual funds (managed by yet other experts) that charge you another 1% to pick stocks for you. And this is despite the fact that on average, experts can’t beat a monkey with a dartboard when it comes to picking stocks. Every study has shown this to be true. As far as I know.
+
+Worse yet, actively managed funds will generate more tax liability for investors than necessary because managers need to churn stocks to maintain the appearance of usefulness.
+
+There once was a time when most experts agreed, roughly, in how a typical portfolio should be allocated. If you were young, you should own mostly stocks. If you were nearing retirement, you should have mostly bonds. But lately, even that assumption is being questioned. Some experts now say you need a healthy percentage of stocks even if you’re nearing retirement, because you might live another 30 years.
+
+This made me wonder if you and I could come up with the world’s simplest portfolio that is better than what the average money managing expert might concoct. I’ll toss out some suggestions here, and you can improve on them in the comments section, keeping within some simple guidelines.
+
+First, let’s assume the hypothetical money is invested entirely for retirement, so we don’t need to worry about keeping any of it liquid for college or buying a house. That assumption is just to keep things simple.
+
+Second, we’re only talking about investments up to 10 years prior to your planned retirement. When you near retirement, you would typically and gradually convert as much of your stock portfolio into bonds as necessary to get the monthly income you need. That’s a more complicated scenario than what I want to discuss here.
+
+I suggest, as a starting point for our discussion, that a perfectly adequate simple portfolio for young(ish) people might involve putting 50% of your money in an ETF from Vanguard (VTI), which captures the entire Wilshire 5000. In other words, you’d buy one financial instrument and own a little bit of just about every public company in the United States. That’s all the diversification you can get within one country, and the U.S. is still considered a relatively safe place to invest even if it doesn’t have the best growth potential. The fees for the ETF are a low .015% per year, and because ETF managers don’t do much buying and selling within the portfolio, it doesn’t generate much taxable income to pass along to investors.
+
+I picked 50% to allocate to this investment because I contend that no expert has a good reason for picking a different figure. Some experts might tell you 25% is the right allocation for U.S. stocks, and some might say 75%. I contend that most allocation recommendations of that sort are no more defensible than horoscopes.
+
+For the remaining 50% your investments, let’s say you buy the Vanguard Emerging Market ETF (VWO) with a .27% expense ratio. That gives you a play on the best companies in emerging markets around the world, at low cost, with excellent diversity, and low taxes.
+
+Disclosure: Vanguard has licensed Dilbert in the past. I don’t have any financial interest in them now, nor do I have any investment with them. I only use Vanguard as an example because they are a familiar and trusted name, in case you aren’t familiar with ETFs and you wonder if they are sketchy. ETFs are as close as you can get to a commodity, and there are lots of companies from which you can get them.
+
+Now it’s your turn. How could my sample simple portfolio be any better than 50% in VYI and 50% VWO? You have to defend your viewpoint. No fair just telling us what you do now. Tell us what data you have to suggest you could do better with a different portfolio than I described.
+
+And remember that your suggested portfolio needs to be simple enough for the average person to understand and obtain without expert advice and without excess risk.
+
+(I should note here that it would be extraordinarily unwise to base any of your investments on what you read in a cartoonist’s blog. This is just a mental exercise.)

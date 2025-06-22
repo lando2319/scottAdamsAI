@@ -1,0 +1,37 @@
+Most of you are familiar with A-B testing for websites. You randomly display one of two website designs and track which design gets the most clicks. People do A-B testing because it works. But where else does it work?
+
+When I asked for opinions about why anyone would NOT buy my new book, How to Fail… http://amzn.to/1gqmtO8, the most common opinion I got (mostly via email) is that the title and the cover are the “obvious” problem. Folks tell me that a book with “fail” in the title isn’t a good gift item, and no one wants it seen on their own shelf for vanity reasons.
+
+To me, the interesting thing about this common observation is the certainty of the folks who make it. For them, it just seems totally obvious that the title and cover are the problem. And when you add the “memoire” confusion, they say the cover is killing the book.
+
+Does that sound right to you? This is one of those interesting cases of common sense versus experience.
+
+Here’s the problem with the theory that the title and cover are prohibiting sales: As far as I know, no one with actual experience in publishing would agree with it.
+
+Publishers will tell you – as they have told me on several occasions – that no one can predict which books will do well, with the obvious exception of some big-name celebrity books. No one with publishing experience can accurately predict sales based on the book’s title, cover, or even the content. Success comes from some unpredictable mix of the zeitgeist, timing, and pure luck.
+
+That’s why a jillion books are published every year and probably 99% are not successful. If publishers had the power to turn dogs into hits by tweaking the titles and the covers, wouldn’t they be doing it?
+
+Have you ever heard of books being retitled and republished with a new cover and going from ignored to huge? Me neither. Maybe it happened once, somewhere. But in general, it isn’t a thing.
+
+Would you have predicted that there would be a hugely successful series of how-to books that call their buyers dummies and idiots? And how the hell did Who Moved My Cheese sell more than three copies worldwide? None of this stuff is predictable.
+
+Or is it?
+
+I try to stay open-minded about this sort of thing. And I wondered if there was an easy way to do A-B testing without actually retooling the hard cover. (That would be a huge hassle for a variety of boring reasons.) I could do Google Adwords testing to see which titles drive more traffic to Amazon and Barnes & Noble. But people would still see the real title when they arrived.
+
+I could look into issuing a new Kindle version with a friendlier title. That’s probably a bigger hassle than you think, even though one imagines it shouldn’t be. And for best seller tracking, it would look like two books each selling half as much as a single book might have.
+
+So I have two questions.
+
+1. Do you believe publishers are wrong about the importance of the title/cover
+
+2. Is there a practical way to do A-B testing for books already published? 
+
+If it turns out that some sort of rebranding of books does increase sales, you could start a company that does nothing but buy poorly-selling but well-written books from publishers who have given up on them. Then apply  A-B testing to create a title and cover that will perform better. It’s like free money.
+
+The absence of such a company, or such a practice within an existing publishing house, makes me think this approach is unlikely to work. But it doesn’t seem impossible that it could work either.
+
+
+ 
+

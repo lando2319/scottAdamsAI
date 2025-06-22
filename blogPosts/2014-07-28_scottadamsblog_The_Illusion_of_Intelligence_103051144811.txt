@@ -1,0 +1,44 @@
+[Update: I haven’t seen in the comments an example of intelligent behavior that a human has and a computer does not (or can not have) with today’s technology. I see examples of things that GROUPS of humans can do (design a better computer) and I see examples where the missing ingredient is motive, not intelligence, and I see examples where emotion is conflated with intelligence, and I see examples where humans do things by trial and error. I can’t comment on your older comments because my blogging software doesn’t display them in my stupid CMS. – Scott]
+
+
+
+
+Maybe the reason that scientists are having a hard time creating artificial intelligence is because human intelligence is an illusion. You can’t duplicate something that doesn’t exist in the first place. I’m not saying that as a joke. Most of what we regard as human intelligence is an illusion.
+
+I will hedge my claim a little bit and say human intelligence is mostly an illusion because math skills are real, for example. But a computer can do math. Language skills are real too, but a computer can understand words and sentence structure. In fact, all of the parts of intelligence that are real have probably already been duplicated by computers.
+
+So what parts of intelligence are computers failing to duplicate? Answer: The parts that only LOOK like intelligence to humans but are in fact just illusions.
+
+For example, science knows that we make decisions before the rational parts of our brains activate. So if you make a computer that thinks first and then decides, you haven’t duplicated human intelligence. If you want your computer to think like people it has to start with an irrational set of biases, make decisions based on those irrational biases then rationalize it after the fact in ways that observers think are stupid. But no one would build such a useless computer, or even try.
+
+I laughed about the recent reports of a computer that passed the Turing test by pretending to be a teenager that was such an airhead jerk that he never answered questions directly. That fooled at least some of the observers into thinking a real teen was behind the curtain instead of a computer. In other words, the researchers duplicated human “intelligence” by making the computer a non-responsive idiot. Nailed it!
+
+Allow me to go through some examples of what we might regard as human intelligence and I’ll show you why it is nothing but illusions.
+
+Politics: When it comes to politics, humans are joiners, not thinkers. The reason a computer can’t have a political conversation is because politics is not a subset of intelligence. It is dogma, bias, inertia, fear, and a whole lot of misunderstanding. If you wanted to program a computer to duplicate human intelligence in politics you would have to make the computer an idiot that agreed with whatever group it belonged regardless of the facts or logic of the situation.
+
+If you insisted on making your computer rational, all it would ever say is stuff such as “I don’t have enough information to make a decision. Let’s legalize weed in Colorado and see what happens. If it works there, I favor legalizing it everywhere.” In other words, you can program a computer to recommend gathering relevant information before making political decisions, which is totally reasonable and intelligent, but 99% of humans would vehemently disagree with that approach. Intelligent opinions from machines would fail the Turing test because irrational humans wouldn’t recognize it as intelligent.
+
+Love: A computer can’t feel love, but love is an irrational chemical reaction that causes us to mate and care for families. There’s no intelligence in love.
+
+Buying a New Car: Do you need intelligence to select a new car? Apparently you don’t need much, because two people in the same situation will select different cars. We get influenced by the color, the style, and other factors that appeal to our bias. From there we rationalize away the low gas mileage and the bad reliability. The only genuine thinking involved in buying a car involves knowing if you have enough money for it, and a computer can do that. A computer could do the rest by being programmed to have a favorite color and a particular style preference (flashy or boxy). Then the computer can rationalize the choice after the fact, same as humans. But there is very little human “intelligence” involved.
+
+Following Complicated Instructions: We humans often need to follow complicated instructions to complete tasks. When the directions are clear, about half of all humans will get the job done right and half will get it wrong. A computer could probably succeed at about the same rate already. If we try to create a computer that always gets instructions right, we aren’t duplicating human intelligence because humans can’t do that. Humans only get things right on a regular basis when the instructions are simple and clear. Computers can already do that.
+
+I could go on forever with different examples of human behavior that appear intelligent but are not. My point is that we are looking to the future for the day when computers equal us in intelligence when in reality that day is behind us.
+
+Okay, commenters, give me an example of human “intelligence” that a computer can’t already duplicate with a little programming effort. And keep in mind that it has to be an example in which nearly all humans would make the same choice. Otherwise the computer can duplicate the behavior by randomness or a set of programmed biases, and none of that is intelligence.
+_________________________________
+
+Scott Adams
+
+Co-founder of CalendarTree.com http://bit.ly/N8iAnK
+
+Author of this book http://amzn.to/1dF0EJK
+
+ 
+
+
+
+ 
+

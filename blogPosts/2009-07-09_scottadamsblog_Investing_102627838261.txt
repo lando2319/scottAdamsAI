@@ -1,0 +1,19 @@
+Yesterday a financial institution offered to help manage my portfolio for a fee of only .75% per year. With that fee structure, they get ten times as much in fees from a client who has ten times as much in his portfolio, even if managing it is the same amount of work, which it presumably would be.
+
+I assume at least part of the money these professionals propose to manage would get directed toward funds that are managed by yet other professionals who take even more of your money no matter how well they perform. And they too will get higher fees when you invest more, despite their workload being the same for any amount.
+
+Part of the pitch for this financial service was that I would get to approve any adjustments to the portfolio they recommend.
+
+Pause to digest that.
+
+If I were smart enough to override the advice of experts, why would I pay the experts for advice? The entire system depends on me being dumb enough to think that concept makes sense. And what exactly was the opposite of that arrangement? Do other companies propose to invest your money against your will?
+
+So suppose you give your financial advisor only half of your portfolio to manage, and then you duplicate whatever he does with the other half. Your results would be the same, but his fee would be halved. He’ll argue that he needs to see the whole portfolio to do his job right, but he doesn’t. You just need to be sure you have adequate liquidity (ready cash) in case you need it.
+
+Someday someone will create a web service that has a few dozen sample portfolios that can fit just about any need. The user will answer a series of questions about his situation, and the system will spit out a portfolio suggestion. After that, the system will generate e-mails asking you to update your personal situation, in case that changes the portfolio recommendation, and alert you if any of your investments need to be tweaked.
+
+The sample portfolios could be as simple as broad index ETFs, some domestic and some international, for the equities, and some bond funds for fixed income. All you would ever need to adjust is the percentage of your funds in each type of vehicle once every several years.
+
+If the tiny fees of the ETFs are still too rich for your blood, it wouldn’t be hard for someone in the know to come up with a sample portfolio of say 25 individual stocks that are likely to perform just like an index. You pay the discount broker fee once, and adjust every few years as needed.
+
+Now you will tell me it is already being done.

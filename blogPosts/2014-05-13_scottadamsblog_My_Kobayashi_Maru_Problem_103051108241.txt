@@ -1,0 +1,66 @@
+I have an interesting problem.
+
+As part of my co-founder duties for CalendarTree.com http://bit.ly/N8iAnK I’ve been on a knowledge-absorption quest in preparation for raising capital.
+
+Your first question might be “Why does the Dilbert guy need money from other people?” The answer is twofold:
+
+1. I have a substantial investment in the start-up already. Portfolio diversification is a standard financial discipline. 
+
+2. Raising funds isn’t just about the money. It’s how you acquire a network of contacts that have an interest in your outcome. And it is a signal to the world that your business must be credible because serious people are backing it.
+
+I’ve been talking to some of the smartest people in the start-up world lately and I’ve learned a few things that I find fascinating. First, experienced investors understand they have no crystal ball for picking winning start-up ideas. As I’ve often said in this blog, ideas are worthless (because everyone has one) whereas the ability to execute is priceless because it’s rare. And indeed I have learned that the quality of the start-up idea only matters to the degree that it isn’t obviously dumb. Once your idea reaches the level of “sounds good” you are deemed equal - at least on an idea level - to all other start-ups that also sound good. And there are a zillion of those.
+
+The tie-breaker for attracting funding is the talent you bring to the start-up. Investors have transferred their superstition about their ability to pick winning ideas to a new superstition about their ability to pick winning teams of people. Is that really easier?
+
+Obviously an investor can identify the truly bad entrepreneurs and avoid them. But an investor can also identify truly bad business ideas, and that doesn’t help pick winners from the group that is left over. So I wonder if there is any science behind the notion that investors can pick winning start-up teams from the class of folks who are not obviously stupid or insane.
+
+My guess is that there is a whole lot of self-fulfilling prophecy going on. Once an entrepreneur is identified as a potential winner, resources and attention flow to the start-up. The buzz starts. Optimism increases. And sure enough, that entrepreneur ends up with slightly better odds of success than others in the “good enough” group.
+
+The next interesting thing is that you need to have extraordinary technical people on your team to attract funding. But you need funding to attract extraordinary technical people. The chicken and the egg both need to come first. The winning entrepreneurs are the ones that solve this Kobayashi Maru (i.e. impossible*) test. There are two popular ways to solve this problem.
+
+1. One of the founders can be the technical talent. 
+
+2. A founder can have a start-up track record so strong that technical talent can be attracted based on the high likelihood of funding. 
+
+The technical team for CalendarTree is BlueChilli, our equity partners out of Australia. Their business model involves helping founders with the technology end of things (and lots more) then assisting in the transition to funding and building an in-house team of talent for the start-up. That’s the phase we’re in now. We’re looking to build out our local team.
+
+So here’s my interesting problem: Can the creator of Dilbert find great hackers (of the code, UX and growth variety) in the San Francisco Bay Area? It’s going to be a lot harder than you might think.
+
+First, some background. CalendarTree solves a universal problem in the world of scheduling. Briefly, we turn your schedule into a link that allows anyone to add the entire series of events to an existing calendar without manually typing it. We think that’s a strong business opportunity on its own, and it’s up and running to rave reviews, but our long term plans are far bigger. I’ve shared the stealth part of the plan with some top investors who didn’t blink when I called it a billion-dollar opportunity. And there seems to be general agreement that the only known obstacle is attracting the talent to execute the plan.
+
+In the interest of full-disclosure, we stumbled on the billion-dollar opportunity while building out the medium-sized business I briefly described. The huge-sized opportunity is sort of invisible until you hear it for the first time.
+
+I’ll share the billion-dollar plan with qualified job applicants. If you live in the SF Bay area, and you want to be part of something big, and you’re an exceptional hacker (code, UX, or growth) email me at scott@calendartree.com scott@calendartree.com. My co-founder and I would love to meet you.
+
+We’re looking for a fast, smart hacker or two with the following skills.
+
+CAL/DAV experience (ideally)
+
+C# .NET specialist. We use .NET 4.5 MVC4 and EF6
+
+Front-end Javascript (Jquery) and HTML5, CSS/LESS
+
+Understanding of GITHUB with NUGET desired
+
+And if you can play with iOS, that’s highly desirable
+
+As a bonus, experience with IIS8, Windows Server 2012 and SQL Server 2012 desirable
+
+I hope my regular blog readers don’t mind a glimpse into the start-up process in return for enduring this job posting. Let me know in the comments if you’d like ongoing updates on CalendarTree when things seem interesting.
+
+
+*Yes, I know Kobayashi Maruis a no-win situation, which is slightly different from an impossible situation. But I like the sound of it anyway.
+
+—————————
+
+
+
+Scott Adams
+
+Co-founder of CalendarTree.com http://bit.ly/N8iAnK
+
+Author of this book http://amzn.to/1dF0EJK
+
+
+ 
+

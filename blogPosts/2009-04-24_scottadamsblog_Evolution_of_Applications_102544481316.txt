@@ -1,0 +1,11 @@
+I’m always fascinated when an incremental change to an existing technology creates a new application. For example, you can browse the Internet with your phone, but its usefulness is limited to times when a regular computer isn’t handy. Eventually, when your phone’s browser speed approaches the speed of your regular computer, you won’t bother getting off the couch to check something online. That’s like a new application.
+
+I was reminded of this while trying to make choices for the home we’re building. As you might imagine, there is a huge amount of home-related information online. But if you want to Google up some ideas for decorating a tall wall, you’re out of luck. If you want to see a bunch of cabinet types that fit with our look, you have to go on a scavenger hunt online. The Internet is surprisingly unhelpful for house design. But over time it will evolve into that application.
+
+I predict that by the year 2030 or so you will be able to design an entire home online without much help from architects, designers, engineers, or landscapers. That expertise will all be handled with software, the same way TurboTax took over for the expertise of tax preparers.
+
+As I work through the home design process, I’m struck by the fact there are so many clear rules. The process begs for programming more than art. For example, you want your kitchen near the interior door from the garage, and you want your washing machine relatively near the bedrooms, and so on. I should be able to tell my software my requirements for number of bedrooms, budget, and features, and have it spit out all the designs that meet my criteria. The software would optimize the house shape and orientation for my lot size and even make sure the plumbing distances were minimized. The program could make sure the design met all the local codes and restrictions. And it would be the greenest home that is practical.
+
+The user would still make the final aesthetic decisions, but choosing only from a menu of homes that met his criteria. And he could walk through a 3D model before making any decisions. If he decided to add a bathroom, the entire floor plan would reconfigure to accommodate the change without breaking any rules.
+
+So if your kid wants to become an architect, consider talking him out of it.

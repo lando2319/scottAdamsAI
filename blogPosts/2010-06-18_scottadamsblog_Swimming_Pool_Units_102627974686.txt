@@ -1,0 +1,7 @@
+In response to my previous post about storing energy, several of you mentioned pumping water to a mountain lake during the day and generating power at night as the water flows back down. Evidently that is already working in a number of places. The obvious limitation is that most people don’t live near an uninhabited mountain valley that can be turned into a lake.
+
+The question of the day for you engineers is this: How many swimming pools worth of water traveling downhill would it take to power one house for one night?
+
+Feel free to make assumptions about the typical size of a house and a pool, and the height the water drops. I’m asking because if the answer is less than half of one swimming pool per home, you could theoretically work out an arrangement with one uphill neighbor. You pump your private reservoir (not your actual swimming pool water) uphill to the neighbor during the day, release it at night, and share the energy. I’m assuming a tiny generator for this sort of application exists or could exist.
+
+And presumably you could have a string of homes, each higher in elevation than the last, with a generator at each level, so one swimming pool worth of water traveling downhill could get reused at each level.

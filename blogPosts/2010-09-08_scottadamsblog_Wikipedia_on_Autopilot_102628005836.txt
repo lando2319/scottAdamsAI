@@ -1,0 +1,29 @@
+Do you think that artificial intelligence will ever reach a level where Wikipedia could write itself?
+
+For that to be possible, all information that would ever be useful as source material for Wikipedia would need to be digitized and available on the Internet. That seems inevitable. I think we can agree that all of the source material will someday be on the Internet.
+
+I can imagine a future law, at least in the U.S., that makes all published information available to Wikipedia’s search engines for free, so long as only short bits are quoted and cited. So while you and I might have access only to public information and to books we own or borrow, Wikipedia’s search engines would have full access to all works.
+
+Wikipedia could partner with Google to search the Internet for new topics and new information on existing topics. That part is easy. But what sources would it trust? I can imagine a day when all sources of information on the Internet have some sort of reliability rating. For example, the Wall Street Journal would have a high reliability rating and this blog would have zero.
+
+The hard part for artificial intelligence is editing and summarizing content in a form that humans can easily digest. No one has yet designed software that can write well. But I think that’s coming. Writing is entirely rule based. Teaching a computer to write might be ten times harder than teaching it to play chess, or maybe a thousand times harder, but it’s only a matter of time. Learning to write is mostly pattern recognition.
+
+Somehow Wikipedia’s artificial intelligence would also need to judge what is important enough to include in its summary. Could software, for example, figure out how to describe the American Revolution on a page or two? I think it could, simply by comparing all of the source material on the topic and sorting it by the keywords that are mentioned most often.
+
+Once Wikipedia becomes untethered from its human editors it will grow at a much faster rate, and perhaps include knowledge on a deeper technical level, including patents, law, medicine, and so on.
+
+I don’t think Wikipedia will ever be self-aware, but there’s no real limit on how awesome it can be.
+
+Update:
+
+Reader Dan sends me this relevant link.
+
+See Wikipedia article on world’s most prolific author (via automatic data mining and autonomous computer authoring).
+
+http://en.wikipedia.org/wiki/Philip_M._Parker http://en.wikipedia.org/wiki/Philip_M._Parker
+
+http://www.icongrouponline.com/ http://www.icongrouponline.com/
+
+ 
+
+

@@ -1,0 +1,23 @@
+I want a computer interface that is built around the idea of actual faces on every file and file folder.
+
+It occurred to me the other day that everything I do has some sort of human associated with it. Some stuff might be for my editor, other stuff for my startup partners, and so on. Everything I do is ultimately for the benefit of at least one human, even if the human is me.
+
+Humans are wired to spot faces quickly. If you open a folder with fifty faces, you can spot the one you are looking for in a second. With our current computer interfaces I have to read all of the file names, or sort by date of creation. It’s doable, but not natural.
+
+The most natural way to sort files in a folder is by “target person,” as in who will be the audience or beneficiary of the file. The second filter would be by date last opened. So if I want to find the document my lawyer sent my last month, I pick his face from the crowd on my desktop, click on it, and view the documents in the order they were last accessed.
+
+This sort of idea wasn’t practical before Facebook, LinkedIN, and smartphones with cameras. In the past, you wouldn’t have access to photos of people to create your filing system. Now you can find a picture of most folks with a Google search, or a Facebook or LinkedIN search. And your family and friends are probably on your smartphone already.
+
+I don’t know about you, but I often lose files on my computer because I can’t remember the file name or the folder I put stuff in. If the application I used to create it has opened too many “recent” files, I have trouble finding my target file that way either. My hypothesis is that humans are so wired for social living that we would remember what “face” we filed something under more easily than we would remember a file name or folder.
+
+In some cases you might need to use fictional faces. Let’s say you pick Shrek as the face for your “miscellaneous” files. Even though the association of Shrek with random files makes no logical sense, I think you would still easily remember what face goes with which files, much the same way you can tell me what kind of car each of your friends drive. We easily remember what objects are associated with different personalities.
+
+Taking it one step further, I imagine my desktop looking like a model of the solar system, except instead of planets you would see floating faces representing various files and folders. Let’s say there are a dozen-or-so face-planets around a sun, and the sun represents you. You can rotate the face-planets around the sun by swiping your screen in any direction. As the face-planets rotate, the ones in the back come to the front and vice versa. You might arrange your personal face-planet solar system by time of day, so the work-related files are nearest you in their natural orbit during the day. At night, from home, on a different computer, you see the same face-planet solar system but by the time you get home, your personal files (face-planets) are nearest you.
+
+The idea is that you would sit down, think of the file you need, immediately associate it with a face, and know instinctively where the planet would be in your interface. Swipe once and it starts spinning until you tap to stop it. Then tap the face-planet to open.
+
+I got this idea from my dog, Snickers. She has herding genes and we can see that she keeps a mental model of who is in which rooms of our house at all times. There’s a lot of coming and going with a busy family, but by her actions we can tell she knows where everyone is at all times. If two people leave by car, but one returns, she always looks for the second person. She is hardwired to think of her world in terms of the humans in it and where they are. I think you and I do the same thing.
+
+I am always acutely aware of the location of my loved ones, although obviously I am sometimes wrong. They have a tendency to move without telling me. But I automatically keep a mental map, accurate or not, of the physical location of everyone I care about. I think that natural brain wiring can be used to keep track of files too. That’s all I’m saying.
+
+

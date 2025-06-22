@@ -1,0 +1,26 @@
+Suppose you’re driving across a long stretch of desert and notice that your gas tank is nearly empty. A sign says, “Last gas for 100 miles.” Unfortunately, the brand of gas is associated with an oil company that you consider to be unethical weasels. You have vowed to boycott their products. On principle, you drive past the gas station, run out of gas, and eventually die in the desert.
+
+Question: Were you principled or stupid?
+
+I ask this question because I worry that stupidity and principle are the same thing with different labels. That’s a big problem because labels are the high-level symbolic programming language for humans. In effect, we have this logic:
+
+If smart then go
+
+If stupid then stop
+
+Our environment is complicated, so in order to navigate it quickly, we evaluate familiar options once and then label them smart or stupid. Thereafter, we can automatically do the smart thing without having to rethink the situation. For example, sometime in your past you evaluated the idea of eating dirt and decided the option was stupid. Once labeled, you no longer need to think about it. You’re correctly programmed. When you encounter dirt at the same time you’re hungry, your brain’s computing power can be directed toward finding food instead of reevaluating the dirt-eating option.
+
+Unfortunately, smart and stupid aren’t the only labels our brain processes. We often encounter a third label called principle.  A principle is, by definition, a rule of conduct that is independent of reason. A principle doesn’t consider the advantages of its alternatives. It doesn’t consider new information, or differences in context. If you ignore the moral and superstitious elements of principle, as any machine would, then principle is, in effect, the same thing as stupid. In programming terms:
+
+Principle = stupid
+
+If principle then go
+
+In your daily life, your programming generally ignores principle. No one would choose dying in the desert over buying gas from an unloved oil company. But in the world of politics, principle is the dominant label. When President Obama framed the no-fly zone in Libya as a humanitarian principle, it instantly programmed many of his fellow citizens to support it. I don’t believe the president ever offered a cost estimate or described other options for those military and financial resources.
+
+Principle = go
+
+The military action in Libya might turn out well. For a reasonable investment, NATO and friends might hasten the end of an unpredictable dictator and embolden other democratic revolutions in the region. If so, America’s strategic interests could be served.
+
+On the other hand, democracy might be the step that happens before the countries in that region vote to form a Muslim caliphate. This sort of thing is unpredictable. All I know for sure is that I wouldn’t accept a car ride across the desert with anyone who thinks we should bomb Libya based on a humanitarian principle.
+

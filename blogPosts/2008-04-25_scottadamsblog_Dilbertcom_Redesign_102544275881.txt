@@ -1,0 +1,19 @@
+Recently we redesigned the Dilbert.com web site and added a ton of features, such as animation, deeper archives, mash ups, and more. The reaction from readers has been fascinating.
+ 
+www.dilbert.com http://www.dilbert.com
+ 
+Let me get this out of the way: I realize the Beta version of the web site has lots of issues. It’s overloaded with Flash, slower than it needs to be, and the navigation is confusing. We’re fixing most of that over the next few weeks. I apologize for the inconvenience.
+ 
+The fascinating thing about the responses is that it revealed three distinct types of Dilbert readers:
+ 
+The first group is the ultra-techies who have an almost romantic relationship with technology. For them, the new site felt like getting dumped by a lover. Their high-end technology (generally Linux) and security settings made much of the site inconvenient. Moreover, the use of Flash offended them on some deep emotional level.
+ 
+The second group objected to the new level of color and complexity, and the associated slowness. They like their Dilbert comics simple, fast, and in two colors. Anything more is like putting pants on a cat.
+ 
+The third group uses technology as nothing more than a tool, and subscribes to the philosophy that more free stuff is better than less free stuff. That group has embraced the new features on the site and spiked the traffic stats.
+ 
+For you first two groups, if you promise to keep it to yourselves, we created a stripped-down Dilbert page with just the comic, some text navigation, and the archive: www.dilbert.com/fast http://www.dilbert.com/fast. This alternate site is a minor secret, mentioned only here and in the text footnote to the regular site as “Linux/Unix.”
+ 
+The main site will be getting a Flash diet that will make it speedier soon, so check back in a few weeks. That’s where all the fun will be.
+ 
+Enjoy.

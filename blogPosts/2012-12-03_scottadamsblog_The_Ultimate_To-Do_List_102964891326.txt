@@ -1,0 +1,62 @@
+I have a complicated life, mostly by choice. I probably have a hundred items on my mental to-do list if you count all household, personal, and business tasks. There are so many tasks on my list that I literally don’t have time to maintain the list itself.
+
+On any given day I might have a dozen items that I need to remember to put on a shopping list, probably twenty minor home repairs that need attention, a dozen phone calls, several tax-related questions for my accountant, several questions for my attorney on the five projects he’s working on, and about twenty-five files/piles on my desk that all relate to tasks I need to complete. And none of that counts my everyday tasks of writing blog posts, making comics, and approving licensed products. Nor does it count the holiday crush and the scheduled events I need to prepare for, and on and on.
+
+I’m sure most of you have complicated lives too. So I wonder if anyone has created the ultimate to-do list system.
+
+The biggest problem with a list, especially once it gets to a dozen items or more, is that a list is one-dimensional. Ideally, I want my list sometimes organized by priority, but other times by location. For example, my to-do list app should sense my speed and motion and sort to the top of the list any tasks that involve phone calls, under the theory that I’m probably driving my car and I can make some calls on the way.
+
+Other times I want my to-do list sorted by location. If I’m driving past the store, the items I need from the store should sort to the top of the list automatically. That function already exists in at least one “notes” app I’ve seen.
+
+At other times I want my list to have the simplest and quickest items on top because I might have a spare five minutes and want to knock off a few items.
+
+Time-of-day matters too. For the first few hours of every day I don’t want to focus on anything but creative work. After dinner, I’m more in a frame of mind to handle boring administrative stuff. I want my to-do app to know my personal preferences for managing my energy level.
+
+I also want my app to give me some satisfying feedback for crossing off an item on the list. Crossing off items is strange fun.
+
+At the very top of my wish list for a to-do app is speed. It’s not unusual for me to think of five things to add to my list on the walk from the kitchen to the garage, but it would take nearly a minute to get my phone out and enter five items. I rarely pause for a full minute to do anything, so instead I just feel frustrated in the knowledge that I will forget two of the five items on the list.
+
+I also want to attach long notes to any item on my to-do list. And I want my to-do list to tie into my calendar. And I want to share my to-do list with my wife in case our lists overlap or she is going to a store that has something on my list.
+
+You can see the problem here. It would take so long to manage a list with so many features and options that the list itself would become impractical. For every item on my list I need to know…
+
+1.      How important is it?
+2.      How long to complete?
+3.      Where is it done?
+4.      What order do things have to be done?
+5.      Who else might have the same task?
+6.      Is it done by phone, Skype, email, text, in person, or manually?
+7.      What time of day do I prefer doing it?
+8.      Does it combine with other tasks at the same time?
+9.      Is it complicated or simple?
+10.  Is it work-related or personal?
+
+I’ve tried several popular apps. None have risen to the level of a plain scrap of paper. So I’m wondering two things:
+
+1.      How long is your typical to-do list?
+
+2.      What is your system for managing it?
+
+Update:
+
+  After reading your comments and thinking about this a bit more, I have developed in my mind the to-do list interface I would like.
+
+For starters, my to-do list has to live on a smartphone so it is always with me, and so it can sync to my other devices through the cloud. To-do lists on smartphones currently have two problems: 1) the time and hassle it takes to write down an item, and 2) sorting items into the right categories. My solution goes like this:
+
+Imagine a Smartphone app that allows you to enter any spoken text string just by holding a button on the phone, similar to Siri, but without that annoying Siri delay. Just hold the button and say, “Paint the fence.” The app would record your voice and convert to text without having to otherwise wake up the phone. But just in case that didn’t work, it would also store your voice until you have time later to make sure the voice-to-text worked. Eventually the voice file will automatically delete, but only when you have moved your text to its proper list category sometime later, signifying that the text was accurate. (Otherwise you would have edited it before moving it to its category.)  
+Now imagine all of your newest to-do items are first in a sort of limbo storage area waiting to be dragged to their proper lists at your leisure sometime later. When you do the dragging to, for example, your “Household Chores” list, that icon expands to have a grid before you release the dragged text. The grid is organized by priority from top to bottom. If you drop your text near the top, it gets tagged as important. If you drag to a box toward the top and the right, it means the item is important but not due immediately. You can edit items to further tweak them and set colors or size to indicate other dimensions later.  
+
+Furthermore, I would like my to-do list to praise my fine work whenever I remove an item by completing it. I’d like the item to blow up in a satisfying spray of bit debris while a message tells me how awesome and productive I am. I would add some randomness to the praise to keep it feeling fresh. I might even want a sound option so I get the pleasing audio feedback that is so addicting in slot machines, for example. At the end of the day, I might even want it to send me an email showing all the items I completed and further praising me.
+
+If it’s impractical for phone manufacturers to add a physical button similar to Siri, I could also imagine the app being as accessible as the camera icon on the iPhone 5. The camera icon is now next to the slider bar that unlocks you phone, so you can just slide the camera icon and open to the camera instantly. Instead of the slider bar to unlock the phone, imagine several app icons on the left side of your phone, including the to-do list. You could unlock the phone by sliding any of the apps, thus opening to your chosen app instantly. I’m guessing Apple has that patent.
+
+The main thing you want to avoid with a to-do app is all of the tedious data entry to set reminders, click priority, tag, and whatnot. If you can’t do all of that with simple dragging and a few taps, people will stop using the app.
+
+For example, I’d like to tap my to-do entry once to highlight it, then tap icons that tell me if this is a phone call, administrative desk work, or something outside the house, etc. Perhaps I can customize those choices in the settings.
+
+If I tap a map icon, the map expands to let me drop a pin where the item must be completed. That way I can plan my route if I am out and doing errands.
+
+Someone please make this app.
+
+
+

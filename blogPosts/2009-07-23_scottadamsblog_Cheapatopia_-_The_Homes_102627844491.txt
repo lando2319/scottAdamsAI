@@ -1,0 +1,21 @@
+(See prior posts if you don’t already know what Cheapatopia is.)
+
+I learned a lot about green building practices recently because we’re building our own home right now and trying to make it as energy efficient as possible. Here’s the main thing I learned so far: There’s no practical way to know if you are making the right decisions.
+
+Every home is different. Every house has a different size, shape, orientation to the sun, shadiness, climate, mix of materials, and so on. Likewise, every family lives differently. So the right energy-saving solution for one lifestyle might be totally wrong for another.
+
+On the surface, most of the energy saving ideas you will encounter seem like no-brainers. For example, radiant barriers in the roof are known to be hugely effective. But if you have radiant barriers, how much do you need to insulate your walls in your particular climate, with your particular sun exposure, considering all the other energy features in your home? It would take a team of engineers to figure that out.
+
+And how about simple decisions such as tankless water heaters versus the newer continuous hot water systems that are remarkably efficient? Common wisdom says tankless is the way to go. But does your decision change if you have a larger house with lots of bathrooms? And has anyone factored in the maintenance cost and longevity of tankless systems? And how much hot water does my particular family use anyway? A consumer can’t make educated choices about this sort of thing.
+
+Our home will have a whole house fan. It’s a great technology for climates where it is hot during the day and cool at night. Unlike an attic fan that moves hot air out of the attic, the whole house fan sucks air out of the main house and pushes it into the attic and out. But do I really need it, given all the thermal mass in my home, the shaded windows on the west side, the radiant barriers, the insulation, etc.? Beats me.
+
+My point is that even professional housing developers have no idea which energy saving solutions should be designed into their homes. At what point do you reach diminishing returns? No one knows.
+
+In Cheapatopia, all homes will be tested with computer models before they are built. The goal will be to make the homes so well designed that heating and cooling costs (the biggest drains on energy) are minimized. Obviously the location of Cheapatopia will drive the specific energy-saving choices. Even the orientation of residential streets in Cheapatopia will be designed with sun exposure in mind. And perhaps there will be lots of underground pipes for geothermal heating and cooling. That’s as “ground up” as you can design a city.
+
+I’ll bet energy use per new home could be decreased by about 75% from the current average, using existing technology, if we simply engineered homes from the ground up to be as efficient as possible.
+
+You might have seen press reports of so-called zero energy homes. They tend to be one-of-a-kind models that are meant to make a PR point for some large energy company or developer. The basic approach is to build a modest sized home, which is automatically energy efficient, give it some good insulation, and slap a big photovoltaic system on the roof, thus generating more energy than it uses. The rest of the things they do right, from the fluorescent bulbs to the Energy Star appliances get lost in the rounding.
+
+In Cheapatopia, all homes will be zero energy, but they won’t need such large photovoltaic systems because everything else will be done right.

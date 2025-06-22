@@ -1,0 +1,53 @@
+I will bet anyone $1 million dollars that I can come up with a climate forecast model that ignores C02 and still predicts the temperature 30 years from now to within half a degree. Does anyone want to take that bet?
+
+Obviously there is a trick involved, so I won’t accept your bet for ethical reasons. But let’s see if you can figure out how I could win that bet every time. 
+
+I am 100% confident I can build a climate prediction model, using my current skill set, that will predict the measured temperature in 30 years to within half a degree.
+
+Furthermore, you can pick whatever measurement type and place you want for the bet. My trick does not depend on doing anything clever with the measurement itself.
+
+I can also build an accurate climate prediction model for any local geography. I can do it for the ocean or the air. And in each case, I have a 100% chance of getting the right answer to within half a degree.
+
+Would you take the bet?
+
+I’ll tell you the trick at the end. If you don’t understand how I plan to do it, you also won’t understand why this headline is hilarious nonsense.
+
+[https://64.media.tumblr.com/2ce34c3b62e2c9356995a879c15abcd8/tumblr_inline_omeec4b5Mr1t63ajm_540.png]
+
+Still puzzled? 
+
+I’ll give you another hint in the form of a thought experiment. What if you got an unsolicited email from a new investment company giving you a hot stock tip. You don’t invest because you have never heard of this company, but a month later, the stock they recommended is way up. Next month, you get another email from the same company, with another stock pick. That too goes up in the coming month. By the third time in a row that this company picks a winning stock, you start to think they must have a secret method. Let’s say the overall market was mixed, so getting three in a row is an achievement. Would you invest with this company?
+
+How did the company get those three stocks right? They used a scam. It’s the same scam I’m playing on you right now with my $1 million bet.
+
+The investment company sent out thousands of emails, and they had different stock recommendations in each. Some of the stocks ended up being winners, some losers. After a month, they see which of the thousands of emails had winning stock recommendations, then they only send their second email to that group. Then they repeat. By the third mailing, they might have reduced their population of “winners” from the original 10,000 recipients to just a dozen who, by chance, got three good stock recommendations in a row. 
+
+Now do you see how I could make a climate model that is right every time?
+
+All I need to do is make a hundred different models, each producing output that is half a degree apart, until I have at least one model that fits every possible outcome. My models would look like this:
+
+Model 1: Current Temp + .5 degrees
+
+Model 2: Current Temp + 1 degree
+
+Model 3: Current Temp + 1.5 degrees
+
+Etc. 
+
+And I’d include all the temperatures below the current temperature too, just in case we start to cool off. In 30 years, one of my prediction models will be correct by chance. I’ll throw away all the loser models and collect my $1 million bet.
+
+Now keep all of that in your head and take a second look at this headline. Does this model still look impressive? I’m guessing there were quite a few prediction models in the past, and lots of them now too. One of them will be more accurate than the others in 30 years. 
+
+Does that really tell you anything?
+
+[https://64.media.tumblr.com/2ce34c3b62e2c9356995a879c15abcd8/tumblr_inline_omefgpii8p1t63ajm_540.png]
+
+My point here is that I don’t care how many climate models are accurate if you don’t tell me how many were wrong. If 99 out of 100 climate scientists create models that are wrong, and one gets it right, would you bet on that winning model to stay right in the future?
+
+If you answered yes, I recommend letting someone else make investment decisions for you.
+
+—
+
+If polar bears used WhenHub https://www.whenhub.com/, they would find it easier to meet up with other polar bears. But I don’t know where they would charge their phones.
+
+[https://64.media.tumblr.com/eef5c7f415d4e5ff332b1af195a13ff7/tumblr_inline_omefoxMGLA1t63ajm_540.png]

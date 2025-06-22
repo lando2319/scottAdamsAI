@@ -1,0 +1,12 @@
+A number of you asked what equipment I’m using to build out my home podcasting studio. I put that tutorial in a WhenHub Whencast (my company’s startup https://www.whenhub.com/products/) so you can see an example of how WhenHub works for sort of thing.
+
+In this application the dates are unimportant except for ordering of steps. In a future release we’ll have an option for displaying no dates, just an ordering.
+
+The advantage of the Whencast is that you can clone it and modify it and reshare. For example, if you were a manufacturer selling a different type of video capture card you could just replace the one I show in the example with your product, change the link, and  the Whencast serves as a commercial for your product with a click-to-buy button built in. Best of all, as you update it, the updates flow to all the Whencasts connected to it anywhere in the world.
+
+This visualization style is good for tutorials, but WhenHub has lots of different looks for different applications.
+
+This is just one of a zillion things you can do with Whenhub. You’ll see more examples over time. I’ll try to make the topics worthy of your attention so it isn’t purely commercial. I trust all of you to be smart enough to know that blogs usually have commercial intent no matter what else they have. 
+
+
+[http://tm.whn.is/s/58879ea61bf6242f1cccd06c] https://studio.whenhub.com/schedules/58879ea61bf6242f1cccd06c

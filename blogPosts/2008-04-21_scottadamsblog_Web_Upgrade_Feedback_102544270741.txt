@@ -1,0 +1,17 @@
+Our web site upgrade (BETA) reminds me of a local restaurant in my area. The owner painted the storefront a hideous purple, the sort of color that is an insult to all buildings. He did it without city approval, and it got the residents up in arms. Everyone was talking about the restaurant with the awful color. A month later, the owner repainted with an inoffensive color and everyone was happy. In the meantime, the controversy made this restaurant universally known in the area. I drove past it the other day and it was packed. Damn, I wish I had thought of that idea with my own restaurant.
+
+We weren’t nearly that clever with our web site redesign, but something like the purple restaurant happened by accident. The majority of people who left a comment had bitter (and totally valid) complaints. We used way too much Flash, the servers slowed to a crawl, the navigation of strips was klunky, and so on. We plan to fix all of that in the next week or two. The developers won’t be getting much sleep. We’ve already made the site much quicker.
+
+Meanwhile, traffic on Dilbert.com doubled. And the new features, particular the Mash Ups and the archive search functions are a big hit. People either loved that the strips are now in color or hated it, but everyone had a strong opinion. That’s what I love about Dilbert readers. It makes my job a lot more interesting.
+
+Linux users were the most vocal in their complaints. (Who saw that coming?) Your numbers are small but your power is mighty. Just for you, we’re working on a bare bones page with only the strips, text navigation, and not much else. Look for that in a week or so. You’ll be able to jump from there to the main page if you want to experience the new features like regular folk.
+
+In the meantime, you can always use the new (legal) Dilbert RSS feed. It’s just the strips, the way you like it. Click here:
+http://feeds.feedburner.com/DilbertDailyStrip http://feeds.feedburner.com/DilbertDailyStrip
+
+We appreciate all the comments. We’re looking at them carefully and making changes. Some will say we shouldn’t have inflicted this messy Beta version on the public. There’s merit to that argument, but if I was worried about embarrassing myself in front of millions of people, I would need a new job.
+
+Thanks for working with me through this upgrade. I apologize for the messy start.
+
+P.S. My blog hasn’t officially moved to this page yet. You can read the regular posts at the old site:
+http://dilbertblog.typepad.com/the_dilbert_blog/ http://dilbertblog.typepad.com/the_dilbert_blog/
