@@ -4,7 +4,7 @@ const fs = require("fs/promises");
 const path = require("path");
 const { htmlToText } = require("html-to-text");
 
-const OUT_DIR = path.resolve('./blogPosts');
+const OUT_DIR = path.resolve('../blogPosts');
 
 const API_KEY = process.env.TUMBLR_API_KEY;
 

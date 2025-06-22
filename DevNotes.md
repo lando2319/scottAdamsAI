@@ -1,3 +1,8 @@
+# OpenAI
+
+Do a back of the napkin check on the number in my vector store
+should be blogPosts + cwsa_transcripts
+
 # Tumblr
 
 Tumblr api pull said scottadamsblog has 1962 posts but we ran it and it only created 1961 files
