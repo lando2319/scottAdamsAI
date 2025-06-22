@@ -1,0 +1,33 @@
+You’re reading this blog, and that means there’s a good chance that people ask you to help them solve computer problems. There are three types of users who ask for help: Runners, Watchers, and Squatters.
+
+Runners are all too happy to abandon their workstations for as long as it takes you to solve their problems. When the runner is gone, you can think through a variety of potential solutions, try some things, and really dig in to the problem. Personally, I don’t mind runners, although it makes me feel as if I should be getting paid for my services.
+
+Watchers are the most thoughtful users. They might offer some useful information when asked, such as passwords. Perhaps they will compliment you on your computer skills and intuitions. And the Watcher is there when you find your brilliant solution. It’s nice to have a witness sometimes. The only danger with a Watcher is that sometimes you get a talker.
+
+The third type of users is Squatters. A Squatter will not leave his or her Chair of Control, and will insist on being the one to operate the mouse and keyboard. In theory, this shouldn’t be too bad, at least for simple problems. But the Squatter will only give you a half listen. The other half of the squatter’s brain is going rogue, occasionally checking in with you to say, “Click what?”
+
+You could try to explain the situation to the squatter, but it won’t help. For example, you might say, “If you relinquish the keyboard and mouse, I can probably solve this printer problem in one minute. If you continue asking me for advice while ignoring my input and randomly pursuing your own theories, we’ll both be here all night.”
+
+Helping a squatter generally sounds like this.
+
+You: Click the Start button
+
+Squatter: What’s a Clark button?
+
+You: The Start button
+
+Squatter: Where do I type Clark?
+
+You: It’s a button. You click it. I am pointing to it. Follow my finger. Don’t look out the window. Don’t yell at the dog. Focus on my finger. Click there.
+
+Squatter: Click your finger? Is your name Clark?
+
+Sometimes you’ll get the half-squat, or even the quarter-squat. The half-squat is when the user keeps his chair but allows you to use the mouse and keyboard while he continues to sit directly in front of the monitor. The quarter-squatter only gives up one input device, such as the mouse alone or the keyboard alone.
+
+I write about this because it is yet another problem for which the solution lies in naming the phenomena. If everyone agreed that the name for this situation is Squatting, it would be easier to talk a user out of doing it.
+
+User: Can you help me fix this computer problem?
+
+You: No, you’re a Squatter.
+
+ 

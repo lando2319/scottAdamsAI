@@ -1,0 +1,14 @@
+A growing number of futurists are speculating that someday human minds will be transferred to computers. Let’s assume that will happen, whether in a hundred years or a thousand. Futurists say that all we’ll need is fairly normal advances in technology to get there.
+
+At the moment, the best minds in science believe that time travel is impossible, at least in the sense of sending a solid object back in time. But a number of scientists are noodling with the idea that binary information can be sent back in time using some sort of strange quantum trickery. Again for fun, assume someone in the future figures out how to send information back in time.
+
+Combining my two assumptions, it means that someday future robots with human-originated minds will have the means to send their entire minds back in time, so long as there is some sort of detector in the present to pick up the signals.
+
+The problem with building a detector in the present is that we can’t know what method the future will invent for sending information back in time. But as the future gets nearer, we should be able to take ever-better guesses on what sort of detectors might work.
+
+My idea is to start a long-term project of building various types of detectors and seeding the Internet with information about those detectors so our future robot humans can know what type of detectors to aim for. Every year, as we get better guesses about the type of detectors that might work, we build them and add them to the mix. In the short term, the detectors would be networked to normal data storage. Longer term, we’d build a robot with enough data storage for the incoming human mind.
+
+Imagine some future human sitting in the detector lab next to the slumped robot that is waiting for an incoming mind from the future. The robot pops to life, looks around, and speaks its first words: “Wow! That actually worked!”
+
+I like it as a movie plot.
+

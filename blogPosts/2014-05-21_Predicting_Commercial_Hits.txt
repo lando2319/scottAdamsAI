@@ -1,0 +1,83 @@
+How good are you at predicting commercial hits?
+
+Amazon has a new feature that shows the percentage of reviewers who “liked” a book. That’s a combination of 4 and 5-star reviews divided by the total number of reviews. I decided to see how my nine original books came out on the “liked” ranking. I was curious if sales were aligned with reviews.
+
+Liked              Title
+
+90%     How to Fail at Almost Everything and Still Win Big http://amzn.to/1dF0EJK
+88%     Dobert’s Top Secret Management Handbook http://www.amazon.com/Dogberts-Top-Secret-Management-Handbook/dp/0887308813/ref=pd_bxgy_b_img_y
+87%     The Dilbert Principle http://www.amazon.com/Dilbert-Principle-Cubicles-Eye-Management-Afflictions/dp/0887308589/ref=sr_1_1?s=books&ie=UTF8&qid=1400613196&sr=1-1&keywords=The+Dilbert+Principle
+82%     Dilbert and the Way of the Weasel http://www.amazon.com/Dilbert-Way-Weasel-Outwitting-Pants-Wearing/dp/006052149X/ref=pd_bxgy_b_img_z
+78%     The Dilbert Future http://www.amazon.com/Dilbert-Future-Thriving-Business-Stupidity/dp/0887309100/ref=sr_1_1?s=books&ie=UTF8&qid=1400613349&sr=1-1&keywords=The+Dilbert+future
+76%     The Religion War http://www.amazon.com/The-Religion-War-Scott-Adams/dp/0740747886/ref=pd_bxgy_b_img_y
+71%     The Joy of Work http://www.amazon.com/Joy-Work-Dilberts-Happiness-Co-Workers/dp/0887308716/ref=sr_1_1?s=books&ie=UTF8&qid=1400613413&sr=1-1&keywords=the+joy+of+work
+68%     God’s Debris http://www.amazon.com/Gods-Debris-Experiment-Scott-Adams/dp/0740721909/ref=tmm_hrd_swatch_0?_encoding=UTF8&sr=&qid=
+67%     Stick to Drawing Comics, Monkey Brain http://www.amazon.com/Stick-Drawing-Comics-Monkey-Brain/dp/1591842301/ref=pd_sim_b_3?ie=UTF8&refRID=1J3JBGQ469QPRZP5NRXJ
+
+So given those user ratings, let’s see how good you are at predicting hits. In this case you’re predicting the past, but since you don’t have complete data you still need a lot of intuition or experience to answer these questions.
+
+1. Which two books have been read by the FEWEST people? 
+
+2. Which two books has been read by the MOST people? 
+
+If you can answer even one of those questions correctly, you would be the best book publisher in the world.
+
+Scroll down for the answers.
+
+ 
+
+ 
+
+
+
+
+
+
+Answers:
+
+The two books that have been read by the FEWEST people include the one that is least liked (67%) and the one that is most liked (90%).
+
+The two books that have been read by the MOST people are The Dilbert Principle (88% - 3rd place) and God’s Debris (68% - almost tied for last place).
+
+If you ask a publisher (and I have) how well they can predict hits, they’ll tell you no one has that ability. The quality and likability of a book have no correlation to sales.
+
+I’ve been talking to a lot of folks who work in the venture capital field (including seed and angel) as part of the CalendarTree.com ramp-up. Start-up funding is a bizarre world in which everyone holds these two contradictory views:
+
+1. A successful start-up must have the following elements (x,y,z…) 
+
+2. No one can predict which start-ups will succeed. 
+
+As far as I can tell, the only reason for the first item on the list is so folks have something to talk about in the meetings. Obviously there are some minimums, such as the ability to create an actual product, but beyond that no one can predict anything.
+
+Publishing has the same absurdity. It goes like this.
+
+
+ 1. Bob, it’s your job to pick our next hit book.
+ 2. Bob, no one can predict which books will be a hit.
+    
+
+I’ll bet you’re having the same kind of conversation at your job. It goes like this.
+
+Boss: Add this new feature to our product even if you have to work nights and weekends.
+
+You: Will that increase sales?
+
+Boss: Beats me.
+
+—————————————–
+ 
+Scott Adams
+
+Co-founder of CalendarTree.com http://bit.ly/N8iAnK
+
+ 
+
+
+
+ 
+ 
+
+ 
+
+ 
+

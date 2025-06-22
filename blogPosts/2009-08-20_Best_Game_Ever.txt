@@ -1,0 +1,13 @@
+Sometimes there are benefits of being That Dilbert Guy. After I mentioned the brain reading technology from Neurosky (Neurosky.com) one of their headsets and some software showed up at my office. You slap on the headset and control what happens on screen by either concentrating or relaxing. The headset reads your brain waves and communicates via Bluetooth to the game.
+
+The sample games are limited, designed just for demonstrating the technology. I understand that some cooler things are in the pipeline from third party companies. This got me wondering what would be the coolest game you could develop with this technology. I think I came up with the best game ever.
+
+Imagine an online multiplayer game where you control an avatar that is a wizard in this imaginary world. So far, that sort of thing exists. Now imagine that when you encounter an enemy wizard, you do battle, Harry Potter style, with an assortment of spells. So far, I imagine this already exists too. (I’m not a gamer.)
+
+The new part involves integrating voice recognition and the Neurosky headset with the game play. Imagine that you speak the name of your chosen spell, and the game recognizes it and raises the magic wand of your avatar. But to actually apply the spell, you have to concentrate, and the Neurosky headset picks up that brain wave and translates it into the power of your spell.
+
+Imagine that the available spells in this online world are an elaborate form of paper-rocks-scissors, meaning that every spell has a spell it can best and one that can best it. And even those results would depend on how effectively you concentrated to empower your spell. So a weak spell with good concentration could beat a powerful spell poorly done.
+
+And perhaps you can escape from a spell through relaxation, becoming like a vapor to avoid chains, for example. The headset would pick up relaxation brain waves too.
+
+I probably just pissed off some game developer who is working on this exact idea in a top secret lab somewhere. Sorry.

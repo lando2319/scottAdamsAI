@@ -1,0 +1,54 @@
+I wouldn’t bother reading this if I were you.  I’m just venting.
+
+The story goes like this…
+
+Bought a Gateway computer from Best Buy
+
+It breaks, as electronics do when near me.
+
+Independent computer repair guy replaces a bad board.
+
+Windows thinks I have a new machine because it doesn’t see the same hardware mix. I have learned that Windows checks the hardware for that reason.
+
+Windows starts its “pesterware” process to bug me into buying a legal copy, which I already have. Knowing my copy is legal, I assume I have malware that is trying to trick me.
+
+I did have the Conduit virus, which I mistakenly believed was related to my Windows authorization problem. But in any case, I needed to remove the malware just to know what my baseline was.
+
+I called what I labelled in my prior post the “fake” Microsoft number and got a rep who said he worked for Microsoft. When I explained that I have a legal copy and don’t want to buy a new one, he told me their global network was down and I should call back in two hours.
+
+I called the next day and explained again that I have a legal copy and want to know how to authenticate my machine. Again, by amazing “coincidence” the rep said their global network was down and they could not help. I asked for a supervisor.
+
+I called bullshit on the “global network is down” and told him I got the same story yesterday. I asked him to verify that the network was down both days. He said it was definitely NOT down at all yesterday when the rep said it was.
+
+That was the moment I unloaded on him for being either a fraud or managing a bunch of folks who are somehow incented to get me off the phone if I don’t whip out a credit card in the first ten seconds to buy a new copy. The supervisor said they do not have any incentives, just salary. Some part of the story was bullshit, so I unloaded on him. His next five minutes were not pleasant.
+
+The folks I spoke with were all Indian-sounding, so this was presumably an Indian call center of some sort.
+
+Then I called a “real” Microsoft number and asked if the last guys I called were real or fake. The real Microsoft rep, who sounded American, confirmed that the other phone number is not genuine. Moreover, she confirmed that if I had called a number because of a pop-up error on my screen it was definitely not Microsoft because they don’t ever show you a number and ask you to call to fix a problem. She said that is policy. (And it makes sense because no one wants customers calling.)
+
+On a second day, I called the real Microsoft number and got another American-sounding rep who also confirmed that the other number is a scam. I’m not sure how, but he said he was familiar with this malware and Microsoft was trying to track down the perps. They even knew the cities where they operate.
+
+But the second rep also mis-diagnosed my problem as the Conduit virus (which was a coincidental problem) so he might have been confused about the rest as well.
+
+Yesterday one of the commenters here called the real Microsoft number to ask if my “fake” number was really fake. At first the rep said it was fake and later in the conversation confirmed it was genuine. If you are keeping score, that is three official Microsoft opinions that the other number is fake and one opinion that it is not.
+
+Today I called the “fake” number again and got someone who - as far as I could tell - was an actual Microsoft employee, or at least he did a better impression of one. His first suggestion was a simple command prompt of “slui 3” to bring up a window to enter my legal Windows authorization code, which I had from the sticker on the machine.
+
+This process didn’t work, and the new error message prompted the real Microsoft rep to say only the manufacturer of the computer (Gateway) can fix the problem. So I have to call them.
+
+It is not possible to call Gateway, as far as I can tell.
+
+So my current working theory is that Windows 7 is the malware, in effect. It is illegitimately forcing me to buy a “legal” copy when I already own one, and there is no workaround. The alternative is to throw away my machine, or reformat and try over I suppose, but even then I would need to buy a new copy of Windows. And Windows 8 isn’t even a real product.
+
+My best guess about the Indian call center - which might actually be Microsoft - is that they have either a fraud problem, an employee incentive problem, or a training problem within the organization because I’m willing to bet that the network is never down when you offer to pay for a new copy of Windows.
+
+So, anyway, eventually I did solve the malware problem. You might have heard of this solution. I’ll show you a picture.
+
+ [http://images.gocomics.com/dilbertblog/File/Mac%20Book%20Pro.jpg]
+
+Disclosure: I own Apple stock.  I was a Mac user for the first half of my career and those crash-puppies have collectively eaten over a month of my work in the past. I don’t expect the new one to be better. But it won’t have the SAME problem and I’m tired of the old one.
+
+[Update: People often ask where I get my ideas. Here’s a sneak preview of the first panels of a Sunday comic I am working on today. I think that answers some of the question.
+
+[http://images.gocomics.com/dilbertblog/File/Dogbert%20tech%20support.JPG]
+

@@ -1,0 +1,35 @@
+What is the most amazing house one could build at the lowest cost? You’d think someone already built that house, but I don’t think so.
+
+When you build a custom house, you generally default to “things I like that I can also afford.” That will give you a terrific house, but you’ll never really know if you could have had a different house that would make you just as happy at half the cost.
+
+For example, when you decide what rooms are near other rooms, it’s usually based on lifestyle, not on minimizing the length of plumbing runs. And when you pick the bathroom shower size, you’re not considering the optimal size for tiling it without wasted tile, even if that means just an inch or two of adjustment.
+
+The subcontractor who has to run your ductwork often finds he can’t get from one end of the house to the other without running through unconditioned space, because ducts are not always part of the architect’s plans. That stuff is “engineered in the field.” That’s another way of saying too late to optimize.
+
+A big developer might take the time to design homes with short plumbing runs and efficient duct paths, but he cares about making the sale more than he cares about livability. After you move in, you realize there’s no closet space, and the two car garage only allows a few inches between cars. And forget about any extra green features in your home that can’t be seen, because those don’t help the sale price.
+
+Big developers also tend to create homes with traditional spaces, because I’m sure those sell the best. So you often get the “museum” type rooms, such as a formal living room that gets no use.
+
+I contend that no one has both the expertise and the interest in designing the ultimate home (or set of homes for various lifestyles), that provides the best living and wow factor at the lowest price.
+
+This got me thinking that the ultimate inexpensive home would have what I will call a wet side and a dry side. The wet side would have your bathrooms, laundry, and kitchen. That consolidates your plumbing, but it has another advantage: Those rooms have few windows. So in a warm climate such as California, you put those rooms on the hot side, which is west in this case.
+
+Homes use a lot of energy heating water, for everything from “Warm Floors TM” to bathwater. I’ve seen an experimental design that puts a huge water tank on the sunny side of the house inside a glass room that acts like a hot house, capturing the sun and heating the water. I imagine the heating could be magnified with reflective material around the tank. And the beauty of the huge tank is that once heated, it has enough thermal mass to stay warm through the evening. So I’d put one of those bad boys on the west side too. Obviously one side of your home would be unattractive, but you can make up for that on the other sides.
+
+To keep costs low, I’d have one great room and no formal living room or dining room. The dining table would be rustic and casual, so it can be part of the great room for eating or game playing. And instead of a home theater, I would include a powered screen that comes down over the fireplace and is viewable from the kitchen, dining table, and family room that are all part of one larger area. If you entertain, that area can also take advantage of the home theater speaker system and become your dance floor.
+
+This home would also include dog doors, with a fenced dog run area that has a porch to keep Fido cool and dry as he does his business, and a cat’s litter box area, perhaps near the garage door so they are near the trash bins. Most people have pets, but few homes are designed for them.
+
+These homes would also have a huge covered porch for entertaining. Make that a screened porch if it makes sense in your climate. It would be the least expensive room of the house to build, and have the most entertainment value.
+
+Likewise, the garage would be oversized because it is another space that is inexpensive to build and requires no heating or cooling. Make it big enough for your ping pong table or even pool table, your shop, or your bike storage. If it opens up to the large covered porch, it becomes part of your entertainment space.
+
+For green building, I would include in the home the features that are free or at least inexpensive. You start by orienting your house to the best direction of the sun, and shading key windows. That’s huge. And you could add a big thermal mass to the center of your home, such as an attractive rock wall; that wouldn’t be expensive but it would help regulate interior temperatures. You could also design the home to take advantage of the chimney effect, where a tower on the hot side of the home heats up in the sun, causing its air to rise, sucking cooler air into the home from the cool side of the home that might, for example, have lots of greenery. And you would have a light colored roof. That’s a big deal for cooling, and costs no extra. I think a good architect could make the white roof seem like it belongs with the house.
+
+Depending on your location, some sort of geothermal heating and cooling solution might make sense, which involves running pipes underground to take advantage of the Earth’s continuous moderate temperature. A lot of the expense is in the digging of the ditches to lay pipe, which I’m assuming could be reduced by digging common ditches for several neighbors at once. So these homes probably cost the least when built in clumps of several. That way they can have their own shared park in the center. Maybe they would have a shared tool shed too, with video security to keep the honor system honorable.
+
+For interior building materials, there is generally an inexpensive solution that looks nearly as impressive as high end solutions. For example, painted kitchen cabinets are much less expensive than high end stained cabinets, yet you see both types in the most expensive homes. So you might as well go for painted.
+
+For flooring, carpet is the least expensive, but it also has the least wow effect. I’m no expert in this area, but I’ll bet an experienced designer could find porcelain, concrete, or laminate floor materials that look incredible, cost relatively little, last forever, and are easy to clean.
+
+This would be a good project for students of architecture. Better yet, a CAD system should have these sort of considerations built in. Push one button and the system finds the best duct and plumbing runs. It should also be able to calculate estimated energy costs on the fly, with each change to the house design.

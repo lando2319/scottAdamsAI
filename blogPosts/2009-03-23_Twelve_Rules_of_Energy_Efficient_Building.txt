@@ -1,0 +1,62 @@
+In a recent post I claimed you only need to know about twelve concepts in a given field to look like an expert compared to someone who only knows two or three concepts. A reader asked me to list the dozen concepts for building an energy-efficient house. I will take that challenge and list them here, compiled from my own research. Actually, I will list more than twelve for extra credit.
+
+One caveat is that this list applies to a Northern California climate where air conditioning is more important than heating. Here’s the list. My blog interface doesn’t allow them to be numbered:
+
+
+
+
+ 1. The Roof and windows are far more important to insulating the house than the walls. Your walls won’t be the weakest link, and you don’t need any exotic insulation type.
+
+ 1. A radiant barrier for the roof is one of the best ways to keep heat from entering the house.
+
+
+
+ 1. Windows are rated for their thermal efficiency. It makes a big difference if you get the most efficient ones.
+
+ 1. Clay tiles, with lighter colors, are the best choice to reduce heat.
+
+
+
+ 1. Common wisdom says an attic fan is great for removing heat. A better approach is to design the home so there is a natural chimney effect, taking advantage of the fact that hot air rises. All you need is a ground floor window you can open on the cool side of the house that has metal bars (for security) and a screen (for bugs). Then open an upstairs window and the air will circulate up and out without a fan.
+
+ 1. Orient the house so there are relatively few windows on the hot western exposure. Shade the windows on the hot side of the house with trees that lose leaves in the winter, or shade the windows with a porch.
+
+
+
+ 1. Add plenty of thermal mass inside the home to act as a natural heat regulator. That means concrete, stone, and tile.
+
+ 1. Add solar panels, tied into the electrical grid. With rebates, and the cost wrapped into the mortgage, they are cash positive from day one. If you retrofit later, and they are not part of the mortgage, the payback takes maybe 20 years.
+
+
+
+ 1. Water heating is a big component of your energy bill, but no expert can tell you the best solution. Common wisdom says tankless water heaters are best. But you might need a bunch of them, and they require maintenance. Some experts say continuous circulating water heaters are now nearly as efficient as tankless, without the maintenance hassle. New gas condensing types are just hitting the market, with even greater efficiency, but they don’t have a track record.
+
+ 1. If you talk to ten experts in this field, you will get ten different opinions for your home. Although rules of thumb are mostly consistent, every house is different, and without detailed engineering, which is impractical, there is still a lot of guessing.
+
+
+
+ 1. Gas is cheaper than electricity.
+
+ 1. Use Energy Star certified appliances when possible.
+
+
+
+ 1. Keep your ductwork sealed (you can test for that), and insulated, and within the insulated envelope of the house as opposed to in a hot attic or cold basement.
+
+ 1. Keep your AC compressor and condenser on the shady side of the house. It makes a big difference.
+
+
+
+ 1. Take steps to reduce humidity inside the house to make it more comfortable during hot weather. For example, don’t have houseplants, and use your bathroom exhaust fan when showering.
+
+ 1. In this climate, assuming you insulated properly and managed the sun exposure, your best choice for a heating unit is a standard forced air type, engineered so it isn’t too big for the job. The more exotic heating solutions such as geothermal only make sense in more extreme climates.
+
+
+
+ 1. Small houses are more energy efficient than big houses. Duh.
+
+ 1. Use LED or compact fluorescent lighting when practical.
+
+Your first impression of this list is that it’s mostly obvious stuff and you assume builders are doing it already. But I am writing this from my office inside a newish townhouse (six years old) that violated most of the concepts on the list. All I have going for me is Energy Star appliances, compact fluorescent lights,  and no house plants.
+
+If you remember these concepts, you will know more about home energy efficiency than 99.99% of the general public. You may commence acting smug.

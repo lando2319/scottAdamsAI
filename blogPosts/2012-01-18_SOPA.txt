@@ -1,0 +1,67 @@
+Warning: This blog is written for a rational audience that likes to have fun wrestling with unique or controversial points of view. It is written in a style that can easily be confused as advocacy or opinion. It is not intended to change anyone’s beliefs or actions. If you quote from this post or link to it, which you are welcome to do, please take responsibility for whatever happens if you mismatch the audience and the content.
+
+Are you following the huge debate about the proposed legislation in the United States to stop online piracy? It’s called SOPA http://en.wikipedia.org/wiki/Stop_Online_Piracy_Act, short for Stop Online Piracy Act.
+
+I’m fascinated by the debate because it’s an ideal example of how we humans make decisions in the face of complexity. The proposed legislation is simple enough in terms of its purpose: Reducing piracy on the Internet. But its unintended consequences are not knowable.  Critics claim the law will be overused and result in punishing or killing defenseless and legitimate sites without due process. Those in favor of SOPA say it will only make the illegal foreign pirate sites inaccessible from the United States. Based on my limited understanding of the issue, I don’t know who is right. Neither do you.  The best we can do is to apply unscientific methods, i.e. fancy guessing, that we might label intuition or common sense to make us feel better. Let’s see where that takes us.
+
+Rule of Thumb
+
+Thanks to Republicans, and Ron Paul in particular, the idea that more government is always bad has gained a larger following than ever. That’s doubly so when we’re dealing with the Wild West of the Internet. It’s a simple rule of thumb: The more the government interferes, the worse off we are.
+
+By that filter, the SOPA question boils down to this: What is worse - allowing legitimate businesses to be robbed of their intellectual property, or having the government try to stop it? There is so little trust in government that most people prefer being robbed over the alternative of having the government get involved and making things worse.
+
+Bottom line: If you apply the “more government is bad” rule of thumb, SOPA is a bad idea.
+
+Pattern Recognition
+
+If you strip out the details of the SOPA debate, the form looks like this:
+
+Opponent: That law will cause huge problems because (reason).
+
+Supporter: If you hold that opinion, you must have read the law wrong.
+
+And…
+
+Opponent: The requirements of the law are totally impractical.
+
+Supporter: Something like SOPA is already being done successfully in other countries.
+
+Pattern recognition often gives you the wrong answer because coincidences can look like a pattern. On the other hand, if ten political ads from the same candidate fail the fact-checking filters, there’s a high likelihood the eleventh won’t be much better. So pattern recognition does have its place.
+
+In my own life, I find that when people disagree with my opinions, they are more often than not disagreeing with a misinterpretation of my opinion, not my actual opinion. And when a law is being used successfully in one place, it raises the odds it can work in another place.
+
+There’s also a pattern that tells me I shouldn’t put too much stock in claims that a proposed law will rob my freedom and destroy the economy. Every law robs citizens of one sort of freedom or another, and costs money too. And yet most laws are sensible and work just fine in the long run. On the other hand, stopping piracy feels a lot like Prohibition, and that didn’t work out.
+
+Speaking of the liquor analogy, bar owners are in an analogous situation under current laws. If a bar over-serves a customer, or serves minors, it can lose its license. And yet most bars inadvertently over-serve customers, and every bar has served minors that have good fake I.D.s. Here’s an example where the government could easily over-apply the law, but it rarely happens. I owned two restaurants, and I would say the draconian laws were helpful in keeping the over-serving to a minimum, and the I.D. checking to a maximum. So there’s precedent that makes me optimistic that reasonable humans wouldn’t apply SOPA death sentences to web sites in cases of trivial copyright infringement. But you never know.
+
+Bottom line: The supporters of SOPA have an argument structure I most often associate with the superior argument. That doesn’t make them right. It’s just an observation about the pattern of the argument when you strip out the content.
+
+Expert Opinion
+
+Lots of heavyweight corporations and organizations oppose SOPA. Some of the opponents are kidnap victims with guns to their temples (GoDaddy.com). Other supporters look like Stockholm Syndrome types. Still others have a financial interest in passively aiding and abetting the theft of intellectual property. Some have no credibility whatsoever, e.g. anyone in Congress. And it’s hard to trust anyone with a balance sheet who claims to be fighting for my freedom.
+
+Then there’s the philosophical bias problem. Ron Paul and others would presumably forgo a million dollars of benefits if it required one extra dollar of government expense, or one extra law that reduces freedom. For some folks, it’s the principle of the thing, and I respect that point of view. But are the anti-big-government people comparing the size of the benefits to the size of the costs, or are they simply rejecting anything that looks like a government overreach, complication, or interference?
+
+Some big-name lawyers say SOPA will be a nightmare if implemented. But I’m guessing the law itself was crafted by lawyers, and presumably those lawyers have a different opinion.
+
+And who came up with SOPA in the first place? Wasn’t it a bunch of corporations who wouldn’t mind pushing some costs on other people if it helps their profits?
+
+Bottom line: Money and philosophical bias make all of the experts in this case unreliable.
+
+Self-Interest Crossover
+
+You would expect artists and content owners to support SOPA, and you would expect the people who would be caught in legal dragnets to oppose it. The interesting people are the crossovers: The parties who take the “wrong” side of the issue. And indeed, many creators do just that, publicly arguing against SOPA even though it is specifically aimed at protecting their financial interests. But at the risk of being unkind, a lot of people become artists because they aren’t good at things like math and legal analysis. When I want an opinion on the Constitution, or economics, I rarely consult an artist.
+
+Bottom line: The crossovers aren’t persuasive.
+
+My Self-Interest
+
+I have one of the most widely stolen intellectual properties in the history of the world. Emotionally, I’m okay with that. It feels like a compliment. Financially, I have no idea if piracy has hurt me in any meaningful way. I made the decision years ago to make Dilbert available on the Internet, including the entire archive. To the surprise of most observers, sales of Dilbert to traditional newspapers continued to grow briskly.
+
+Bottom line: As a creator, my bias is in favor of protecting intellectual property. But in my specific case, SOPA probably wouldn’t have any impact on my life or income.
+
+Verdict
+
+I’m unbiased in the sense that SOPA probably wouldn’t have any impact on me one way or another. And I’m not qualified to look at the language of the law and make judgments about its unintended consequences. When I look at the applicable rules of thumb, the pattern of the argument, and the expert opinions, I don’t get a clear answer about SOPA. And when I don’t have a clear answer, I default to the “do nothing” point of view. Therefore, I conditionally oppose SOPA, not because I know it will be bad, but because I can’t predict its impact.
+
+I reserve the right to flip-flop at any moment. Make your best arguments in the comment section and see if you can flip me.

@@ -1,0 +1,66 @@
+Most of you would agree that our democratic system (a republic) is flawed in many ways, and yet it is still better than all the known alternatives.
+
+So I thought I would come up with a better alternative.
+
+Keep in mind that the Constitution of the United States was written before the Internet. I doubt the founders would have created the system we have today if they had better tools. So I will try to extend their thinking to modern times, when the Internet provides us with more options.
+
+I think you would agree that the best political system would involve a talented and enlightened dictator that had the best interests of the people at heart. Unfortunately, that sort of dictator is rare, and succession planning is problematic. So the dictator plan has too many risks.
+
+I have suggested in the past that a good system would involve a dictator wearing a bomb vest that could be detonated at any time by a majority vote of the public. That would keep the dictator working on behalf of the majority, but you can see lots of problems with that system as well. Hackers would blow up the president in about ten minutes. I wouldn’t let that politician kiss my baby.
+
+Our current system – a republic – is obviously broken because the majority is not getting its way for issues that are good for all. For example, a strong majority of voters in California wants to legalize doctor-assisted dying, but the state politicians have tabled it. As a result of our republic not serving the best interests of the people, old folks are suffering by the thousands, maybe millions.
+
+And weed is still a federal crime here. The majority of citizens would legalize weed, and that would be disproportionately good for minority groups that tend to be over-jailed for marijuana possession. That’s an example of the majority protecting a minority, even if it is only out of self-interest. (That’s how it generally works. Educated people understand that oppressing minorities is a bad strategy for everyone in the long run.)
+
+Gay marriage would have happened sooner with a pure democracy. And here again the prime beneficiaries of a pure democracy would be a minority group. That is the opposite of what you expect with “mob rule.” And we can see that when the majority votes in its own enlightened best interests, it usually bodes well for the non-majority as well. I think you would have to go back in history to pre-Internet days to find an example of the majority abusing the minority. You see that behavior most where the Internet coverage is the least.
+
+My hypothesis is that a pure democracy coupled with the Internet would create an almost “super morality” situation in which we would find our best selves. In other words, I believe a real democracy, supported by modern communication tools, would drive the risk of “mob rule” to zero. 
+
+Let me give you some bad analogies to make my point.
+
+Consider firing squads used for executions. By tradition, one of the guns is loaded with blanks, so shooters can never know who did the killing. When your actions are DIRECTLY linked to an outcome, as opposed to being diluted by probability, you feel and perhaps act differently. Likewise, if I vote for a politician, and the politician does something bad, I don’t take it as a personal failing. I think the politician failed in that situation, not me. 
+
+But if I get to vote on every issue, I feel a personal responsibility to the people affected. There is a big difference between watching your elected representatives abuse a minority group and doing it yourself. I can tolerate other people being evil – because I can’t fix the entire world – but I’m not okay with being evil myself. 
+
+The big problem with a pure democracy is that voters are – and here I must generalize – under-informed idiots. So one would expect their decisions about complex foreign affairs, or the economy, to be sub-optimal. Our current system tries to fix that problem by making our politicians the experts on behalf of the public. There are two problems with that:
+
+1. Politicians don’t understand the issues either.
+
+2. Special interests can influence politicians.
+
+So here is how I would build a system to solve every problem I have mentioned.
+
+Imagine a system that involves direct citizen voting on every issue. But in addition to voting yes or no on a ballot question you can also assign your vote FOR A PARTICULAR TOPIC to any other voter who is open to that assignment.
+
+For example, I might cast my own direct vote on simple topics, such as gay marriage, weed, and doctor-assisted dying. I feel I know enough about those issues to be useful.
+
+But if the proposed law is about economic policy, I might want to delegate my vote to Paul Krugman, or whoever I thought had the best thinking on that topic.
+
+You could also delegate your vote to your better-informed spouse, a friend, or anyone you would trust making decisions for you. But I would make it illegal to delegate a vote to anyone representing an organization. And I would make it illegal to delegate more than one voter topic to another person. That keeps individuals from becoming too powerful outside their field of expertise.
+
+The beauty of my system is that you never have to wait for elections to improve things. The minute that you hear an expert saying something brilliant on a particular topic, you call up your voting app and assign rights to that expert for all of your votes in the category. If you hear a smarter expert tomorrow, you reassign your vote to that person.
+
+I see no practical way to evolve from our current system to what might be called an Assigned Voter system. So it would have to be tested on a new country. Perhaps it will first be tried on a city built on an ocean platform. 
+
+Do you think it would be an improvement over the current system? I am having a hard time finding a flaw in this idea. I know you will do better.
+
+
+
+
+Scott
+
+
+
+
+
+IN TOP TECH BLOG http://scottadams-tttt.tumblr.com/post/125528940441/top-tech-108-supercomputer-care-flying:
+
+I predict that healthcare costs will drop by 90% over the next 20 years. I think IBM’s Watson will take a big bite out of http://scottadams-tttt.tumblr.com/post/125528940441/top-tech-108-supercomputer-care-flyingit. So will the flood of inexpensive medical testing devices coming this way. So will nano-robots in your blood. So will our better understanding of diet. And when you can 3D-print your own meds and medical devices, things get interesting. And obviously doctor-assisted dying laws would make a difference because the last year of life is the expensive one.
+
+If you don’t need a doctor or a nurse to do a diagnosis, and you can print your own medicines and medical equipment at home, healthcare costs will plummet. In my own experience, when my healthcare provider, Kaiser, started allowing patients to email their doctors directly, my number of doctor visits for the small stuff dropped by 75%.
+
+When I had my exotic voice problems that rendered me speechless for over three years, I ran up a lot of expenses going from doctor to doctor trying to figure out what was going on. I believe Watson (and big data in general) could take a voice recording of someone with spasmodic dysphonia (my problem) and identify the condition in less than a second. At nearly zero cost.
+
+One would still need to pay for surgery in that case, but Watson could have saved me years of pain.
+
+If you think healthcare costs will slowly rise forever, you are probably 100% wrong. And I also think the norm for the future is to only have healthcare plans for the big issues such as surgery and emergency room visits.

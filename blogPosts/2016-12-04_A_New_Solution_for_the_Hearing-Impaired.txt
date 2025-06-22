@@ -1,0 +1,20 @@
+I’ve been observing and helping the UC Berkeley start-up ecosystem for the past year, and I’ve made several angel investments in that space. Berkeley has perhaps the largest start-up environment in the world, but it gets less attention than it deserves. I’ll try to fix that by spotlighting some of the more interesting start-ups that could potentially have a big impact on the quality of people’s lives. Today’s spotlight is on &AVA https://www.ava.me/, a start-up that makes a life-changing product for the hearing impaired.
+
+The product is a mobile app that works with a subscription service for real-time computer translation. If you go to dinner in a noisy restaurant, or a business meeting, for example, each attendee would have a copy of the app and keep their phone in front of them, in listening mode. When anyone speaks, the nearest phone translates and sends the text to each phone at the table. The hearing impaired person at the table can follow the conversation in the form of a live transcript on their own phone. This is life-altering for the hard-of-hearing. 
+
+
+image [https://64.media.tumblr.com/5d4d0dcbb0ccf11e252b9e0bcebfc795/tumblr_inline_ohoc7pWSOW1t63ajm_540.png]
+
+I’ve seen the product work in demos and it is impressive. All the company needs at this point is more customers and more funding. If they can get to profitability it would mean an enormous improvement in the quality of life for millions of hearing-impaired people.
+
+If you know any hearing impaired people, please share this post and the link to their website here https://www.ava.me/. (Disclosure: I do not have any investment or other interest in this company but I haven’t ruled out investing in it later.)
+
+—
+
+You might also be interested in a new UC Berkeley website that points to all the important start ups and related resources in the UC Berkeley ecosystem. It’s called Berkeley Startup Network http://startupnetwork.berkeley.edu/. The site is still beta, so expect the content to grow exponentially. I funded the prototype for this site to help UC Berkeley entrepreneurs find advice, education, and funding. The potential gains from this type of networking efficiency are enormous. The &AVA offering is just one of many examples of life-changing products coming out of Berkeley. I’m trying to help the Berkeley start-up ecosystem become more efficient for the benefit of civilization.
+
+To put all of this in perspective, one Berkeley start-up has an inexpensive portable testing device for AIDS that could virtually eliminate transmission in some situations. Another startup would reduce the number of diabetes amputations by thousands. Another would eliminate one of the most common sources of hospital infections. And so on. So you can see how important these start-ups are to our future quality of life. I’ve decided to help in a variety of ways, including some blog posts about the most interesting start-ups.
+
+I’ll also be telling you more about my own start-up, WhenHub https://www.whenhub.com/, in the coming months.
+
+—

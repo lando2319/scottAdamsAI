@@ -1,0 +1,41 @@
+If I told you the government was planning some sort of new program to benefit its citizens, your initial reaction might be, “uh-oh.” Governments aren’t smart. And the last thing you want from a dumb entity is “more.”
+
+Governments have smart people working for them. But when you sum up the parts of government, you get less than the whole, thanks to bureaucratic inefficiency, political in-fighting and whatnot. 
+
+But what if that were about to change?
+
+A smart friend told me recently that speed is the new intelligence, at least for some types of technology jobs. If you are hiring an interface designer, for example, the one that can generate and test several designs gets you further than the “genius” who takes months to produce the first design to test. When you can easily test alternatives, the ability to quickly generate new things to test is a substitute for intelligence. Will users on your website click the burnt orange button more often than the green one? With a tool such as Optimizly https://www.optimizely.com/free-trial?otm_source=Google&otm_medium=cpc&otm_content=eo&otm_campaign=G_WW_Search_Brand&_bt=44614620092&gclid=CJblqubqscMCFYZbfgodx18A9gor Mixpanel  https://mixpanel.com/mobile-ab-testing/?from=mobile-optimize-1&gclid=CMSL0vfqscMCFYphfgod_qsAOQyou can test that hypothesis in minutes.
+
+
+
+[https://64.media.tumblr.com/4a6df35e309c2cd909ef7fb3c5ddcd0f/tumblr_inline_pk9jipZmTf1t63ajm_540.jpg]
+
+
+
+
+
+Smart people in the technology world no long believe they can think their way to success. Now the smart folks try whatever plan looks promising, test it, tweak it, and reiterate. In that environment, speed matters more than intelligence because no one has the psychic ability to pick a winner in advance. All you can do is try things that make sense and see what happens. Obviously this is easier to do when your product is software based.
+
+That gets me back to the government. Over time, the practices of private industry infect the government. So we can expect the government to evolve to a mindset of trying something that makes sense, measuring results, and quickly iterating. President Obama essentially said that was the plan with Obamacare. It was an imperfect plan that the President said could improve in time. Did past presidents talk like that? It sounds a lot like a Silicon Valley start-up. You try something, see how you did, and adjust from there.
+
+Obviously the government has always tried to measure its results and improve. But have we ever before launched a major program with known flaws and the intention of improving as we go? That seems new to me, at least in terms of degree. (Historians, please fact-check me in the comments. Wars don’t count.)
+
+Thanks to the Internet, and Big Data, governments have powerful new tools. Now a government can try something, rapidly fix it on the fly, and end up with something good that was hard to predict. In other words – and this is new – a government could launch a program that citizens are skeptical about so long as it had a credible plan to measure results and tweak it to perfection.
+
+Governments are dumb by design because any brilliance that slips into the system will be beaten down by the chorus of average minds and the distortions of political interests. But if speed can sometimes be a substitute for intelligence, things look hopeful. Because as governments become more software-based (Obamacare lives mostly as software, right?) you will see a world in which speed (plus testing and tweaking) are more important than intelligence. As a result, the perceived intelligence of governments should increase simply because the speed of iterating and testing will increase.
+
+We are also seeing the measure-then-fix method play out in states with medical marijuana laws and doctor-assisted suicide laws. The states are seen as test beds. If things go well in the state of Washington, for example, that gives cover for the Federal government to follow their lead. And because we have fifty states, and each is capable of being its own test bed, we gain government speed through all of the individual tests that can be watched, tweaked, borrowed, and spread.
+
+The biggest obstacle to a smarter government is the voters. It will take some time before a national politician can say some version of “We don’t know what will work, so our plan is to launch ugly and figure it out as we go.” In today’s world, that doesn’t sound leader-ish enough. But someday any other approach will appear backwards.
+
+So here’s the summary:
+
+1. Government programs are increasingly becoming software entities.
+
+2. We can quickly measure, tweak, and adjust software.
+
+3. In this environment, speed is more important than intelligence. (Or if you prefer, speed improves the intelligence you already have.)
+
+Therefore, over time, governments will become far more effective. States will be understood as test beds for national programs. And new government programs will be launched with admitted flaws and a plan for iterating toward improvement. Obamacare might be seen as the first in this model.
+
+That feels like good news to me. 

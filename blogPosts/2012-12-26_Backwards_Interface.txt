@@ -1,0 +1,31 @@
+In the olden days of personal computers it made perfect sense to open your application first and then start working. The application you needed was usually just a word processor or a spreadsheet. There wasn’t much to choose from.
+
+Fast forward to today. Now I have dozens of apps on my phone. And my phone is very smart. I think it’s time to turn the interface model backwards. And by that I mean I would prefer to start entering text first and let my phone figure out which application I intend. I’m impatient. I want to start doing my task right away; I don’t want to search for my app icon first.
+
+Imagine a smartphone that presents a blank text-entry box as your home screen. And suppose you type the following:
+
+Henry
+Project meeting
+The room changed to the Zebra conference room. See you there.
+Scott
+
+Your phone can guess from the text you entered that you mean to send an email to someone named Henry on the subject of the project meeting. If you had intended this to be a text message there would be no subject line. If you intended to enter a search string for your browser there would only be one line of text in total. Your phone can almost always figure out the app you intend by the content you enter. And if there is more than one possibility, a list of apps pop up automatically after you enter your text and click the DONE button.
+
+Let’s say you want to enter a calendar entry. Your smartphone could easily recognize your intent because calendar entries have dates and times.
+
+If you wanted to use your map app, just enter an address and the phone guesses you want to see it on the map.
+
+If you intend to set your alarm, just type “wake up 6:30 am”.
+
+If you enter a valid URL, the phone knows you want your browser to go there.
+
+If you want to use your flashlight app, just type “fl” and the flashlight app opens. “st” would bring up my stocks. “w” would give me weather, and so on. If there are two apps that start with the same letters, both choices appear for you to pick.
+
+With the current smartphone interface model I have to play Where’s Waldo and search for my preferred app icon before I can start working. I estimate that I tap the wrong app about 20% of the time which is just enough to bug the living shit out of me and make me dream of a better system. My smartphone interface miscues are only partly my fault. My Phone icon and my Text icon both have identical green backgrounds and white symbols. When I’m in a hurry, they look the same to me. And I’m always in a hurry. I can’t train my brain to recognize my icons by reflex. I have to actually think about which one I want every time. I also often confuse my Text icon and my Email icon because they are somewhat similar in function. I use my phone all day long for texting, calling, browsing, and emailing, so the frustration accumulates. I prefer using my limited brainpower for more interesting tasks than searching for icons.
+
+The app-picking step probably bothers me more than most people because I so often need to capture an idea for later, and in those situations a few seconds of delay is enough to forget the idea, or to be sidetracked by an interruption. Case in point, the topic of today’s blog has occurred to me and vanished at least a dozen times before I had a chance to capture it on my phone.
+
+If you prefer your phone just the way it is, let’s say you have the option of keeping your Classic interface. All I’m suggesting is that I can change my phone settings to give me the Backwards Interface option if I want it.
+
+ 
+

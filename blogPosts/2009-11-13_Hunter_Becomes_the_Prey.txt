@@ -1,0 +1,22 @@
+Shopping is broken. In the fifties, if you wanted to buy a toaster, you only had a few practical choices. Maybe you went to the nearest department store and selected from the three models available. Or maybe you found your toaster in the Sears catalog. In a way, you were the hunter, and the toaster was the prey. You knew approximately where it was located, and you tracked it down and bagged it. Toasters couldn’t hide from you.
+
+Now you shop on the Internet, and you can buy from anywhere on the planet.
+The options for any particular purchase approach infinity, or so it seems.
+Google is nearly worthless when shopping for items that don’t involve technology. It is as if the Internet has become a dense forest where your desired purchases can easily hide.
+
+Advertising is broken too, because there are too many products battling for too little consumer attention. So ads can’t hope to close the can’t-find-what-I-want gap.
+
+The standard shopping model needs to be reversed. Instead of the shopper acting as hunter, and the product hiding as prey, you should be able to describe in your own words what sort of thing you are looking for, and the vendors should use those footprints to hunt you down and make their pitch.
+
+For example, let’s say you’re looking for new patio furniture. The words you might use to describe your needs would be useless for Google. You might say, for example, “I want something that goes with a Mediterranean home. It will be sitting on stained concrete that is sort of amber colored. It needs to be easy to clean because the birds will be all over it. And I’m on a budget.”
+Your description would be broadcast to all patio furniture makers, and those who believe they have good solutions could contact you, preferably by leaving comments on the web page where you posted your needs. You could easily ignore any robotic spam responses and consider only the personalized responses that include pictures.
+
+You can imagine this service as a web site. The consumer goes to the section that best fits his needs (furniture, cars, computers, etc.) and describes what he wants, in his own words. Vendors could set key word alerts via e-mail or text for any products in their general category. Once they read the customer’s needs online, they have the option of posting their solution, publicly, which gives other vendors and consumers an opportunity to offer counterpoints.
+
+I assume this service already exists in some weaker form.
+www.answers.yahoo.com /admin/MBA.entry.edit/www.answers.yahoo.com is a step in the right direction, but it doesn’t broadcast your needs to vendors. My prediction is that Broadcast Shopping (as I just decided to name it) will become the normal way to shop.
+
+(Note: I am not using this blog post to solicit suggestions for patio furniture and toasters. Those were just examples.)
+
+
+

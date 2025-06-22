@@ -1,0 +1,61 @@
+I’m starting the process of redesigning Dilbert.com.
+
+
+
+Long overdue, I know. But I’ve been quite busy lately.
+
+
+
+I’d love to hear your suggestions as I compile my list of requirements.
+
+
+I know the comments engine here is a mess. And I know you want the profanity filter to die. And I know the site is uglier and slower than it needs to be.
+
+
+I’m thinking of killing the mash-ups feature. It had a good run. Unless you tell me otherwise.
+
+
+I’m noodling on adding a few new things below the strip on the main page, which has been mostly wasted space. Some ideas include:
+
+
+1. A Reddit-like feature so you can suggest interesting links and others can vote on them. I would build the engine so you can include your profile picture (or any image you choose) plus a section for you to give a plug for yourself or your company. 
+
+
+2. Some sort of Dilbert-branded store – operated by a third-party – for items that everyone needs, such as replacement cables, phone chargers, or other common tech devices. Another way to go would be a Dilbert-branded store for more exotic and cool tech stuff or uncommon products that cleverly solve common problems.
+
+
+3. Guest bloggers: Anyone can submit an opinion piece, with a plug for yourself or your company. Readers vote up the best ones.
+
+
+4. Highlight links to other great comics at GoComics.com.
+
+
+5. Reader-submitted stories of bad or absurd management. The ones voted to the top by readers would become comic fodder for Dilbert.
+
+
+6. Add other content that supports your morning ritual that includes checking the Dilbert comic, checking stocks, weather, and some other popular tech and business news sites.
+
+
+7. Irreverant business news of the day, summarized by Dogbert or one of the other Dilbert crew in a separate window.
+
+
+8. User-submitted hacks and inventions. Upload photos and descriptions of your awesome hacks, work-arounds, inventions, and fixes, for, well, anything. Show your geeky solutions to the world.
+
+
+9. Investment ideas and discussions with an emphasis on tech companies.
+
+
+I’m told that a good website needs to inspire curiosity in visitors. If you have any ideas on keeping readers curious, I’d love to hear them. 
+
+
+
+
+
+
+
+
+
+
+
+
+

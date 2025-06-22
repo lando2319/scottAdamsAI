@@ -1,0 +1,80 @@
+In a recent post I asked for a worthy volunteer to be interviewed on the topic of balancing the U.S. budget by expense cuts alone, without making things worse. (Full disclosure: I believe this to be impossible.) The most qualified volunteer, and the person with the most votes from readers of this blog, is Phil Maymin.
+
+Borrowing from the bio on Phil’s website at http://philmaymin.com/about-phil http://philmaymin.com/about-phil…
+
+Dr. Phil Maymin is Assistant Professor of Finance and Risk Engineering at NYU-Polytechnic Institute. He is also the founding managing editor of Algorithmic Finance.
+
+He holds a Ph.D. in Finance from the University of Chicago, a Master’s in Applied Mathematics from Harvard University, and a Bachelor’s in Computer Science from Harvard University. He also holds a J.D. from Northwestern California University School of Law and is an attorney at law admitted to practice in California.
+
+He has been a portfolio manager at Long-Term Capital Management, Ellington Management Group, and his own hedge fund, Maymin Capital Management.
+
+He is also an award-winning journalist, a policy scholar for a free market think tank, a Justice of the Peace, a former Congressional candidate, a columnist for the Fairfield County Weekly and LewRockwell.com, and the author of Yankee Wake Up and Free Your Inner Yankee. He was a finalist for the 2010 Bastiat Prize for Online Journalism.
+
+His popular writings have been published in dozens of media outlets ranging from Forbes to the New York Post to American Banker to regional newspapers, and his research has been profiled in dozens more, including USA Today, Boston Globe, NPR, BBC, Guardian (UK), CNBC, Newsweek Poland, Financial Times Deutschland, and others.
+
+His research on behavioral and algorithmic finance has appeared in Quantitative Finance, Journal of Wealth Management, and Risk and Decision Analysis, among others, and his textbook Financial Hacking is due to be released by World Scientific in 2011.
+
+I should disclose my own biases on this topic. I have described my philosophy as “Libertarian, but without the crazy stuff.” Libertarians are for personal freedom, small government, and a defensive-sized military. That sounds good to me. But I think a better objective is something along the lines of maximizing the public’s long term happiness. So while a libertarian might favor allowing his suburban neighbor to operate a bazooka firing range in his back yard, I’d be against that, even if it required a slightly larger government to prevent it.
+
+Furthermore, I believe that if you identify with any political group or philosophy that has a name, you are far more susceptible to confirmation bias than someone who doesn’t. And as a general rule, I don’t trust anyone with a strong opinion on a complicated topic.
+
+On the topic of the U.S. budget, my current suspicion is that the problem has grown so large that there is no practical way to eliminate the deficit by cuts alone, without making things worse.  But I assure you that I want to be wrong because being right means my taxes will go up substantially.
+
+Let’s begin our interview.
+
+Adams: Phil, thanks for agreeing to an interview with a professional humorist who holds an opposing viewpoint. I don’t see how this could possibly go wrong for you. Let’s start by setting the stage. In round numbers, what is the size of the total U.S. budget, and how large is the gap?
+
+Maymin: The federal government spent $3.5 trillion of our money last year.
+
+That’s about the same as the total value of all the stocks in the Dow Jones Industrial Average. In other words, if we liquidated thirty of the largest American companies, including Home Depot, Microsoft, Intel, Coke, McDonald’s, Kraft, and Disney, that would barely cover just one year of federal spending.
+
+That’s some budget.
+
+Where did the feds get all that money? They took $2 trillion from us through taxes last year and they took another $1.5 trillion from us by borrowing on our good names. The “budget gap” is the $1.5 trillion that the government borrowed, adding to its $14 trillion debt. But in terms of the effect on the average person, borrowing money is the same as taxing.
+
+Adams: Okay, so just to be clear, you’re saying we need to find $1.5 trillion to cut from a budget of $3.5 trillion, for a 43% reduction. And that’s just this year. Would it be fair to say government expenses will double in about twenty years as the baby boomers retire and healthcare costs continue their upward march?
+
+Maymin: Government expenditures are not ruled by a fixed formula. You’re tacitly assuming that the government is morally obligated to pay when people live too long or get too sick. But it’s actually immoral to take money by force from innocent people to pay for someone else’s retirement or someone else’s sickness. Given your tacit assumption, then yes: government expenditures will continue to climb so long as people continue to vote for such immoral redistribution. But I don’t agree with that assumption and, now that it is no longer tacit, I hope that neither do you.
+
+Adams: We can get back to your hallucinations about my tacit assumptions later. For now I’m just trying to size the budget hole. Readers can’t judge your recommended solution unless they have a sense of how big the problem is. Can we agree that balancing the budget would require cutting something like $1.5 trillion per year in the near term, while the demand for social services could double in twenty years, primarily because of an aging population, whether the government attempts to meet those needs or not?
+
+Maymin: Your question about the “demand” for the future only makes sense if you view the federal government as a special charitable trust whose purpose is to pay a certain clearly defined group of people an amount of money based on its available funds.
+
+But the federal government is not a charity. The main difference is that charities are funded by voluntary contributions, and the government is funded by forceful expropriation. So the self-regulating mechanism of a charity on the amount to pay out is broken. Indeed, instead of asking how much money we actually have, the government (and you) asks how much money we need to pay out. Aside from the immorality, the problem with that question is that the “demand” for free stuff is practically limitless. People could “demand” twice their benefits today. They don’t necessarily have to wait for more people to retire or get sick.
+
+But those “demands” aren’t always met. There are forces resisting government redistribution. Will those forces be stronger or weaker in 20 years? Who knows? They will certainly need to become even stronger today if we want to not just freeze spending but actually cut it.
+
+Adams: I’m using “demand” in the economic sense, i.e. hungry people have a demand for food. Demand doesn’t imply that the government is the supplier.
+
+I learned in business that unless you can describe what the business-as-usual scenario looks like, you have no way to compare your new and brilliant plan. I’ve asked you twice how large the future budget hole would get if left unaddressed and twice you have drifted into speeches about morality, complete with hallucinated assumptions about the question itself. So let’s back up a step.
+
+In general, do you think it’s important to describe the economic impact of the “do nothing” or business-as-usual scenario so that one can judge the advantage of a new plan in comparison?
+
+Maymin: Economic demand typically depends on price and assumes voluntary exchange. And of course your question implies the government is the supplier. That’s the point of this discussion – how to cut government spending. You’re not asking about the demand for iPhones in 20 years.
+
+For a legitimate business, sure, evaluating business-as-usual can be important, more important than some things, less important than others. But if your business is just going around breaking people’s kneecaps, then no, you don’t need to evaluate the economic impact of continuing. And what’s the right response of the victim? To say, “Why don’t you beat up this guy instead?” Or to say, “Stop.”
+
+I don’t know how much politicians will redistribute income to retirees and sick people instead of wars and bailout in 20 years. But I know Americans would be better off if each of those four items were zero.
+
+Adams: To borrow your analogy, if the only choices available are breaking your kneecaps or cutting off your head, it seems entirely legitimate to consider the kneecap option.  Correct me if I’m misinterpreting your point, but you seem to believe the choices are something along the lines of the government breaking our kneecaps (the current approach) versus a world where the unemployable and sick eat carbon dioxide and poop hundred dollar bills.
+
+Maybe I shouldn’t put words in your mouth.
+
+Perhaps we can get at this from another direction. In a world in which the budget is cut to your moral satisfaction, what becomes of the people who currently receive food, shelter and healthcare from the government?
+
+Maymin: What happened to the East Germans who relied on the government when the wall fell? What would happen to North Koreans if that country becomes free? Ultimately voluntary help is always better than forced redistribution, but if we wait too long, the transition may be more abrupt than necessary. My suggestion would be to phase it out gradually while we still can.
+
+Adams: I’m no historian, but I’m pretty sure the impoverished people from East Germany got help from the government of West Germany. And I’m pretty sure the poor in Germany still get help from the government.
+
+So if I understand your concept, as the U.S. Government phases out social services, the government of Germany would pick up the slack.
+
+I’m going to end the interview here. And I’ll surprise you by showing some respect for your viewpoint. I wasn’t expecting you to be such an absolutist on eliminating government spending for social services. It’s entirely possible that private citizens would step up to take care of the needy, and perhaps do a better job of it than the government. And I can imagine a world in which I pay a little extra, voluntarily, to provide healthcare for my neighbor who is too sick to work. It might be a lot cheaper than paying taxes, while feeling less coercive and more meaningful. The Internet makes this sort of person-to-person helping possible whereas only the government could have done it fifty years ago.
+
+We didn’t discuss military spending, but I would respect any argument that ranges from a purely defensive military budget to something more aggressive “just in case.” No one is smart enough to make that call.
+
+Overall, I don’t think Dr. Maymin’s philosophy for government spending can be called a plan until someone can describe how the transition away from government social services is accomplished without clogging our streets with the corpses of the starved. But if I am fair about this, our government currently has a spending plan that guarantees doom. Advantage: Maymin.
+
+Thanks for being a good sport, Dr. Maymin. And thanks for some ideas that add a lot to the discussion.
+
+ 
+

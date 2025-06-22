@@ -1,0 +1,33 @@
+Could robots learn to imitate human emotions - and in so doing appear intelligent - just by reading millions of text messages that include emoticons and searching for patterns?
+
+Humans use emoticons in text messages because words by themselves are often ambiguous. So we tack emoticons to our words to convey the proper emotional state. Those emoticons are like programming code for artificial intelligence. If a computer sees enough text conversations with enough emoticons I think it could start to develop some rules about human emotions based on patterns.
+
+For example, when newish romantic partners send a simple “Good morning” text it often includes a happy face smiley. In this context, a simple good morning is transformed by the emoticon to all of this:
+
+ 1. I am thinking about you and I want you to know it.
+ 2. I am fond of you.
+ 3. I am in a good mood at the moment.
+ 4. I want you to like me.
+ 5. I want to see you again soon.
+ 6. I have romantic or physical interest in you.
+
+One still needs to know the context of the conversation because instead of a romantic partner you might be teasing a buddy that went drinking last night and you’re checking on his hangover situation with a cheeky “Good morning :-)”. But a computer could handle that situation by knowing your general relationship with the other person, your sexual orientation, and so on.
+
+Human intelligence is mostly just pattern recognition plus some emotional irrationality. Computers do pattern recognition well. The hard part of intelligence is navigating your own and other people’s emotional states. As soon as your robot can accurately detect your mood and react accordingly you will consider it “intelligent” even if it doesn’t know how to fold your shirts. Imagine your robot texting you these messages…
+
+I’m sorry but I don’t know how to fold your shirts :-(
+Maybe you should buy the laundry upgrade software for me ;-)
+
+See how the inclusion of emoticons makes the conversation look intelligent? I think a robot could learn to use emoticons the way I did in my example. The winky emoticon is used when a suggestion might be received as pushy, or perhaps it is a call-back to prior contentious conversations on the same topic. But all of that is rules-based and programmable.
+
+So what do you think? Could a robot someday learn to navigate and imitate human emotions just by reading millions of human text messages with emoticons and finding patterns?
+
+I think the answer is yes.
+
+——————————
+
+Scott Adams
+Co-founder of CalendarTree.com http://bit.ly/N8iAnK   
+Author of this book http://amzn.to/1dF0EJK 
+Twitter Dilbert: @Dilbert_Daily
+Twitter for Scott: @ScottAdamsSays

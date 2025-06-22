@@ -1,0 +1,44 @@
+Suppose you could watch someone else’s business trip or vacation on your computer, in real time, in a little window that updates every few seconds. Would you want that product?
+
+Let’s say the product is an app that tracks a traveler’s smartphone location via GPS and assembles a virtual “movie” of the trip using Google Street View, public websites, the users’ own photos, and some generic stock photos. The movie plays on the computer or phone of anyone for whom the traveler grants access.
+
+Who would use such a thing?
+
+Imagine a spouse who is at home while the other is on a business trip. The spouse at home wants to feel connected despite the distance and the time difference. The stay-home spouse opens a window on his workstation and watches the virtual movie of his wife’s business trip as it unfolds. But unless the traveler takes personal photos, the movie will be comprised of public images only. There is no effort necessary on the part of the traveler, beyond turning on the app.
+
+Here are some examples of what one might see in this virtual “movie”:
+
+1. When the traveler is in a moving vehicle, the movie displays the Google Street View and updates it in real time. The spouse at home has the same perspective as the person in the car across the world. The video is not live, but it would play as if it were. 
+
+2. When the traveling spouse takes a photo, it is automatically uploaded and added to the movie in the appropriate chronological and spatial order. When the movie is replayed later, the user’s own photos will be there to augment the Google Street View and stock photos. 
+
+3. When the traveling spouse enters a hotel, the hotel’s web page photo gallery pops up in the movie at the same time and goes into slide show mode. The same would happen when the traveler enters any restaurant or other retail store that has a website. I can imagine a soundtrack of background noise that matches each environment. 
+
+4. If the traveling spouse is near a historical site, the relevant Wikipedia page pops up as part of the slide show of clip art for that site. Click on the Wikipedia slide to freeze it and read more. 
+
+5. When the traveling spouse is on a flight, a photo of a plane interior becomes the slide show, interspersed with graphics of the flight’s progress across the map. 
+
+To make the app work best, the travelling person should enter his flight and hotel information ahead of time. That way even when the traveler’s phone is turned off it still knows you are on a flight and can broadcast stock photos of the airplane cabin during the flight time. If the flight is delayed, the app knows and adjusts accordingly.
+
+I’m not expecting anyone to sit there and watch this trip movie from start to finish. It’s just a window on your workstation that reminds you what the other is up to. And people who want to have a detailed record of their vacations might want to keep it permanently and share later with friends.
+
+Now also imagine that people can text each other through the app. This is handy because the person at home can see how busy the traveling person is at any given moment. You might text if you see the person is in a taxi but not if she is on a plane or at a business dinner.
+
+Some potential users for this sort of app might be:
+
+
+ 1. Parents and grandparents who want to track your vacation and feel connected.
+ 2. Teen goes on a family vacation and wants to stay connected with friends.
+ 3. Spouse who travels a lot.
+    
+
+These movies of your trips would be stored in the cloud and become the photo album of your trip. You’d need the ability to fast-forward through it and watch slideshows along the way. Perhaps you would navigate to specific clips by viewing a map that shows your travels on any given day. Just click a destination you visited to bring up your photos, stock photos, website photos, and eventually photos taken by others who were at the same location.
+
+As the traveler, you’d want the ability to turn off the app for some privacy if needed. And you’d want to be able to edit your movie before anyone sees it, assuming you didn’t broadcast it live. Remember that this movie never shows your face (unless you take a picture of yourself), just a representation of your point of view at the same time you are experiencing it.
+
+I can also imagine the app taking a text file of your credit card statement that you download from your bank, and using that information to create an expense record for the trip. Each charge would associate with a location.
+
+Eventually I could imagine people posting their vacations online after they are done with them, so others can plan similar vacations, right down to the budget needed and perhaps an overall Yelp score of the entire experience.
+
+Do you think this sort of product is inevitable?
+

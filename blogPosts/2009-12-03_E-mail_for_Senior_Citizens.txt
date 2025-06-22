@@ -1,0 +1,14 @@
+What the world needs is software that makes it easy for senior citizens to use e-mail. Assisted living facilities for seniors already have computers. But how many 80-year olds can navigate Gmail or Outlook?
+
+What we need is software that acts as a “mask” and sits on top of, for example, Gmail. Its main function would be to hide all the options that aren’t relevant. All you would see is very large buttons labeled READ, WRITE, and OTHER. Seniors should never see more than three large, clear choices on the screen at one time.
+
+And there should never be any double-click situations. One click is enough.
+
+And seniors should only receive e-mail from people who are in their address books. No spam allowed.
+
+Any attachments should open automatically, as if they are part of the e-mail body.
+
+Obviously someone would have to be available to do tech support, including entering new e-mail addresses in address books, and that sort of thing.
+
+You can buy a special computer that is customized for seniors, but it would be handy to have the software available for existing computers. If grandpa lives with you, and wants to use the home computer to send e-mail, just click “grandpa mode” and get out of the way.
+

@@ -1,0 +1,84 @@
+As you know, people are not saving enough for retirement. Not even close. So in order to survive, we probably need to reduce the cost of retirement living. That brings me to a company called Click and Grow http://us.clickandgrow.com/. 
+
+Note: I am about to make a tiny investment in this company, primarily for social reasons. I think their technology has the potential to change the world. I am giving it some attention because that’s probably all they need. This is not investment advice.
+
+Click and Grow makes a nanomaterial soil that is optimized for growing. It already works for their counter-top herb-growing device that you will see on the site http://us.clickandgrow.com/. I tried it at home, after meeting the founder, and sure enough, several herbs grew quickly and perfectly with no effort on my part. Just add water once to its little reservoir.
+
+The nanomaterial in the soil is engineered for each type of plant. It has the right nutrient levels and it controls moisture automatically because of its physical structure, so you don’t need to worry about any of that.
+
+But does this consumer product scale up to farm size?
+
+The company is moving forward on testing some small indoor-farm set-ups. The initial estimates are that this method of growing will reduce costs by 70-80% compared to hydroponics and aerponics. The savings come from reducing complexity. With Click and Grow, all you need is the soil, seed, and water. And you don’t need to try hard to get the watering right because the soil does that for you. 
+
+Compare that simple model to this diagram of aerponics https://www.google.com/search?q=aeroponics&rlz=1C1SKPL_enUS421US509&es_sm=122&tbm=isch&imgil=SaVvxO7fqf5gQM%253A%253BeoCCPbyOvSL4EM%253Bhttp%25253A%25252F%25252Fwww.farmxchange.org%25252Fdiy-aeroponics%25252F&source=iu&pf=m&fir=SaVvxO7fqf5gQM%253A%252CeoCCPbyOvSL4EM%252C_&biw=1803&bih=914&usg=__q7AN042SWynP9UE-K1jjVdvcjKE%3D&ved=0CDYQyjdqFQoTCO_Bx7rnnsgCFRGWiAodtlAFHQ&ei=G9wLVq_IG5GsogS2oZXoAQ#imgrc=SaVvxO7fqf5gQM%3A&usg=__q7AN042SWynP9UE-K1jjVdvcjKE%3Dor this page of hydroponic https://www.google.com/search?q=aeroponics&rlz=1C1SKPL_enUS421US509&es_sm=122&tbm=isch&imgil=SaVvxO7fqf5gQM%253A%253BeoCCPbyOvSL4EM%253Bhttp%25253A%25252F%25252Fwww.farmxchange.org%25252Fdiy-aeroponics%25252F&source=iu&pf=m&fir=SaVvxO7fqf5gQM%253A%252CeoCCPbyOvSL4EM%252C_&biw=1803&bih=914&usg=__q7AN042SWynP9UE-K1jjVdvcjKE%3D&ved=0CDYQyjdqFQoTCO_Bx7rnnsgCFRGWiAodtlAFHQ&ei=G9wLVq_IG5GsogS2oZXoAQ#tbm=isch&q=hydroponics+systems operations. The farmer doesn’t want that level of complexity or cost.
+
+The nanosoil will be completely biodegradable in the upcoming version. (Current version is 98% biodegradable.) The only downside is that you have to trade out the soil after using it. I suggested to the founder that they look into using it as a base for concrete or maybe using it as kitty litter. So that part hasn’t been fully worked out for large-scale farming, but it seems doable. Obviously that cuts into the economics. 
+
+The company is focusing on testing commercial farm operations, but a back-of-envelope estimate by the founder is that a vertical garden (floor to ceiling) about the size of a kitchen table, with several levels up, might feed a typical family. The rapid growing speed compensates for the lack of space, and there is no farming skill needed. 
+
+if you have any great ideas on how to reuse or easily replace a lot of nanosoil in pots, please put that in the comments. At the risk of exaggerating, coming up with that solution here could save a billion lives someday. If climate change makes outdoor farming less economical, we will need an indoor option ready to go.
+
+Any ideas?
+
+Update: The company gave me permission to publish this explanation of the nanosoil.
+
+
+
+
+SmartSoil. Toxicity safety and Biodegradability
+
+The substrate used by Click & Grow is a mix of coco-coir and peat which is bind together with a polymeric
+
+adhesive (maximum 1% of DW). The latter gives it a very airy and porous structure and binds the organic constituents together to form a solid block.
+
+As coir and peat are natural resources (coir is a renewable one), 99% of the product is of organic origin and completely biodegradable. In moist and biologically active conditions the adhesive will break down
+
+in 1-2 years and completely decompose in approximately 10-50 (400) years.
+
+The used adhesive does not contain excess amounts of hazardous toxic elements such as Pb, Fe, Cd or As. Also no traces of chemical plant protection agents have been found during routine tests. Free isocyanate groups have not been identified. Therefore, we have no reasons to conclude the used substrate as toxic.
+
+Water consumption
+
+Compared to outdoor cultivation in arid and hot areas, indoor farming can prove very water efficient.
+
+This especially, when irrigation water is recycled and humidity evaporated from the plants foliage is collected and returned to circulation.
+
+System complexity
+
+Commercial hydroponic farms require fertilizer mixing. This features a pump for the fertilizer, pH adjuster and the metering of EC and pH. The EC and pH sensors have to be calibrated once every three months.
+
+The SmartSoil already includes limestone which keeps the pH constant and eliminates the necessity for pH measurement. Also the SmartSoil is pre-fertilized with a controlled-release fertilizer. Therefore nutrient release is dependent on the substrate moisture and temperature. This eliminates the need for sensors and greatly simplifying the growing procedure.
+
+The greatest advantage over common potting soil mixtures is its cleanness. Also, as commonly the seeds are incorporated into the C&G substrate, the labor involved seeding is lost.
+
+The Click & Grow LED light
+
+The current Click & Grow growlight comprises of either one or two 3W LED bulbs. The color temperature is around 6500K thus delivering the spectra of a clear day. The system is optimized for home use and eye-friendliness and is not as power efficient as red and blue LEDs emitting at photosynthetic absorption maximums of chlorophyll A and B.
+
+Amount of food produced
+
+To completely meet the energy requirement of one person, a minimum of 65-100 sq m is required (in ideal conditions). However, to meet the vitamin and secondary plant metabolite requirements, only around 5-10% of this space can be used. Therefore indoor systems can be built which take care of the vitamin requirement of a family or community. Still, current methods of artificially producing and distributing energy to plants still leave indoor farming unsuitable to produce enough energy-crops to meet a human’s requirement indoors.
+
+Research has shown that by exposing a plant to drought stress, it can be stimulated to produce up to 6 times more beneficial antioxidant compounds than compared to control. This means, that in systems which completely control the growth environment plants with healthier composition and more intense flavor can be grown.
+
+Infestation and bugs
+
+Currently the plant protection works are done similarly to any indoor growing facility. Great care must be taken to keep the growing environment clean. If necessary, all systems must be disinfected. Future systems with over pressurized growth chambers to keep contaminants out are being currently developed.
+
+Soil VS Smart Soil
+
+Normal soil or plant substrates are prone to soil compaction and this is a big problem because nutrients, air, and water can’t be equally reachable by plant, in some cases can’t be reachable at all. It means that plant can’t form healthy root system, can’t get all the compounds needed for growing as quickly as needed and thereby grows more slowly and is not as healthy as could be. The polymer formed carcass in the smart soil prevents this from happening and the open cells provide room for air and water to move.
+
+As the smart soil has very stable texture, we use it as a part of our hardware, a sensor. The smart soil and software interact with each other using a simple intermediate - water. The nutrients in smart soil are packed with a coating which controls nutrient delivery based on moisture and temperatures. By precisely controlling the amount of water in the smart soil we can alter the speed of nutrient delivery. Therefore, we are not directly controlling nutrient capsules, but activate them by playing with moisture level.
+
+Because all of that plants are growing ca 30% quicker in smart soil but more importantly plants are much healthier and accumulate much more bioactive compounds ( up to 600% more than plants grown in soil/fertiliser mixes).
+
+—
+
+In Top Tech Blog, you have a technology for scrubbing carbon dioxide out of the oceans http://scottadams-tttt.tumblr.com/post/130172495621/top-tech-146-carbon-capturing-micro-motors and an electric car that stores energy in salt water http://scottadams-tttt.tumblr.com/post/130172495621/top-tech-146-carbon-capturing-micro-motors. How cool is that?
+
+–
+
+If you are reading this blog, you would probably enjoy my contrarian book http://www.amazon.com/How-Fail-Almost-Everything-Still-ebook/dp/B00COOFBA4/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1376677690&sr=1-1about success. According to this reviewer, I am an “unlikely source” for anything helpful, and I have to agree with that observation. But sometimes a blind squirrel…
+
+image [https://64.media.tumblr.com/df1715e7594faf3149fbe55a34803c15/tumblr_inline_nvhsvzIgyx1t63ajm_540.jpg]

@@ -1,0 +1,11 @@
+This is an odd little coincidence. Check out Paul Krugman’s blog http://krugman.blogs.nytimes.com/2011/06/26/not-a-does-not-imply-b/for June 26th on bad reading comprehension. It seems to be an epidemic.
+
+I sense a startup opportunity.
+
+Suppose you start a company that administers a basic reading comprehension test and issues a password to people who pass it online. Then imagine that the password would be needed to sign up for commenting on blogs and other online forums. The startup would sell its password services to websites looking to filter out people with bad reading comprehension.
+
+As a consumer, if you pass the test once, your password is yours forever. You can use it as many times as you like for as many blogs and forums as you sign up for. You would be a certified “good reader.”
+
+I suppose you could extend the concept to include tests for history, politics and economics. Each time you pass a new test module, your lifetime password is given new rights that match the test you pass. Websites could determine what sort of test success they want to make a requirement for participation on their sites.
+
+One problem with this idea is that it would severely limit the traffic for comments. But a website could allow everyone to comment and simply indicate which commenters are “good readers.” That way you have the benefit of knowing who has a minimum set of qualifications to comment on a topic and who doesn’t.

@@ -1,0 +1,54 @@
+Regular readers of this blog know that I wrote a book http://amzn.to/2gSzZEg about the benefits of systems versus goals. You also might know that I cofounded a startup (WhenHub https://www.whenhub.com/) using a systems business model approach. I’ll use this blog to keep you updated on how that works out compared to the traditional goal-oriented business model that almost all startups follow.
+
+A goal-oriented startup would have a specific customer and a specific product in mind. If that doesn’t work out, the startup might have enough cash left over for a pivot, or maybe two, to try again. But in each case, there is a specific goal. And the way startups work, the odds of any particular startup hitting its goal is dismal. That’s why WhenHub was designed from the ground-up to be a systems business model instead of a goal-focused model. The idea is to get something like a portfolio effect to increase the odds of at least one of the things we’re doing becoming a profitable line of business.
+
+What that means in practical terms is that WhenHub has a huge set of features that can be combined in lots of ways to create a vast array of different applications for all sorts of uses, both business and personal. We launched without knowing which types of applications users would find most valuable. We’re in that “discovery” period now, and we’ve already learned a ton.
+
+Now we’re taking it up a notch by running an online hackathon https://whenhub.devpost.com for our WhenHub platform. We’re inviting developers to use our API (the technology that allows external applications to access our platform) to invent their own applications using our technology, and win valuable prizes.
+
+This is a pure systems approach. We have no idea what kinds of applications will come out of the hackathon. But we do know that bringing this much creativity to the platform will greatly increase our odds of finding a profitable application that no one on my team thought of.
+
+But that’s not enough to call what we are doing a “system.” The way you know you have a good system is that you come out ahead even when you fail at whatever you’re doing. In the case of a hackathon, developers all over the world will be exposed to what WhenHub can do. If nothing comes out of the hackathon itself, we have still acquired real estate in the brains of hundreds of developers who are in this space. A year from now, one of them could use our API to create a billion-dollar application. Perhaps one or more developers will want to work for WhenHub in the future. Maybe a developer will mention WhenHub to a friend in an unrelated field, and that will be the connection that matters.
+
+In other words, WhenHub has literally thousands of ways to win with the hackathon and no real way to lose. We’ll raise awareness of the company with exactly the right kind of people no matter what comes out of the hackathon itself, and we will do it at a reasonable cost. That’s a good system – lots of ways to win, no way to lose.
+
+Our ideal future would involve an ecosystem of developers and designers who can extend the WhenHub platform with their own special-purpose visualizations that work on desktop and mobile. Eventually we hope to have something similar to Apple’s App Store for WhenHub apps.
+
+Details of the hackathon can be found here https://whenhub.devpost.com. It runs until May 8th, after which, my esteemed judging partners and I will pick winners. We have awesome prizes in three categories:
+
+Best Visualization (Code) — for developers, 
+
+
+
+
+Best Visualization (Design) — for designers (I don’t know why this font is small)
+
+
+
+
+Best Use of WhenHub API — for developers
+
+
+
+
+Will WhenHub become a billion-dollar company someday? I have no idea. But I do know our odds of success just increased substantially by the hackathon https://whenhub.devpost.com systems-approach. Where it all leads, we’ll find out together.
+
+—
+
+No need to tell me in the comments that this post is too “commercial,” and that you wish I would blog about other topics. I hear you. But keep in mind that the blog is a system, not a goal. I try out a lot of different topics here. My only criteria is that it be entertaining or useful in some way. I think it is useful to see how a new type of business model performs. I hope you don’t mind that I put a high value on the attention it brings to WhenHub as well.
+
+—
+
+
+
+You might enjoy reading my book http://amzn.to/2gSzZEg because systems are better than goals.
+
+I’m also on…
+
+Twitter (includes Periscope): @scottadamssays https://twitter.com/ScottAdamsSays
+
+YouTube: At this link https://www.youtube.com/channel/UC-W_DvNZoIW1433DrLBQHUQ.
+
+Instagram: ScottAdams925
+
+Facebook Official Page: fb.me/ScottAdamsOfficial http://fb.me/ScottAdamsOfficial

@@ -1,0 +1,20 @@
+Benjamin Franklin said, “When the people find that they can vote themselves money, that will herald the end of the republic.” We’re still waiting for that to happen, but it looks inevitable to me, thanks to the Internet.
+
+As the presidential election season in the United States has proven once again, facts are fuzzy, truth is optional, and poor people will vote against their own best interests. We have fact checkers, but they don’t always agree with each other. Voters default to voting the party line. But that could change.
+
+It is one thing for a fact-checker to say candidate X told a lie. That seems to have no impact on voters whatsoever. On some level everyone understands the election process to be about persuasion not truth.
+
+But suppose another level is added to fact-checking. This new level allows each voter to get specific predictions of his or her individual net worth under each candidate’s plan. These predictions would be based on odds and use an expected-value formulation. That just means a 25% chance of making $100 is valued at .25 x 100 = $25. That’s a common way to approach predictions that have uncertainty.
+
+The prediction model would take into account the odds that congress would thwart any particular plan, the odds of war, the odds of technological advances, and even the odds of the candidate dying in office.
+
+Now let’s say the model crunches all the numbers and lets an individual voter input his specific income, location, age, family size, mortgage, education etc. to see how he will fare under candidate Y’s presidency versus candidate X. Armed with that information, the citizen votes for the candidate that is predicted to do best for him personally. At that point, Ben Franklin’s prediction comes true and the Republic crumbles.
+
+I know, I know. A model so complicated would necessarily be unreliable. But remember the accuracy bar is set extraordinarily low. Today most voters have no idea which candidate will serve their personal interests best. A model that improves on random guessing by 10% would be the best information around.
+
+Presumably the model would show that poor people can come out ahead in the short run by voting for candidates willing to tax the bejeezus out of anyone rich enough to own a home.  People being people, I think the poor would vote for their best short term outcome even if the model predicted dire consequences ten years out. Hence, the end of the republic.
+
+Democracy and capitalism are quite compatible as long as voters have poor information. If you put the Internet in the mix and allow it to evolve, sooner or later voters will have better information and the republic will collapse.
+
+If it bothers you to see politicians lie, take a moment to consider the alternative. When voters have accurate information, it is game over for the republic. That’s not me talking; it’s the guy who helped invent the republic.
+

@@ -1,0 +1,46 @@
+An attractive young woman went out for a long run. She picked her route carefully, avoiding sketchy neighborhoods. But despite her best precautions, she could never feel completely safe in New York City, miles from her apartment, especially after dark. 
+
+Her 110 pound frame sliced through the night leaving nothing but the sound of her running shoes on the pavement.  If necessary, she knew she could outrun almost any pursuit that came on foot. Assailants generally give up before the twenty-mile mark. It bothered her that she even had to have such thoughts. She kicked it up a notch.
+
+Parked cars and lamp posts whizzed by. She thought she saw something that looked out of place, but it was just a rogue napkin blown by the wind. Settle down, she told herself. Don’t be concerned about random motion in the night. Keep running. Get your miles. It’s the only way you can sleep tonight.
+
+She could see the shadowy outlines of three young males in the distance. They didn’t look like trouble, necessarily, but she crossed the street anyway and planned her escape routes just in case. One of the men said something and the other two laughed. It sounded as if a comment had been directed at her. She kept her head down and put the three men in her past.
+
+As she crossed the five-mile mark, she couldn’t help wondering what would happen if someone with evil intent grabbed her. How long would it be until her husband knew she was in trouble? How long does an adult have to be missing before the police take it seriously?
+
+She had her smartphone with her, but who has time to dial a number and make an emergency call during an attack? It takes time to get to your phone. Then you have to concentrate to get to the right mode.  Are you wearing gloves? If you get the gloves off, do you have time to dial 911, explain your situation, and give your location?
+
+She had these thoughts every time she ran, which was nearly every day. And she knew that others must sometimes feel the same way.  There are some environments that feel unsafe no matter what precautions you take. As she ran, she tried to work out a solution. What she needed was a quick way to activate her phone in an emergency. And once activated, it needed to call for help automatically and give her location. But how?
+
+At this point in the story you need to know that the runner’s father is an electrical engineer living in California. The runner and her dad talked about the problem and brainstormed a variety of solutions. The best of the ideas turned into a patent application, a prototype, and now a business that just launched. The product is called MyRingGuard http://www.myringguard.com/.
+
+It’s a ring that pairs with your Android phone (iPhone version will follow) via Bluetooth. If you’re out by yourself, and you encounter trouble, just press the button on the ring to send an emergency text message via your phone to whoever you pre-designate. The text message will say you’re in trouble and it will give your GPS coordinates. Obviously that won’t stop an attack in progress, but at least you’ll know help is on the way, and the help will have a good idea where to find you.
+
+To me, the interesting part of this story is how two people starting with nothing but an idea can form a company that designs, manufactures, and markets a consumer product. I’m fascinated by the fact that none of the components of the business are physically in the same place. Most of it was outsourced by contract.
+
+CEO (the runner): New York City
+
+Engineer (the runner’s dad): California
+
+Industrial design: Argentina
+
+Tooling design: Australia
+
+Prototype: China
+
+Electronics design: Romania
+
+Firmware design: Hungary
+
+App design: Hungary
+
+Production: China (by a New York based company)
+
+This sort of everywhere-at-once company structure would have been impractical ten years ago. In the old days, ideas were worthless and implementation was everything. We’re entering a phase where implementation is a commodity that is universally available at a reasonable price. The real value is shifting to the quality of ideas. It’s not a complete shift - someone still has to coordinate all of the disparate parts - but you can see the trend: If your idea kicks ass, and you have access to the Internet, you have the entire world to help with implementation. You can even crowdsource part of the funding, as the runner and her father did.
+
+Along these same lines, a few weeks ago I teased you by saying I had a valuable idea I would try to “sell” to a venture capitalist - for someone else to implement - just to test my hypothesis that even unpatented ideas are beginning to have economic value. I can report to you today that the result of my experiment is a qualified success.  I was able to find a highly capable investor willing to form a company around my idea and grant me an equity position in return for my contribution, which will be mostly around defining the idea in more detail. That’s not quite “selling” an idea, and there is a lot of distance between deciding to form a company and actually creating something of value. I’ll also end up doing some actual work, but that should be manageable. (My idea will need to stay secret for now. Sorry!)
+
+Implementation will always be important, but the shift to an ideas-based economy is underway.
+
+Disclosure: The runner and her dad are friends of mine and I have an interest in the company’s success. The opening story has some literary flourishes but it’s accurate in a “based on a true story” way.
+

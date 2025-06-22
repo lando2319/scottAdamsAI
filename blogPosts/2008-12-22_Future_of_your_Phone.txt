@@ -1,0 +1,25 @@
+Some time ago I wrote a post about my prediction that people would use their smart cell phones to arrange ride sharing. That is happening now.
+
+
+
+http://www.nytimes.com/2008/12/21/business/21novelties.html?_r=1&ref=technology http://www.nytimes.com/2008/12/21/business/21novelties.html?_r=1&ref=technology
+
+
+I also came across an application that allows you to use the Bluetooth feature of your phone to lock your computer when you (and your phone) walk away. I’m guessing you’ll see more of this, maybe for your home and car.
+
+http://www.automaticable.com/2008-09-20/lock-down-your-ubuntu-computer-with-a-bluetooth-cellphone-and-blueproximity/ http://www.automaticable.com/2008-09-20/lock-down-your-ubuntu-computer-with-a-bluetooth-cellphone-and-blueproximity/
+
+
+I also heard about an application that lets you take a picture of any item with your iPhone and it finds an online shopping site that carries that exact item. Very cool. (Update: Here’s the link: http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000291661 http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000291661)
+
+These applications got me thinking what else is in the pipeline. I’ll take a stab at a few predictions with full knowledge that you will provide links to people already working on these ideas.
+
+WHATS-HIS-FACE: This application would let you discreetly take an iPhone photo of an acquaintance whose name you can’t remember then it uses face recognition to search for the name online. Someday everyone will have a Facebook-like web page, so searching for faces will be feasible.
+
+DOCTOR-IN-A-BOX: Someday you’ll be able to take an iPhone picture of your suspicious moles, abrasions, fungus, or whatever and get an instant automated diagnosis and suggested treatment.
+
+WHAT’S-IT-LIKE-THERE? Imagine wondering how long the line is to an event, or what a particular forest fire looks like, for example.  You send a query through your iPhone for anyone who is in that area, according to GPS tracking, and ask for a look. A kind stranger takes your query, sets his phone to stream video, and gives you the view from his perspective. You would have eyes anywhere there are people.
+
+BRAIN-EXTENDER: Google and Wikipedia are already brain extenders. You can find almost any information you want and quickly. But imagine how much cooler it would be if your iPhone headset was continuously monitoring your conversations and answering your questions as they arise, or whispering suggestions in your ear. That application seems likely to me.
+
+Do you have any more futuristic iPhone predictions?

@@ -1,0 +1,131 @@
+When I created a Slideshare preview http://slidesha.re/1dPgJ0p of my book How to Fail… http://amzn.to/1gqmtO8 I worked with Dr. Carmen Simon at Rexi Media http://bit.ly/1asP726 to get the slides just right, from a design and message standpoint, but also from a cognitive science perspective. I thought my blog readers would enjoy a peek under the hood to see what techniques we used. This is useful stuff.
+
+Dr. Simon explained to me that it helps to think of your presentation in terms of these three elements.
+
+
+ 1. Attention
+ 2. Memory
+ 3. Decision
+
+Drilling deeper, all three elements can be activated by emotions. And all three elements can be influenced by automatic or deliberate factors.
+
+Automatic factors (examples)
+
+ 1. A shiny object grabs your attention reflexively 
+ 2. The sight of a red apple reminds you of a friend’s cheeks
+ 3. After a sleep-deprived night, you decide to eat a donut even though you’re on a diet
+
+Deliberate factors (the stuff you care and think about)
+
+ 1. What you want out of life
+ 2. What you expect to see or hear
+ 3. What you already know
+
+Now let’s see how the science is applied to my slide show titled Passion is Overrated and Goals Are for Losers. http://slidesha.re/1dPgJ0p
+
+Attention
+
+To get attention, your material must stand out in some way (e.g. through color, size, location, etc.)
+
+The color palette for my slides (grayscale - including white - accentuated with red) puts emotionally powerful colors in stark contrast. Red has a deep psychological impact: It makes breathing harder, quickens the heart, and demands attention. The lack of competing color “noise” makes the color contrast more attention-grabbing.
+
+The first slide in the deck is the most important for drawing-in viewers. We had a powerful color palette, but we also needed a title that grabs attention. Dr. Simon says the four title approaches that do this well are:
+
+ 1. Promise a story
+ 2. Promise a reward
+ 3. Provoke curiosity
+ 4. Evoke concern
+
+My slideshow’s title “Passion Is Overrated and Goals Are for Losers http://slidesha.re/1dPgJ0p” provokes curiosity while evoking concern that one might have been doing things wrong until now.
+
+We know from cognitive neuroscience that attention is rooted in emotion. So words that carry a strong emotional load (e.g. “overrated” and “losers”) grab attention. Putting all of that together, on the very first slide we have powerful color contrast, curiosity, a reason for concern, and two emotion-charged words.
+
+[http://images.gocomics.com/dilbertblog/File/Passion%20is%20overrated%20slide.png]
+
+
+Balance Recognition and Surprise
+
+Cognitive neuroscience nerds tell us that attention can be thought of as a clash between an object and its environment. One of Rexi Media’s insights, based on research, is that any time you want an audience’s attention, serve up something viewers expect AND something they did not expect. In other words, you want a balanced combination of recognition and surprise.  In my slide show, widely-recognized Warren Buffet has Einstein’s hair, and Mark Zuckerberg has a Zorro mask.
+
+ [http://images.gocomics.com/dilbertblog/File/Warren%20Buffett%20humble%20slide.png]
+
+The Benefits of Being Unclear
+
+Conventional wisdom says that your slides need to be as clear as possible. This is not always the case. Research shows that when stimulation is degraded in some way, attention and recall are higher. For example, if I show you a word that is faded out, the cognitive strain in comprehending it leads to better attention and therefore better recall because “I made you look.” Rexi Media applied this approach in several slides in my presentation. For instance, the phrase “terrible sound bite” is not written in a way that is easily digested. You have to strain a bit, and linger longer, giving it extra attention. This is not a practice you would repeat on all slides in a presentation. Use it only on a few phrases you consider important.
+
+ [http://images.gocomics.com/dilbertblog/File/Terrible%20Sound%20bite%20slide.png]
+
+Violate a Pattern
+
+One of the ways to get attention and re-energize the brain is to break a pattern that people have learned to expect. After the reader’s brain gets habituated in my slides, the pattern is intentionally violated.
+
+One of the reasons people don’t pay attention to slides after a while is because they are too predictable. From an evolutionary standpoint, if we think we know what happens next, and everything is safe, we are better served by putting our attention elsewhere.
+
+Rexi Media advises presentation designers to look at their slides in the view shown below (slide sorter view), because it tells you instantly two important things: Do you have a pattern and do you break it? The former is critical because sometimes slide designers fall into the other extreme where there is NO pattern. The brain needs sameness in order to detect the difference.
+
+One way to break a pattern is by moving from slides that are visually intense to slides that are visually simple. Or you could move from a pattern of seriousness to something humorous. Or you could move from something appropriate for your audience to something inappropriate (e.g., the “bull$#!%” slide). All these switches guard against habituation and serve to refresh the viewer’s attention.
+
+ 
+
+  [http://images.gocomics.com/dilbertblog/File/Slides%20in%20a%20matrix%20view%20slide.png]
+
+Audience Engagement
+
+Audience engagement is a great way to solidify memories. But how do you create audience engagement when you’re not presenting the material in person? For my slideshow, we created engagement in two ways:
+
+1. By not making everything so obvious (i.e. giving people the joy of “getting it”)  
+
+2. By inserting rhetorical questions. The latter works because every time you ask a question, even if it is rhetorical, the brain is mandated to answer. Do you think that’s true? (See what I did there?) 
+
+This slide combines the joy of “getting it” (when you realize which movie the graphics come from) and the power of a rhetorical question.
+
+ [http://images.gocomics.com/dilbertblog/File/Meg%20Ryan%20Passion%20slide.png]
+
+If we were to ask people which slide was more memorable from the deck, many would quote this slide because of its powerful combination of psychological elements.
+
+Decision
+
+If you want your audience to make some sort of decision, you need motivational drivers. In my slideshow, Rexi Media made sure I used two.
+
+Principle of Reciprocity
+
+Humans are social animals. When someone gives you a gift, it activates in you an automatic impulse to reciprocate. Salespeople have been using this concept forever. The approach works in presentations as well.
+
+My slideshow has both entertainment and informational value. I put a lot of work into it and provided it to you for free.
+
+Social Proof
+
+We are more likely to act if we see that people who are like us have acted. That concept is embedded in the testimonials about the book in the end. (The 5-star reviews on Amazon.com have the same effect.)
+
+Results
+
+I don’t have a way of measuring how much the methods described here boosted views of my slides. There’s no control on this experiment. But we can compare my slide show to a promotional video for the same book that I made at about the same time. The video was designed to be entertaining but it didn’t employ this level of cognitive science. At this writing, the slide show has about 50% more views than the straightforward video.
+
+Slide show: http://slidesha.re/1dPgJ0p 33K views
+
+Video: http://bit.ly/JHzA1F 22K views
+
+To be fair, there are plenty of reasons that can account for the difference in number of views. The video was probably too long and that crimps the viral potential. It required sound, which is bad for office viewing.  And it was more commercially “needy” in its design. But it also came first, and one would expect some audience fatigue on the topic of my book by the time the slideshow came out. You can think of a dozen other factors in play as well.
+
+That said, cognitive science would predict that the slide show would get more views than the straight-forward video approach. And it did, by far.
+
+If you want to see more examples of Rexi Media’s slide designs, here’s a link to a video of me giving a speech at an IBM event http://bit.ly/1fpflnF recently, using different slides from the ones in the Slideshare deck. Backstage, the question I heard most often was “Who designed your slides? They’re incredible.” And that was from the people who do this work for a living. When I asked what they liked about the slides, no one could put a finger on it. Unlike you, they didn’t get to look under the hood to see the design science.
+
+I hope you found this interesting.
+
+Here’s a recap of the relevant links.
+
+Scott Adams and Stephen Pastis Cartoonist battle Video http://bit.ly/JHzA1F (No cognitive science used)
+
+Goals are for Losers Slideshare http://slidesha.re/1dPgJ0p (with slides by Rexi Media)
+
+Scott Adams’ Speech to IBM http://bit.ly/1fpflnF, Jan 2014, 25 minutes (With slides by Rexi Media)
+
+Rexi Media http://bit.ly/1asP726
+
+
+My book: How to Fail at Almost Everything and Still Win Big http://amzn.to/1dF0EJK
+
+ 
+
+

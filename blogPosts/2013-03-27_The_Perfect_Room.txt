@@ -1,0 +1,31 @@
+When my wife and I designed our home we got one of the rooms exactly right. The living room area has an L-shaped couch that opens to a fireplace on one wall and the TV on the other. It’s far better than the common practice of an ugly rectangular TV over a rectangular fireplace. Our windows are on both sides of the fireplace so there is no glare on the TV. And there are walkways on all sides of the couch so the living room eliminates the need for a hallway to connect rooms downstairs. Best of all, when we are facing the TV, Shelly can be nearer the fireplace, and that works for both of us.
+
+That’s just an example of a perfect room setup. Obviously your ideal room setup would be different if you don’t have a fireplace or a TV. But it made me wonder if there is such a thing as an ideal room design for every given set of functionality and budget. Is there, for example, a perfect kitchen layout that has everything figured out? A perfect bedroom?
+
+You often see rooms that can’t be furnished properly because furniture placement was an afterthought. The design of a room should start with the perfect arrangement of furniture and fixtures. I would think that for every budget and set of preferences there are a few furniture arrangements that stand out as the best. How hard would it be to catalog those best arrangements?
+
+I imagine a time when a user can design a home simple by checking boxes on a long digital form. Questions for a living room might include:
+
+1.      Do you want a TV in this room?
+2.      Do you want a cozy reading chair?
+3.      Do you want a fireplace?
+4.      Etc.
+
+Once the user selects all of his preferences for each room, he clicks a “shuffle” button and it spits out a house layout complete with external windows, doors, hallways, stairs, and engineering support structures. All of that stuff is fairly rules-based. If you don’t like the first design, click the shuffle button again. In every case, the rooms will have exactly the features you specified but arranged differently. And of course you can walk through your model in 3D mode.
+
+You would also have to answer some questions about the orientation of the home on the lot, such as the location of neighbors, the street, and the sun. Just check the boxes that apply and hit the shuffle button.
+
+I can imagine that each time you select or deselect a feature it automatically adjusts the total cost of building and maintaining the home. When you have the design you like, at the price you can afford, you click a button to send the whole thing out to bid for contractors. I can also imagine that clicking the “build” button sends the materials and cutting instructions to manufacturers and lumberyards that prepare all the building materials and deliver them to the site, appropriately labeled for the builder.
+
+I would think the cost of the house would fall dramatically with this model, in part because you could shuffle rooms until you got the lowest cost that meets your needs. When an architect designs your home, you get perhaps two or three different looks from which to choose, and no idea which one is more expensive. Room placement makes a big difference in costs for several reasons:
+
+1.      Rooms that need plumbing should be near each other to reduce costs.
+2.      Orientation to the sun makes a huge difference in heating/cooling/insulation.
+3.      Some designs require fewer hallways, which saves space.
+4.      Some designs require more support structures, doors, windows, etc.
+5.      Some designs have ductwork issues.
+
+Those are just some obvious examples of potential savings. You’d also cut your architect expense by 80%. And you’d save on labor and materials because the building materials would be measured and cut at the factory, including everything from lumber to floor tiles to carpet.
+
+My observation is that the building industry is slow to innovate and fairly disorganized. Builders, architects, and materials companies are all their own little silos. So my guess is that the “shuffle design” program will originate in some sort of online game environment before it gets ported to the real world.
+

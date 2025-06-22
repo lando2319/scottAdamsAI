@@ -1,0 +1,45 @@
+I wonder if a legal doctor-assisted suicide machine could be designed using a random number generator. That would make the laws against doctor-assisted suicide irrelevant because the deaths would always be an accident in the sense that no human could reliably predict the specific outcome in advance.
+
+Let’s say the random part of the device is attached by electronics to another part of the device that delivers a fatal dose of sedatives and poison to whoever is attached to it. You push the button and one of two things can randomly happen:
+
+ 1. Nothing
+ 2. Lethal drugs are released
+
+The person attached to the death machine can tap the “go” button as many times as he wants in rapid succession. If the first tap does nothing, the next ten taps will likely get it done, and the entire process happens in only a few seconds. The person using the device might not even be aware of which tap was the lethal one.
+
+Optionally, perhaps the “go” button is published on the Internet with the offer that folks in other countries can press it as often as they like. Perhaps the chance of a lethal outcome is designed into the system to be one in ten-thousand - which is similar to the risk in some sports - but thanks to the large number of people pushing the button you get a lethal outcome for an individual in less than a second.
+
+Another idea is to use anonymity on the Internet to transform suicide into an unsolved murder case. Suppose I connect myself to the lethal dose machine and publish a kill button on the Internet. Technology conceals the identity of whoever pushes the kill button and erases the digital trail. Even the killer is unaware of whether his tap of the button was a placebo or the one that mattered. Perhaps thousands of people tap the button all over the Internet but only one of them randomly matters. Now you have either an accidental death or an unsolved murder.
+
+By analogy, the device I am describing is a lot like smoking. We know that smoking kills people but it is legal precisely because we can’t predict which people will die from it. If we could, it would be illegal for sure.
+
+Alcohol is legal for adults and yet we know with complete certainty that it will kill tens of thousands of people in the United States each year. Again, if we could predict with certainty which individuals would die from drinking, it would be illegal. Predictability matters.
+
+Consider legal medications that have known side effects. In some cases we know with certainty that a drug will help the vast majority of people while accidentally killing a few. That drug is legal only because we can’t identify in advance who will get killed. You can’t imagine the FDA saying, “This drug is approved. It will save millions of lives but … and here’s the awkward part … it will definitely kill these specific twenty people.”
+
+The uncertainty is what allows inherently dangerous things to be legal. If we can’t predict the outcome of an action, we generally allow individuals the freedom to accept whatever risk levels they want. That’s why football is legal. You can’t imagine your high school football coach saying, “We are all going to have a great season. Except for Timmy, who will die from brain damage before half-time.” If that prediction were possible, football would be illegal. Timmy only gets to play football because we can’t predict his death.
+
+Now suppose we collectively invent a legal suicide machine. I’m sure you will have your own engineering tweaks on my idea and I’m equally confident that at least one of our ideas would in fact be technically legal. Once that invention exists, the laws will have to scramble to catch up because the government will want to put some safeguards in place. Once the government knows it can’t stop the activity, the best you can do is regulate it at the margins, as we do with alcohol and cigarettes.
+
+You might be tempted to argue that football, booze, pharmaceuticals, and cigarettes are actually low risk compared to the suicide machine that kills you with near (but not technically absolute) certainty. The level of risk has to matter, right?
+
+I’m not sure. I don’t believe there is a legal standard for how much individual risk is too much. Each situation seems to be judged on individual merit. We want workplace injuries to approach zero but when it comes to waging war we accept perhaps a 5% death rate, and that assumes you are the winner.
+
+But here is the clever part of my idea: The hypothetical random suicide machine is not yet SPECIFICALLY ILLEGAL. That means that like any new street drug it is totally legal until a law is passed saying it isn’t. And how long would it take to pass that law?
+
+Well, a functional government could pass such a law in a week. But we don’t have one of those. Our government would be just as slow and incompetent in their efforts to make the new device illegal as they have been in making doctor-assisted suicide legal. I call this situation bureaucratic judo because you use the weight and inertia of your opponent against him. If the government can’t make doctor-assisted suicide legal, how long would it take them to fight the random suicide device all the way to the Supreme Court?
+
+I am going to stop just short of recommending that someone invent a technically-legal doctor-assisted suicide device because I suspect I might be swayed by your counterarguments in the comments. But in the absence of a functional government that satisfies the will of the people, one must consider all options.
+
+Is it logically and technically possible to build a random suicide machine that is technically legal?
+
+——————————
+Scott Adams
+Co-founder of CalendarTree.com http://bit.ly/N8iAnK    
+Author of this book http://amzn.to/1dF0EJK 
+Twitter Dilbert: @Dilbert_Daily
+Twitter for Scott: @ScottAdamsSays
+
+Note: Yes, I am sure there are seven-hundred science fiction books on this topic. I haven’t read any of them.
+
+Bonus thought: If government keeps getting worse (which seems likely) at the same time that technology keeps improving, someday technology will replace the need for traditional government. It might not be a wholesale replacement so much as a stream of specific cases, such as assisted-suicide, in which technology can do what governments cannot. Someday I can imagine technology allowing the populations of warring countries to make peace directly with each other while bypassing their own governments. That’s a Facebook app waiting to happen.

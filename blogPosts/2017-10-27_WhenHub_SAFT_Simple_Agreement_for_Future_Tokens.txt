@@ -1,0 +1,65 @@
+Today might be one of the biggest days of my life, and it will be impossible to explain why that is so unless you know at least a little bit about blockchain https://en.wikipedia.org/wiki/Blockchain, dAPPS https://coinsutra.com/dapps-decentralized-applications/, cryptocurrencies https://en.wikipedia.org/wiki/Cryptocurrency, Ethereum https://www.coindesk.com/information/what-is-ethereum/, and the legal distinction between a Simple Agreement for Future Tokens (SAFT) and an ICO https://www.coindesk.com/information/what-is-ethereum/.
+
+If those words look unfamiliar, one of the biggest technical revolutions the world has ever known is sneaking up on you. The folks in Silicon Valley – who live about three years in the future compared to the rest of the country – can’t stop talking about this topic. The smartest people in the Valley tell me blockchain will change nearly everything, and already is. It’s like “the Internet” before anyone had heard of the Internet. That’s how big it is.
+
+One small example is that startups are raising funds by creating and selling their own digital “tokens” or “coins,” using blockchain technology, that serve as the payment mechanisms within their products. The tokens have an advantage over regular money in part because you can program simple rules for them using distributed apps, or dAPPS, to add function to your product. And blockchain brings its own set of advantages I’ll mention below.
+
+
+In the case of WhenHub, a dAPP will trigger an automatic payment when certain conditions are met. The effect is to eliminate billing and invoicing efforts for micro-contracts while creating a distributed record of each transaction that is impervious to manipulation. 
+
+image [https://64.media.tumblr.com/8a0f14c5b1d1b3f4d3273360b01451c6/tumblr_inline_oyhsfxDI8C1t63ajm_540.png]
+
+
+                                       VIEW FULL-SIZE IMAGE https://tokensale.whenhub.com/wp-content/uploads/2017/10/whenhub-interface-overview.png
+
+
+
+
+My example doesn’t get at the full power of blockchain. It’s just one of the many things it can do. 
+
+The reason people buy these digital tokens from startups is that they hope the value will rise as the startup adds customers. The tokens are artificially limited in quantity, so the value of each token increases with demand. Customers of the startup won’t notice the rise in token value because prices within the product are pegged to nominal “real money” value. In other words, if one token is worth a dollar today, but worth ten dollars tomorrow, the startup auto-adjusts the price within the product to ten-percent of a token. The customer always pays the same “real money” price even as token values rise. 
+
+Tokens can easily be exchanged for Bitcoins or cash on websites that do that sort of thing. See Bitcoin Exchanges https://bitcoin.org/en/exchanges.
+
+The process of creating digital tokens to raise funds is called an ICO (initial coin offering) when you do it the wild-west unregulated way. If you lawyer-up in advance, jumping through lots of (expensive) hoops to minimize future regulatory risks, your lawyers will tell you to call it a Simple Agreement for Future Tokens (SAFT). A SAFT is a contract with the startup to issue you tokens if and when it is able to launch a network in which the token has utility value. That’s what WhenHub is announcing today. 
+
+To be clear, ICOs and SAFTs are not investments, nor do they give the buyer equity in the startup. But they do provide an easy way – compared to angel investing – to share in whatever success the startup experiences. With SAFTs and ICOs the startup describes its plans in a white paper so any potential token buyers can evaluate the risks. WhenHub already has several products on the market https://www.whenhub.com/products/, with more coming soon, but we describe in our white paper a proposed new product that is based on our existing scheduling platform and takes advantage of blockchain. The proposed product (WhenHub Interface) is the one that will use digital tokens.
+
+image [https://64.media.tumblr.com/3006cbdb8e9e057899c2a18900ba6368/tumblr_inline_oyhsfjx5nd1t63ajm_540.png]
+
+If you are new to this field, I hope I just gave you a toe-hold for understanding it. And I would be delighted if you share this post with friends. 
+
+Our tokens are only available in Australia, Canada, European Economic Area, Hong Kong, India, Israel, Japan, Russian Federation, Switzerland, United Kingdom and United States (excluding New York State). If you are in the United States, you need to be an Accredited Investor https://www.investor.gov/additional-resources/news-alerts/alerts-bulletins/investor-bulletin-accredited-investors (meaning kinda rich) to participate. Outside the United States, regulatory restrictions are lower.
+
+Our Pre-sale is now in progress and our Public Sale starts on Nov. 10, 2017. During the Pre-sale, the minimum purchase amount is $50,000 and participants get an Early Bird bonus of 30%. For the Public Sale the minimum amount is $250, and the the Early Bird discount starts at 20% and decreases to none in two weeks.
+
+
+Here’s the executive summary from our white paper. A link to the full paper is at the end. 
+
+
+— EXECUTIVE SUMMARY —
+
+WhenHub proposes to build a mobile app for connecting consumers to experts of all kinds via two-way video streams, text, audio, or in person. The app will be part of a larger service ecosystem called the WhenHub Interface Network (WIN) (Patent Pending). 
+
+The service will use dAPPS (distributed apps) running on the Ethereum blockchain to create secure micro-contracts – that can be as short as 15 minutes – as well as to provide frictionless billing and payment service. At the end of each micro-contract, payment in the form of WHEN Tokens will be automatically transferred to the expert. No paperwork or billing is involved. 
+
+Users buy WHEN Tokens using a credit card or with Bitcoins at an online exchange via the WhenHub Interface app. The tokens are used within the app to pay experts for their time. 
+
+For privacy, your phone number and address are not shared with experts. 
+
+Our partners will provide verification services on participating experts to give consumers confidence. 
+
+No international billing and currency issues when WHEN Tokens are involved. 
+
+Pricing for experts can be fixed or auction-based. 
+
+In the gig economy, think of this product as a “long tail” market for expert advice. Experts of all kinds can display their availability whenever they like, for as short a window as 15 minutes. 
+
+The WhenHub Interface app will use the existing commercial WhenHub API for scheduling and geofencing features. 
+
+WhenSense is our proposed technology for allowing third-party sites to host ads about our participating experts’ availability and share in the income from completed contracts. Site owners paste our HTML code into their site to participate. 
+
+WHEN Tokens are not an investment vehicle, but because they will be artificially limited in quantity, their value is expected to fluctuate based on customer demand for the WhenHub Interface app. 
+
+
+WHEN TOKENS ARE NOW AVAILABLE FOR PUBLIC PURCHASE VIA A FORMAL OFFERING. VISIT THIS PAGE https://tokensale.whenhub.com FOR DETAILS OF THE OFFERING.

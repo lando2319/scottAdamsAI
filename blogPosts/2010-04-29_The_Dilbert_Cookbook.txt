@@ -1,0 +1,30 @@
+One of you humorously suggested that I write a Dilbert Cookbook. My initial reaction was that a Dilbert Cookbook would make as much sense as Dilbert lingerie. It’s simply a bad match. But the more I thought about it, the more I realized I would use a cookbook that was designed for a Dilbert sensibility.
+
+For starters, the Dilbert cookbook would be in the form of a website and an app. That gives you a chance to solve the first and biggest problem of all physical cookbooks: the tedious texty interface. If you’re reading this, I assume you already have a laptop or an iPad for your kitchen. If you don’t, you will.
+
+The Dilbert Cookbook would include lots of optional links to quick video clips explaining every non-obvious step. Dilbert readers tend to be self-taught in a lot of areas, and no one is born already knowing what blanching means. Cooking lingo needs to have links for explanation, so the cookbook acts as both a recipe guide and an optional tutorial as needed. 
+
+A large part of this digital cookbook would be dedicated to the chemistry, physical skills, and gadgetry of cooking. Personally, I’m fascinated by the engineering aspect of cooking, but I get bored when the interesting parts are ruined by all the talk of food.
+
+I’d love to see all of the little rules of cooking assembled in one place, so I could study them in the abstract. For example, at what stage of cooking is it best to add spices, and why? What is the role of moisture in microwaving? How do you keep something warm without drying it out? And how do you get the onion smell off your hands? Time-wise, what is the point of diminishing returns for simmering or marinating? What food can I freeze and thaw without ruining? I assume there are hundreds more of these little rules.
+
+I’d also like to know when I can get away with store-packaged ingredients. Is the garlic from a jar just as tasty as smashing up your own cloves, or does that depend on how long a dish is cooked? In other words, I want a ranking of what sorts of engineering steps with food preparation are more important than others.
+
+I believe that flavor can also be reduced to a set of engineering guidelines. Specifically, I think you could categorize most flavors the way you categorize music, with high notes and low notes. Garlic and onions and pepper feel like low notes to me, whereas lemon and cilantro are like high notes. I’ve noticed that the best food has a combination of both, just like music. I’ll bet an experienced chef could categorize most flavors in a way that would allow you to know if you were breaking any rules, such as cooking with all low notes. And I’ll bet the high notes can’t be more than say 10% of what you experience, in some subjective sense, without overwhelming the flavor.
+
+Don’t get me started on the gadgetry of cooking. I could spend hours learning about the best types of bottle openers, the best sauté pans, and the difference between convection and regular microwaving. When we were shopping for a refrigerator for our new home, I totally geeked out learning about how some fridges circulate air between the freezer and the regular fridge, which is apparently suboptimal for freshness. If you’ve read this far, you know what I’m talking about. Cooking tools are way cooler than the food itself.
+
+I want my cookbook to show me different views of the task ahead, including a picture of all the ingredients laid out, so I can visualize, and another view of just the pots and pans and measuring cups and whatnot so I can assemble them all in one step instead of continuously running back and forth to cupboards.
+
+How about sorting and filtering recipes? I want a search capability that lets me optimize for timeline, budget, nutrition, special diets, level of cooking difficulty, and estimated clean up time. You aren’t really doing your spouse a favor if you cook a wonderful gourmet meal and then expect him or her to be your pot scrubber for the next four hours.
+
+I’d also like to see my recipe steps arranged by timeline, with each dish for the meal overlaid. I made the mistake recently of trying to cook a meal in which everything would need attention at exactly the same time. The Dilbert Cookbook would let you filter against that problem, so each step is properly times. And perhaps the cookbook could act as your stove timer as well, so you have a visual representation of how done things are, on the computer, ahead of the alarm.
+
+I want my Dilbert Cookbook to suggest what meals I can make from the stuff that’s already in the fridge. And I want to set preferences for each family member and dinner guest so I only need to look at recipes that everyone will enjoy.
+
+If I’m planning a potluck, it would be great to integrate my Dilbert Cookbook with my e-vite, so guests are constrained to dishes that will be complementary with everyone else, and the right size.
+
+Obviously there are already lots of online recipe websites. None of them were designed with any sense of Dilbert-like efficiency in mind. There’s a huge gap between where cookbooks are and where they could be. This is another example of where doing an old thing better (cookbook design) would completely change the experience. In the future, I can imagine each family preparing just one dish per night and using some sort of social website to arrange weeknight potlucks with friends.
+
+ 
+

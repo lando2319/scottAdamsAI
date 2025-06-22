@@ -1,0 +1,10 @@
+We are making updates to the Dilbert blog (moving to the WordPress platform) that will result in an error message for many (example here http://afdsdtse.tumblr.com/).
+
+
+To minimize those affected, the site will be down starting Tuesday the 25th around midnight ET and be back online early the following morning.
+
+
+The blog will still be accessible to Tumblr followers.
+
+
+Those accessing the blog from Dilbert.com will see an interruption in service, but you can access the blog by going to scottadamsblog.tumblr.com http://scottadamsblog.tumblr.com/
