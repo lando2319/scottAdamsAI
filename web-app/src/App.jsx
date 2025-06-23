@@ -2,6 +2,9 @@ import { useState } from 'react'
 import { initializeApp } from 'firebase/app'
 import { getFunctions, httpsCallable } from 'firebase/functions'
 
+// comment out for now
+// import { connectFunctionsEmulator } from 'firebase/functions'
+
 // Firebase configuration - replace with your actual config
 const firebaseConfig = {
   apiKey: "AIzaSyCUgp9YM_EPNV_gDn1WUIgi36wG4LXTPug",
@@ -16,6 +19,9 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig)
 const functions = getFunctions(app)
 const askFunction = httpsCallable(functions, 'ask')
+
+// Comment out for now, set env var
+// connectFunctionsEmulator(functions, 'localhost', 5001);
 
 function App() {
   const [query, setQuery] = useState('')
@@ -32,11 +38,14 @@ function App() {
     setResponse('')
 
     try {
-      const result = await askFunction({ query })
+      const result = await askFunction({ 
+        question: query,
+        env: 'production'
+      })
       const data = result.data
 
-      if (data.response) {
-        setResponse(data.response)
+      if (data.text) {
+        setResponse(data.text)
       } else {
         setError('No response received')
       }
