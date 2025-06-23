@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { initializeApp } from 'firebase/app'
 import { getFunctions, httpsCallable } from 'firebase/functions'
+import { initializeAppCheck, ReCaptchaV3Provider } from 'firebase/app-check'
 
 // comment out for now
 // import { connectFunctionsEmulator } from 'firebase/functions'
@@ -19,6 +20,11 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig)
 const functions = getFunctions(app)
 const askFunction = httpsCallable(functions, 'ask')
+
+const appCheck = initializeAppCheck(app, {
+  provider: new ReCaptchaV3Provider('6LdDWGkrAAAAAP67KnKq_mFDzafh_NRMiUxY6Ihh'),
+  isTokenAutoRefreshEnabled: true
+})
 
 // Comment out for now, set env var
 // connectFunctionsEmulator(functions, 'localhost', 5001);
