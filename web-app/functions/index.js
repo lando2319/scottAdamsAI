@@ -3,8 +3,7 @@ const { logger } = require("firebase-functions/v2");
 
 const openAIUtil = require("./util/openAIUtil.js");
 
-// exports.ask = onCall({ encorceAppCheck: true },
-exports.ask = onCall({ encorceAppCheck: false },
+exports.ask = onCall({ encorceAppCheck: true },
     async (request, response) => {
         try {
             var questionPkg = request.data;
