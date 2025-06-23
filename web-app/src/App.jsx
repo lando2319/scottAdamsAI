@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { initializeApp } from 'firebase/app'
 import { getFunctions, httpsCallable } from 'firebase/functions'
-import { initializeAppCheck, ReCaptchaV3Provider } from 'firebase/app-check'
+import { initializeAppCheck, ReCaptchaEnterpriseProvider } from 'firebase/app-check'
 
 // comment out for now
 // import { connectFunctionsEmulator } from 'firebase/functions'
@@ -21,8 +21,8 @@ const app = initializeApp(firebaseConfig)
 const functions = getFunctions(app)
 const askFunction = httpsCallable(functions, 'ask')
 
-const appCheck = initializeAppCheck(app, {
-  provider: new ReCaptchaV3Provider('6LdDWGkrAAAAAP67KnKq_mFDzafh_NRMiUxY6Ihh'),
+initializeAppCheck(app, {
+  provider: new ReCaptchaEnterpriseProvider('6LdDWGkrAAAAAP67KnKq_mFDzafh_NRMiUxY6Ihh'),
   isTokenAutoRefreshEnabled: true
 })
 
