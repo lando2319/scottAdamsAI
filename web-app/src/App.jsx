@@ -1,0 +1,98 @@
+import { useState } from 'react'
+import { initializeApp } from 'firebase/app'
+import { getFunctions, httpsCallable } from 'firebase/functions'
+
+// Firebase configuration - replace with your actual config
+const firebaseConfig = {
+  apiKey: "AIzaSyCUgp9YM_EPNV_gDn1WUIgi36wG4LXTPug",
+  authDomain: "scottadamsai-a33bb.firebaseapp.com",
+  projectId: "scottadamsai-a33bb",
+  storageBucket: "scottadamsai-a33bb.firebasestorage.app",
+  messagingSenderId: "793456642494",
+  appId: "1:793456642494:web:5ad5ce6dff45acce35d1ef",
+  measurementId: "G-8X6XS1KSQR"
+}
+
+const app = initializeApp(firebaseConfig)
+const functions = getFunctions(app)
+const askFunction = httpsCallable(functions, 'ask')
+
+function App() {
+  const [query, setQuery] = useState('')
+  const [response, setResponse] = useState('')
+  const [error, setError] = useState('')
+  const [isLoading, setIsLoading] = useState(false)
+
+  const handleSubmit = async (e) => {
+    e.preventDefault()
+    if (!query.trim()) return
+
+    setIsLoading(true)
+    setError('')
+    setResponse('')
+
+    try {
+      const result = await askFunction({ query })
+      const data = result.data
+
+      if (data.response) {
+        setResponse(data.response)
+      } else {
+        setError('No response received')
+      }
+    } catch (err) {
+      setError(err.message || 'An error occurred')
+    } finally {
+      setIsLoading(false)
+    }
+  }
+
+  return (
+    <div className="container">
+      <div className="background"></div>
+
+      <div className="content">
+        <h1>AI Query Interface</h1>
+        <p>Ask anything and get intelligent responses</p>
+
+        <form onSubmit={handleSubmit}>
+          <textarea
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+            placeholder="Type your question here..."
+            rows={4}
+            maxLength={500}
+            disabled={isLoading}
+          />
+
+          <button
+            type="submit"
+            disabled={isLoading || !query.trim()}
+          >
+            {isLoading ? 'Processing...' : 'Ask'}
+          </button>
+        </form>
+
+        {response && (
+          <div className="response success">
+            <h4>Response:</h4>
+            <p>{response}</p>
+          </div>
+        )}
+
+        {error && (
+          <div className="response error">
+            <h4>Error:</h4>
+            <p>{error}</p>
+          </div>
+        )}
+
+        <footer>
+          <p>Powered by Firebase Functions</p>
+        </footer>
+      </div>
+    </div>
+  )
+}
+
+export default App

@@ -1,3 +1,20 @@
+# web-app
+
+
+cd to web-app
+
+to run locally
+
+`npm run dev`
+
+to build
+
+`npm run build`
+
+to deploy
+
+`firebase deploy`
+
 # OpenAI
 
 Do a back of the napkin check on the number in my vector store
