@@ -1,19 +1,20 @@
-/**
- * Import function triggers from their respective submodules:
- *
- * const {onCall} = require("firebase-functions/v2/https");
- * const {onDocumentWritten} = require("firebase-functions/v2/firestore");
- *
- * See a full list of supported triggers at https://firebase.google.com/docs/functions
- */
+const { onCall, HttpsError } = require("firebase-functions/v2/https");
+const { logger } = require("firebase-functions/v2");
 
-const {onRequest} = require("firebase-functions/v2/https");
-const logger = require("firebase-functions/logger");
+const openAIUtil = require("./util/openAIUtil.js");
 
-// Create and deploy your first functions
-// https://firebase.google.com/docs/functions/get-started
+// exports.ask = onCall({ encorceAppCheck: true },
+exports.ask = onCall({ encorceAppCheck: false },
+    async (request, response) => {
+        try {
+            var questionPkg = request.data;
+            var env = request.data.env;
 
-// exports.helloWorld = onRequest((request, response) => {
-//   logger.info("Hello logs!", {structuredData: true});
-//   response.send("Hello from Firebase!");
-// });
+            var answer = await openAIUtil.ask(questionPkg.question, {env});
+            return answer;
+        } catch (err) {
+            console.log("ERROR", err.message);
+            throw new HttpsError('unknown', err.message || "UNKNOWN ERROR RRRR");
+        }
+    }
+);

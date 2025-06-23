@@ -1,7 +1,7 @@
-const openAIUtil = require("../tempFunctions/util/openAIUtil.js");
+const openAIUtil = require("../web-app/functions/util/openAIUtil.js");
 
-var question = "Do you support Gay Marriage"; // for it
-// var question = "what are your politics like"; // left of bernie
+// var question = "Do you support Gay Marriage"; // for it
+var question = "what are your politics like"; // left of bernie
 
 (async () => {
     try {

@@ -1,5 +1,11 @@
-# web-app
+# functions
 
+from inside `web-app/functions`
+
+to Deploy
+`firebase deploy --only functions`
+
+# web-app
 
 cd to web-app
 
