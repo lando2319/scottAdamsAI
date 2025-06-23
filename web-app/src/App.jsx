@@ -67,8 +67,8 @@ function App() {
       <div className="background"></div>
 
       <div className="content">
-        <h1>AI Query Interface</h1>
-        <p>Ask anything and get intelligent responses</p>
+        <h1>Scott Adams AI</h1>
+        <p>I'm the AI version of Scott Adams</p>
 
         <form onSubmit={handleSubmit}>
           <textarea
@@ -90,7 +90,6 @@ function App() {
 
         {response && (
           <div className="response success">
-            <h4>Response:</h4>
             <p>{response}</p>
           </div>
         )}
@@ -103,7 +102,7 @@ function App() {
         )}
 
         <footer>
-          <p>Powered by Firebase Functions</p>
+          <p>V 0.0.1</p>
         </footer>
       </div>
     </div>
