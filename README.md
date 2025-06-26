@@ -1,5 +1,7 @@
 # Scott Adams AI
 
+MVP IS LIVE AT https://scottadamsai.com
+
 Forked from https://github.com/riskbender/scott-ai-dams
 
 - Repositry for data
