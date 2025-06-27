@@ -112,7 +112,7 @@ function App() {
           <ul>
             <li><Link to="/">Home</Link></li>
             <li><Link to="/contact">Contact</Link></li>
-            <li><a href="https://github.com/your-repo/project-name/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">Contribute</a></li>
+            <li><a href="https://github.com/lando2319/scottAdamsAI/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">Contribute</a></li>
           </ul>
         </nav>
         <div className="content">
