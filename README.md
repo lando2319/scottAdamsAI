@@ -2,6 +2,26 @@
 
 MVP IS LIVE AT https://scottadamsai.com
 
+Test out the link, provide [feedback](https://github.com/lando2319/scottAdamsAI/issues)
+
+Right now we have 
+- coffee with Scott Adams transcripts
+- blogs
+
+Looking to gather
+- youtube interviews
+- tweets
+- opeds
+- guest posts
+
+send pull requests
+
+Donate (buy me coffee link)
+
+Contact me, I'm looking to collaborate with people on this
+
+----
+
 Forked from https://github.com/riskbender/scott-ai-dams
 
 - Repositry for data
