@@ -1,55 +1,51 @@
-# Contributing to Coffee With Scott Adams Transcripts
+# Contribution
 
-Thank you for your interest in contributing to the **Coffee With Scott Adams Transcripts** project!  
-Your help will make these transcripts more accurate, accessible, and useful for everyone.
+Two main ways to contribute
 
----
+### Data
+Right now the AI is using [youtube transcripts](https://github.com/lando2319/scottAdamsAI/tree/main/cwsa_transcripts) and [Blog posts](https://github.com/lando2319/scottAdamsAI/tree/main/blogPosts) as it's vector store data.
 
-## How You Can Help
+I'd love to get the following
 
-### 1. Submitting New Transcripts
+- locals (if possible) If there is something publically available
 
-- **Format:** Use Markdown (`.md`) files.
-- **Naming:** Use the format `YYYY-MM-DD.md` (e.g., `2025-05-27.md`).
-- **Content:** Include the episode title (if available), date, and full transcript.  
-  Use headings (`#`, `##`) to organize topics or segments.
-- **Location:** Place new transcripts in the `/transcripts` directory.
+- tweets
+Scott has 150K tweets, the $200 a month api plan allows for 10K a month. I can set it up to query all the tweets, it's just a question of cost and time.
 
-### 2. Improving Existing Transcripts
+- periscopes
+Apparently if know the url it's accessible https://x.com/Drangula/status/1924636858677338527
+if we have a range or something, maybe we can iterate to find them all
 
-- **Edit for clarity:** Fix typos, improve formatting, or clarify ambiguous sections.
-- **Add timestamps:** If possible, add timestamps for easier navigation.
-- **Annotate topics:** Use headings or bullet points to break up long sections.
+- interviews on youtube
+I've added Scott's two tumblrs scottadamssays and scottadamsblog as well as his old 2008 blog, are there any I'm missing?
 
-### 3. Helping Build the Search Interface
+- articles in media (opeds, interview, guest blog posts)
 
-- See open issues in the `search/` directory or on the [Issues](https://github.com/scott-ai-dams/issues) page.
-- Submit pull requests for new features, bug fixes, or documentation improvements.
-- Follow best practices for code style and documentation.
+If you have some of this data send a pull request
 
----
+### Evaluation Data
+We need a way to gauge the AI model's Scottness, the way I've done this in the past is to have an obj like so
 
-## Pull Request Guidelines
+```
+{
+  "question": "<question for scott>",
+  "answer": "<example of a good answer>",
+  "evalCriteria: "<what makes a good question, 'must say X, should say X'>"
+}
+```
 
-1. **Fork the repository** and create your branch from `main`.
-2. **Describe your changes** clearly in the pull request.
-3. **Reference related issues** if applicable.
-4. **Keep pull requests focused**—one feature or fix per PR is best.
-5. **Be respectful** and constructive in code reviews and discussions.
+Then we would ask the model the question, add it's response to the obj, then have the openai high resoning model score the answers Scottness
 
----
+This is critical to benchmarking the model, allowing for testing of mini models, open source models, or just gauging the affect of adding additional data.
 
-## Code of Conduct
+Here is the [current list](https://github.com/lando2319/scottAdamsAI/blob/main/evalTestData/base.json)
 
-We are committed to creating a welcoming and respectful environment for all contributors.  
+If you can help build out a list of eval questions send a pull request
 
----
+The name of the Game is gather data and evaluating the model
 
-## Questions or Suggestions?
 
-- Open an [issue](https://github.com/scott-ai-dams/issues) for help or feedback.
-- Join the [Discussions](https://github.com/scott-ai-dams/discussions) to connect with the community.
+----
 
----
-
-Thank you for making *Coffee With Scott Adams Transcripts* better!
+Github trucates these file, so if someone doesn't clone the repo they won't be able to see all the files
+We might want to do hugging face for the raw data and github for the source code
