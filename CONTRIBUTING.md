@@ -10,7 +10,7 @@ Report back answers that were like Scott and why you think they were so good, wh
 
 Links, text files, etc. Original source material. We currently have youtube transascripts and blog posts.
 
-Send this data [here](https://github.com/lando2319/scottAdamsAI/issues/new/choose)
+Send this data [here](https://github.com/lando2319/scottAdamsAI/issues), Click, 'New Issue'
 
 [Reach out](https://scottadamsai/contact) with ideas, comments, etc
 
