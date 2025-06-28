@@ -58,5 +58,5 @@ The name of the Game is gather data and evaluating the model
 
 ----
 
-Github trucates these file, so if someone doesn't clone the repo they won't be able to see all the files
+Github trucates directories with lots of files, so if someone doesn't clone the repo they won't be able to see all the files
 We might want to do hugging face for the raw data and github for the source code
