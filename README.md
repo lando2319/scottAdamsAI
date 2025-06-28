@@ -4,7 +4,7 @@ MVP IS LIVE AT https://scottadamsai.com
 
 We need help gathering data and analyzing responses for thier Scottness
 
-[CLICK HERE](/CONTRIBUTING.md)
+[CLICK HERE FOR WAYS TO HELP](/CONTRIBUTING.md)
 
 Reach out [HERE](https://scottadamsai.com/contact)
 
