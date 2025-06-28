@@ -12,7 +12,7 @@ Links, text files, etc. Original source material. We currently have youtube tran
 
 Send this data [here](https://github.com/lando2319/scottAdamsAI/issues), Click, 'New Issue'
 
-[Reach out](https://scottadamsai/contact) with ideas, comments, etc
+[Reach out](https://scottadamsai.com/contact) with ideas, comments, etc
 
 ----
 
