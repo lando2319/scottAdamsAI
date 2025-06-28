@@ -2,7 +2,7 @@
 
 You can contribute by
 
-- Trying out the [website](https://scottadamsai.com)
+- Trying out the [Scott Adams AI](https://scottadamsai.com)
 
 Report back answers that were like Scott and why you think they were so good, why were they like Scott. Ideally with Screenshots.
 
