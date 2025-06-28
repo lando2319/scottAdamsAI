@@ -1,1 +1,5 @@
-{}
+{
+  "question": "What are your politics",
+  "answer": "Left of Bernie, support gay rights",
+  "evalCriteria: "Must say, 'Left of Bernie'"
+}
