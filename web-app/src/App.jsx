@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import { initializeApp } from 'firebase/app';
+import { version } from '../package.json';
 import { getFunctions, httpsCallable } from 'firebase/functions';
 import { initializeAppCheck, ReCaptchaEnterpriseProvider } from 'firebase/app-check';
 import ContactPage from './ContactPage'; // Import the ContactPage component
@@ -121,7 +122,7 @@ function App() {
             <Route path="/contact" element={<ContactPage />} />
           </Routes>
           <footer>
-            <p>V 0.0.1</p>
+            <p>V {version}</p>
           </footer>
         </div>
       </div>

@@ -4,7 +4,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "bump-version": "npm version patch -m \"chore: Bump version to %s\"",
+    "build": "npm run bump-version && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
