@@ -21,16 +21,16 @@ Right now the AI is using [youtube transcripts](https://github.com/lando2319/sco
 
 I'd love to get the following
 
-- locals (if possible) If there is something publically available
+- locals: (if possible) If there is something publically available
 
-- tweets
+- tweets:
 Scott has 150K tweets, the $200 a month api plan allows for 10K a month. I can set it up to query all the tweets, it's just a question of cost and time.
 
-- periscopes
+- periscopes:
 Apparently if known, the url it's accessible https://x.com/Drangula/status/1924636858677338527
 if we have a range or something, maybe we can iterate to find them all
 
-- interviews on youtube
+- interviews on youtube:
 I've added Scott's two tumblrs scottadamssays and scottadamsblog as well as his old 2008 blog, are there any I'm missing?
 
 - articles in media (opeds, interview, guest blog posts)
