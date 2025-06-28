@@ -1,6 +1,20 @@
 # Contribution
 
-Two main ways to contribute
+You can contribute by
+
+- Trying out the [website](https://scottadamsai.com)
+
+Report back answers that were like Scott and why you think they were so good, why were they like Scott. Ideally with Screenshots.
+
+- Gathering Data
+
+Links, text files, etc. Original source material. We currently have youtube transascripts and blog posts.
+
+Send this data [here](https://github.com/lando2319/scottAdamsAI/issues/new/choose)
+
+[Reach out](https://scottadamsai/contact) with ideas, comments, etc
+
+----
 
 ### Data
 Right now the AI is using [youtube transcripts](https://github.com/lando2319/scottAdamsAI/tree/main/cwsa_transcripts) and [Blog posts](https://github.com/lando2319/scottAdamsAI/tree/main/blogPosts) as it's vector store data.
@@ -13,7 +27,7 @@ I'd love to get the following
 Scott has 150K tweets, the $200 a month api plan allows for 10K a month. I can set it up to query all the tweets, it's just a question of cost and time.
 
 - periscopes
-Apparently if know the url it's accessible https://x.com/Drangula/status/1924636858677338527
+Apparently if known, the url it's accessible https://x.com/Drangula/status/1924636858677338527
 if we have a range or something, maybe we can iterate to find them all
 
 - interviews on youtube
