@@ -1,11 +1,10 @@
 {
   "name": "firebase-react-app",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "bump-version": "npm version patch -m \"chore: Bump version to %s\"",
-    "build": "npm run bump-version && vite build",
+    "build": "npm version patch && vite build",
     "preview": "vite preview"
   },
   "dependencies": {
