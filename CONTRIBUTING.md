@@ -60,3 +60,11 @@ The name of the Game is gather data and evaluating the model
 
 Github trucates directories with lots of files, so if someone doesn't clone the repo they won't be able to see all the files
 We might want to do hugging face for the raw data and github for the source code
+
+Sources For Current Data:
+
+[Old Blog](https://dilbertblog.typepad.com/the_dilbert_blog/archives.html)
+[scottadamsblog Tumblr Blog](https://scottadamsblog.tumblr.com/)
+[scottadamssays Tumblr Blog](https://scottadamssays.tumblr.com/)
+
+[Coffee With Scott Adams](https://www.youtube.com/@RealCoffeewithScottAdams)
