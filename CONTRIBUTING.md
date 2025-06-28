@@ -35,8 +35,6 @@ I've added Scott's two tumblrs scottadamssays and scottadamsblog as well as his 
 
 - articles in media (opeds, interview, guest blog posts)
 
-If you have some of this data send a pull request
-
 ### Evaluation Data
 We need a way to gauge the AI model's Scottness, the way I've done this in the past is to have an obj like so
 
@@ -57,7 +55,6 @@ Here is the [current list](https://github.com/lando2319/scottAdamsAI/blob/main/e
 If you can help build out a list of eval questions send a pull request
 
 The name of the Game is gather data and evaluating the model
-
 
 ----
 
