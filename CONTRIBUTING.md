@@ -73,7 +73,9 @@ Sources For Current Data:
 
 # How to do a Pull Request
 
-- Fork the repository and create your branch from main.
+- Fork the repository 
+- make code change, push to remote, see github of your forked repo
+- Send a pull request to this repo
 - Describe your changes clearly in the pull request.
 - Reference related issues if applicable.
 - Keep pull requests focused—one feature or fix per PR is best.
