@@ -70,3 +70,10 @@ Sources For Current Data:
 [scottadamssays Tumblr Blog](https://scottadamssays.tumblr.com/)
 
 [Coffee With Scott Adams](https://www.youtube.com/@RealCoffeewithScottAdams)
+
+# How to do a Pull Request
+
+- Fork the repository and create your branch from main.
+- Describe your changes clearly in the pull request.
+- Reference related issues if applicable.
+- Keep pull requests focused—one feature or fix per PR is best.
