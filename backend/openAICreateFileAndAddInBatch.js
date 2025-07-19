@@ -6,7 +6,7 @@ const path = require('path');
 
 const openai = new OpenAI({ apiKey: process.env.OPENAI_API_KEY });
 
-const BLOG_DIR = path.resolve(__dirname, '../cwsa_transcripts');
+const BLOG_DIR = path.resolve(__dirname, '../uploadToStore');
 const VECTOR_STOREID = 'vs_685834f2788481918c5f2f9b14003368';
 const BATCH_LIMIT   = 500;          // API hard-limit
 
