@@ -21,13 +21,23 @@ const firebaseConfig = {
 };
 
 const app = initializeApp(firebaseConfig);
-const functions = getFunctions(app);
-const askFunction = httpsCallable(functions, 'ask');
+
+// Local development uses a browser-specific token registered in Firebase Console.
+// Vite removes this branch from production builds.
+if (
+  import.meta.env.DEV &&
+  ['localhost', '127.0.0.1', '[::1]'].includes(window.location.hostname)
+) {
+  self.FIREBASE_APPCHECK_DEBUG_TOKEN = true;
+}
 
 initializeAppCheck(app, {
   provider: new ReCaptchaEnterpriseProvider('6LdDWGkrAAAAAP67KnKq_mFDzafh_NRMiUxY6Ihh'),
   isTokenAutoRefreshEnabled: true
 });
+
+const functions = getFunctions(app);
+const askFunction = httpsCallable(functions, 'ask');
 
 // Comment out for now, set env var
 // connectFunctionsEmulator(functions, 'localhost', 5001);
