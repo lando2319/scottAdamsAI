@@ -1,11 +1,12 @@
 {
   "name": "firebase-react-app",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npm version patch && npm run build:site",
+    "build": "npm run build:site",
     "build:site": "vite build && node scripts/prerender.mjs",
+    "build:deploy": "npm version patch --no-git-tag-version && npm run build",
     "test": "node --test src/shareResponse.test.js",
     "preview": "vite preview"
   },

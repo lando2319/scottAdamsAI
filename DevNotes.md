@@ -52,12 +52,29 @@ to deploy
 
 `firebase deploy`
 
+### Automatic deployment versions
+
+Run `firebase deploy --only hosting` from `web-app` to publish the frontend.
+Firebase's Hosting `predeploy` hook automatically runs `npm run build:deploy`,
+which increases the patch version (for example, `1.0.6` to `1.0.7`), updates both
+`package.json` and `package-lock.json`, and builds the frontend with that version
+in its footer. You do not need to build separately before deploying.
+
+This also runs when Hosting is included in a full or combined deployment.
+Functions-only deployments leave the frontend version unchanged. Normal
+`npm run build` and `npm run build:site` builds do not increase the version.
+
+The version command uses `--no-git-tag-version`, so it does not create a Git
+commit or tag. Commit the updated package files with your changes. The bump
+happens before building and uploading; a failed deployment attempt can still
+leave the local version increased, and retrying will increase it again.
+
 ### Search visibility
 
 `npm run build` now builds the frontend and prerenders the home page, contact page,
 and a 404 page from the same React components used in the browser. This puts public
 content and page-specific metadata directly in the HTML. `npm run build:site`
-does the same build without increasing the package version.
+does the same build. Both leave the package version unchanged.
 
 The build also generates `dist/robots.txt` and `dist/sitemap.xml`. Metadata and the
 list of indexable routes live in `web-app/src/site.js`. If you add a public route,
@@ -104,7 +121,7 @@ anything. The link goes to the homepage, not a saved copy of the answer.
 
 The `twitter-text` character counter accounts for X's URL and Unicode weights.
 Run its sharing checks from `web-app` with `npm test`. Deploy this frontend change
-with the normal build and `firebase deploy --only hosting`.
+with `firebase deploy --only hosting`; the deploy hook bumps the version and builds it.
 
 # OpenAI
 
