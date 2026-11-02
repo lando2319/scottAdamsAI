@@ -6,13 +6,15 @@
     "dev": "vite",
     "build": "npm version patch && npm run build:site",
     "build:site": "vite build && node scripts/prerender.mjs",
+    "test": "node --test src/shareResponse.test.js",
     "preview": "vite preview"
   },
   "dependencies": {
+    "firebase": "^11.9.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "firebase": "^11.9.1",
-    "react-router-dom": "^6.23.1"
+    "react-router-dom": "^6.23.1",
+    "twitter-text": "^3.1.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.2",

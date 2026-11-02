@@ -1,9 +1,11 @@
-import { useState } from 'react';
+import { lazy, Suspense, useState } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import { version } from '../package.json';
 import ContactPage from './ContactPage';
 import PageMetadata from './PageMetadata';
 import { CONTRIBUTION_URL } from './site';
+
+const ResponseShare = lazy(() => import('./ResponseShare'));
 
 function HomePage() {
   const [query, setQuery] = useState('');
@@ -79,6 +81,9 @@ function HomePage() {
       {response && (
         <div className="response success">
           <p>{response}</p>
+          <Suspense fallback={null}>
+            <ResponseShare response={response} />
+          </Suspense>
         </div>
       )}
 

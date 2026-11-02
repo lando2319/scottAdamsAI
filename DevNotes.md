@@ -89,6 +89,23 @@ position, and changes can take weeks or longer to show an effect.
 See Google's [SEO starter guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
 and [Search Console guide](https://developers.google.com/search/docs/monitor-debug/search-console-start).
 
+### Sharing an answer on X
+
+Successful answers include a **Post to X** link. It opens X's composer with the
+answer, a fan-made attribution, and `https://scottadamsai.com/`. Long answers use
+an excerpt sized for a standard post, including the homepage link. The full
+answer remains visible on the site. The visitor can edit the draft and publishes
+it from their own X account.
+
+This uses [X's Web Intent](https://docs.x.com/x-for-websites/post-button/guides/web-intent),
+so it requires no X API credentials, Firebase function, or additions to
+`secrets.json`. Only clicking the link opens X; generating an answer does not post
+anything. The link goes to the homepage, not a saved copy of the answer.
+
+The `twitter-text` character counter accounts for X's URL and Unicode weights.
+Run its sharing checks from `web-app` with `npm test`. Deploy this frontend change
+with the normal build and `firebase deploy --only hosting`.
+
 # OpenAI
 
 Do a back of the napkin check on the number in my vector store
