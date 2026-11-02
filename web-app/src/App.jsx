@@ -1,46 +1,9 @@
 import { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import { initializeApp } from 'firebase/app';
 import { version } from '../package.json';
-import { getFunctions, httpsCallable } from 'firebase/functions';
-import { initializeAppCheck, ReCaptchaEnterpriseProvider } from 'firebase/app-check';
-import ContactPage from './ContactPage'; // Import the ContactPage component
-
-// comment out for now
-// import { connectFunctionsEmulator } from 'firebase/functions'
-
-// Firebase configuration - replace with your actual config
-const firebaseConfig = {
-  apiKey: "AIzaSyCUgp9YM_EPNV_gDn1WUIgi36wG4LXTPug",
-  authDomain: "scottadamsai-a33bb.firebaseapp.com",
-  projectId: "scottadamsai-a33bb",
-  storageBucket: "scottadamsai-a33bb.firebasestorage.app",
-  messagingSenderId: "793456642494",
-  appId: "1:793456642494:web:5ad5ce6dff45acce35d1ef",
-  measurementId: "G-8X6XS1KSQR"
-};
-
-const app = initializeApp(firebaseConfig);
-
-// Local development uses a browser-specific token registered in Firebase Console.
-// Vite removes this branch from production builds.
-if (
-  import.meta.env.DEV &&
-  ['localhost', '127.0.0.1', '[::1]'].includes(window.location.hostname)
-) {
-  self.FIREBASE_APPCHECK_DEBUG_TOKEN = true;
-}
-
-initializeAppCheck(app, {
-  provider: new ReCaptchaEnterpriseProvider('6LdDWGkrAAAAAP67KnKq_mFDzafh_NRMiUxY6Ihh'),
-  isTokenAutoRefreshEnabled: true
-});
-
-const functions = getFunctions(app);
-const askFunction = httpsCallable(functions, 'ask');
-
-// Comment out for now, set env var
-// connectFunctionsEmulator(functions, 'localhost', 5001);
+import ContactPage from './ContactPage';
+import PageMetadata from './PageMetadata';
+import { CONTRIBUTION_URL } from './site';
 
 function HomePage() {
   const [query, setQuery] = useState('');
@@ -57,7 +20,9 @@ function HomePage() {
     setResponse('');
 
     try {
-      const result = await askFunction({
+      // Load the chat service on demand so public page content does not depend on Firebase.
+      const { askQuestion } = await import('./firebase');
+      const result = await askQuestion({
         question: query,
         env: 'production'
       });
@@ -77,11 +42,21 @@ function HomePage() {
 
   return (
     <>
+      <p className="fan-badge">An independent fan project</p>
       <h1>Scott Adams AI</h1>
-      <p>I'm the AI version of Scott Adams</p>
+      <p className="intro">
+        Explore Scott Adams&apos;s ideas with a fan-made AI informed by his blog posts
+        and <span className="show-title">Coffee with Scott Adams</span> transcripts.
+      </p>
+      <p className="fan-notice">
+        Built by fans. Not affiliated with or endorsed by Scott Adams.
+        Answers are AI-generated, not Scott&apos;s own words.
+      </p>
 
       <form onSubmit={handleSubmit}>
+        <label htmlFor="question">What would you like to ask?</label>
         <textarea
+          id="question"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           placeholder="Type your question here..."
@@ -96,6 +71,9 @@ function HomePage() {
         >
           {isLoading ? 'Processing...' : 'Ask'}
         </button>
+        <noscript>
+          <p className="chat-note">Enable JavaScript to use the AI chat.</p>
+        </noscript>
       </form>
 
       {response && (
@@ -110,34 +88,79 @@ function HomePage() {
           <p>{error}</p>
         </div>
       )}
+
+      <section className="contribution-card" aria-labelledby="contribute-title">
+        <p className="eyebrow">Made by fans. Better with you.</p>
+        <h2 id="contribute-title">Help build Scott Adams AI</h2>
+        <p>
+          Know Scott&apos;s work? Help us test answers, find source material,
+          or suggest questions that make the AI better. You don&apos;t need to code to help.
+        </p>
+        <a className="contribution-link" href={CONTRIBUTION_URL} target="_blank" rel="noopener noreferrer">
+          See how to contribute <span aria-hidden="true">↗</span>
+        </a>
+      </section>
+
+      <section className="about-project" aria-labelledby="about-title">
+        <h2 id="about-title">About this Scott Adams fan project</h2>
+        <p>
+          Scott Adams AI is a community-built experiment for fans who want to explore
+          ideas from Scott&apos;s writing and conversations. Ask about topics such as
+          persuasion, systems, or creativity, and the AI uses collected source material
+          to inform its response.
+        </p>
+        <h3>What sources does the AI use?</h3>
+        <p>
+          The project uses a collection of Scott Adams&apos;s blog posts and transcripts
+          from Coffee with Scott Adams. Fans can help expand that collection and
+          evaluate how well the answers reflect the material.
+        </p>
+        <h3>How should I read the answers?</h3>
+        <p>
+          Responses are generated by AI and can contain mistakes. Use them as a starting
+          point for exploring an idea, and check the original sources for Scott&apos;s actual words.
+          Have feedback? <Link to="/contact">Get in touch with the project.</Link>
+        </p>
+      </section>
+    </>
+  );
+}
+
+export function SiteContent() {
+  return (
+    <>
+      <PageMetadata />
+      <div className="container">
+        <div className="background" aria-hidden="true"></div>
+        <nav aria-label="Main navigation">
+          <ul>
+            <li><Link to="/">Home</Link></li>
+            <li><Link to="/contact">Contact</Link></li>
+            <li><a href={CONTRIBUTION_URL} target="_blank" rel="noopener noreferrer">Contribute</a></li>
+          </ul>
+        </nav>
+        <main className="content" id="main-content">
+          <Routes>
+            <Route path="/" element={<HomePage />} />
+            <Route path="/contact" element={<ContactPage />} />
+            <Route path="*" element={
+              <section className="not-found">
+                <h1>Page not found</h1>
+                <p>Let&apos;s get you back to <Link to="/">Scott Adams AI</Link>.</p>
+              </section>
+            } />
+          </Routes>
+          <footer>
+            <p>V {version}</p>
+          </footer>
+        </main>
+      </div>
     </>
   );
 }
 
 function App() {
-  return (
-    <Router>
-      <div className="container">
-        <div className="background"></div>
-        <nav>
-          <ul>
-            <li><Link to="/">Home</Link></li>
-            <li><Link to="/contact">Contact</Link></li>
-            <li><a href="https://github.com/lando2319/scottAdamsAI/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener noreferrer">Contribute</a></li>
-          </ul>
-        </nav>
-        <div className="content">
-          <Routes>
-            <Route path="/" element={<HomePage />} />
-            <Route path="/contact" element={<ContactPage />} />
-          </Routes>
-          <footer>
-            <p>V {version}</p>
-          </footer>
-        </div>
-      </div>
-    </Router>
-  );
+  return <Router><SiteContent /></Router>;
 }
 
 export default App;

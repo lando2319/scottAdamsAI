@@ -52,6 +52,43 @@ to deploy
 
 `firebase deploy`
 
+### Search visibility
+
+`npm run build` now builds the frontend and prerenders the home page, contact page,
+and a 404 page from the same React components used in the browser. This puts public
+content and page-specific metadata directly in the HTML. `npm run build:site`
+does the same build without increasing the package version.
+
+The build also generates `dist/robots.txt` and `dist/sitemap.xml`. Metadata and the
+list of indexable routes live in `web-app/src/site.js`. If you add a public route,
+add it there as well. Firebase Hosting uses clean URLs for the generated HTML
+files and returns a real 404 for unknown paths instead of rewriting every path
+to the home page. No server-rendering service or new cloud resource is required.
+
+Firebase and App Check initialize when someone submits a question; reading the
+public pages and generating their HTML do not require a token. The callable
+backend still enforces App Check.
+
+After deploying this frontend with `firebase deploy --only hosting`:
+
+1. Verify `scottadamsai.com` in [Google Search Console](https://search.google.com/search-console).
+   Use a Domain property and the DNS TXT verification record Google supplies.
+2. Submit `https://scottadamsai.com/sitemap.xml` in the Sitemaps report.
+3. Inspect `https://scottadamsai.com/` with URL Inspection, run a live test, and
+   request indexing. Check the indexing report for any exclusions or errors.
+4. Track impressions and clicks for `Scott Adams AI` in the Performance report.
+   Search results and their order vary, so use that report to measure progress.
+
+Prioritize `Scott Adams AI`, which describes this specific project. Broader
+`Scott Adams` searches cover many different intents and established sites.
+Publish useful original explanations of the project, its sources, and carefully
+checked examples over time. Share it with relevant fan communities and invite
+genuine links from people who find it useful. Metadata alone cannot guarantee a
+position, and changes can take weeks or longer to show an effect.
+
+See Google's [SEO starter guide](https://developers.google.com/search/docs/fundamentals/seo-starter-guide)
+and [Search Console guide](https://developers.google.com/search/docs/monitor-debug/search-console-start).
+
 # OpenAI
 
 Do a back of the napkin check on the number in my vector store
